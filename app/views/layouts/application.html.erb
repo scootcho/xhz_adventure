@@ -6,6 +6,7 @@
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
   </head>
   <body id="<%= canonical_id @page %>">
+  <div class="container">
     <%= site_bar -%>
     <div id="page_container">
       <header id="header">
@@ -19,5 +20,6 @@
       </footer>
     </div>
     <%= render "/refinery/javascripts" %>
+  </div>
   </body>
 </html>
