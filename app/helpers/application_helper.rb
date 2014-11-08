@@ -2,9 +2,9 @@ module ApplicationHelper
 
   def navigation_menu
     presenter = Refinery::Pages::MenuPresenter.new(refinery_menu_pages, self)
-    presenter.css = "navbar-inner"
+    presenter.css = 'navbar navbar-default" role="navigation'
     presenter.menu_tag = :div
-    presenter.list_tag_css = "nav"
+    presenter.list_tag_css = "nav navbar-nav"
     presenter.selected_css = "active"
     presenter.first_css = ""
     presenter.last_css = ""
