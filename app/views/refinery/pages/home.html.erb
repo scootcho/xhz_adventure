@@ -1,0 +1,38 @@
+<!-- end Image Slider -->
+<section id='image_slider'>
+<div class="orbit-container">
+  <ul data-orbit data-options="animation_speed:1500;">
+    <%=raw @page.content_for(:image_slider) %>
+  </ul>
+
+  <!-- Navigation Arrows -->
+  <a href="#" class="orbit-prev">Prev <span></span></a>
+  <a href="#" class="orbit-next">Next <span></span></a>
+
+  <!-- Slide Numbers -->
+  <div class="orbit-slide-number">
+    <span>1</span> of <span>3</span>
+  </div>
+
+  <!-- Timer and Play/Pause Button -->
+  <div class="orbit-timer">
+    <span></span>
+    <div class="orbit-progress"></div>
+  </div>
+</div>
+
+<!-- Bullets -->
+<ol class="orbit-bullets">
+  <li data-orbit-slide-number="1"></li>
+  <li data-orbit-slide-number="2" class="active"></li>
+  <li data-orbit-slide-number="3"></li>
+</ol>
+</section>
+<!-- end Image Slider -->
+
+<section id='body'>
+  <%=raw @page.content_for(:body) %>
+</section>
+<section id='side_body'>
+  <%=raw @page.content_for(:side_body) %>
+</section>
