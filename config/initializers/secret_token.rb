@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-XhzAdventure::Application.config.secret_token = '034b267f124ddf067740b47139710ffd6e3f5a1be2db1f9bbbcd91d627c159698e6e29e424688c700898ce6e280b9874bb9723e25036843d3eb1acf43d5eb41d'
+XhzAdventure::Application.config.secret_token = 'cd7ca4956cc9e5ab8c50b9139fcd5380de5ed52aed4077174b9a23028fdf541968713330bcb110797fc705091f1efcf3fa1096e37bb0365b9fe28b91ba5c5e31'

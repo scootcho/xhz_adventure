@@ -3,12 +3,6 @@
   <% site_bar = render('/refinery/site_bar', :head => true) -%>
   <head>
     <%= render "/refinery/head" %>
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-
-    <link rel="stylesheet" href="css/foundation.css">
-    <!-- This is how you would link your custom stylesheet -->
-    <link rel="stylesheet" href="css/app.css">
-    <script src="js/vendor/modernizr.js"></script>
   </head>
   <body id="<%= canonical_id @page %>">
     <%= site_bar -%>
@@ -24,17 +18,5 @@
       </footer>
     </div>
     <%= render "/refinery/javascripts" %>
-
-    <!-- foundation -->
-    <script src="js/vendor/jquery.js"></script>
-    <script src="js/foundation/foundation.js"></script>
-    <script src="js/foundation/foundation.topbar.js"></script>
-    <!-- Other JS plugins can be included here -->
-
-    <script>
-      $(document).foundation();
-    </script>
-
-    <!-- end foundation -->
   </body>
 </html>

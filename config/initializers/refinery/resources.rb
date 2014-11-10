@@ -20,7 +20,7 @@ Refinery::Resources.configure do |config|
   # Configure Dragonfly
   # This is where in the middleware stack to insert the Dragonfly middleware
   # config.dragonfly_insert_before = "ActionDispatch::Callbacks"
-  # config.dragonfly_secret = "fbdd444b14e644958554c38e17088769790371f59d2cb00a"
+  # config.dragonfly_secret = "a588f367ae8b0ea2b4e36ac4e6637ca6f92964daf64aa835"
   # config.dragonfly_url_format = "/system/resources/:job/:basename.:format"
   # config.dragonfly_url_host = ""
   # config.datastore_root_path = "/home/revbox/projects/xhz_adventure/public/system/refinery/resources"
