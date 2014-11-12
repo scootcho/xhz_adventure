@@ -1,35 +1,26 @@
 <!-- end Image Slider -->
 <section id='image_slider'>
-<div class="row">
-<div class="small-10 large-centered columns">
-<div class="orbit-container">
-  <ul data-orbit data-options="animation_speed:1000;">
+  <div class="img">
     <%=raw @page.content_for(:image_slider) %>
-  </ul>
-
-  <!-- Navigation Arrows -->
-  <a href="#" class="orbit-prev">Prev <span></span></a>
-  <a href="#" class="orbit-next">Next <span></span></a>
-
-  <!-- Slide Numbers -->
-  <div class="orbit-slide-number">
-    <span>1</span> of <span>3</span>
   </div>
-
-  <!-- Timer and Play/Pause Button -->
-  <div class="orbit-timer">
-    <span></span>
-    <div class="orbit-progress"></div>
-  </div>
-</div>
-</div>
-</div>
 </section>
+
 <!-- end Image Slider -->
 
-<section id='body'>
-  <%=raw @page.content_for(:body) %>
-</section>
-<section id='side_body'>
+<hr/>
+<div class="row" data-equalizer>
+<div class="small-6 columns">
+<div class="panel" data-equalizer-watch>
+    <dd class="accordion-navigation">
+    <%=raw @page.content_for(:body) %>
+    </dd>    
+</div>
+</div>
+
+</hr>
+<div class="small-6 columns">
+<div class="panel" data-equalizer-watch>
   <%=raw @page.content_for(:side_body) %>
-</section>
+  </div>
+</div>
+</div>
