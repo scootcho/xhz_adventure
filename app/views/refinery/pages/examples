@@ -1,0 +1,23 @@
+<%= link_to Refinery::Core.site_name, refinery.root_path %>
+
+<%= image_tag 'images/logo.png', size: "150x150", alt: 'Xhz Adventure School' %>
+
+
+
+<hr/>
+<div class="row" data-equalizer>
+<div class="small-6 columns">
+<div class="panel" data-equalizer-watch>
+    <dd class="accordion-navigation">
+    <%=raw @page.content_for(:body) %>
+    </dd>
+</div>
+</div>
+
+</hr>
+<div class="small-6 columns">
+<div class="panel" data-equalizer-watch>
+  <%=raw @page.content_for(:side_body) %>
+  </div>
+</div>
+</div>
