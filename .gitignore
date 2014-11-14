@@ -85,7 +85,7 @@ capybara-*html
 public/assets
 
 #Gemfile's lock file
-Gemfile.lock
+#Gemfile.lock
 
 # Local Gemfile for developing without sharing dependencies
 .gemfile
