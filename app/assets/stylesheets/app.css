@@ -10,6 +10,16 @@ header {
 
 footer {
 }
+
+.philosophy {
+  text-align: center;
+  background: #333;
+  color:#fff;"
+  padding: 5px 0px !important;
+  line-height: 200%;
+}
+
+
 .top-bar {
   .title-area { z-index: 2; }
 }
