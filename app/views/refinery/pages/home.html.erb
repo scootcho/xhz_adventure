@@ -6,21 +6,18 @@
 </section>
 
 <!-- end Image Slider -->
-
-<hr/>
+<div class="panel">
 <div class="row" data-equalizer>
-<div class="small-6 columns">
-<div class="panel" data-equalizer-watch>
-    <dd class="accordion-navigation">
-    <%=raw @page.content_for(:body) %>
-    </dd>    
-</div>
-</div>
+  <div class="small-4 columns">
+    <div class="panel" data-equalizer-watch>
+      <h1>最新消息</h1>
+    </div>
+  </div>
 
-</hr>
-<div class="small-6 columns">
-<div class="panel" data-equalizer-watch>
-  <%=raw @page.content_for(:side_body) %>
+  <div class="small-8 columns">
+    <div class="panel" data-equalizer-watch>
+      <%=raw @page.content_for(:body) %>
+    </div>
   </div>
 </div>
 </div>
