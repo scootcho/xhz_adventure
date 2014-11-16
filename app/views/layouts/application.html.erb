@@ -19,30 +19,8 @@
     </div>
     <%= render "/refinery/javascripts" %>
 
-
     <script>
       $(document).foundation();
-    </script>
-
-
-    <script type="text/javascript">
-      var map;
-      $(document).ready(function(){
-        map = new GMaps({
-          el: '#map',
-          lat: 25.0465658,
-          lng: 121.5488669,
-          zoomControl : true,
-          zoomControlOpt: {
-              style : 'SMALL',
-              position: 'TOP_LEFT'
-          },
-          panControl : false,
-          streetViewControl : false,
-          mapTypeControl: false,
-          overviewMapControl: false
-        });
-      });
     </script>
 
   </body>
