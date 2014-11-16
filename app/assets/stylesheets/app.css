@@ -2,9 +2,8 @@
 header {
 }
 
-
 #logo img{
-  height: 100px;
+  height: 80px;
   width:auto;
 }
 
@@ -51,10 +50,15 @@ footer {
   padding: 10px;
 }
 
+// Social Bar
+
+
+
+
 
 //Contact Section
 
-#page#xhzzz {
+#page#contact-head {
   background-color: #333;
   text-align: center !important;
 
