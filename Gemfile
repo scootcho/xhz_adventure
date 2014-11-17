@@ -4,6 +4,7 @@ ruby '2.1.2'
 gem 'rails', '3.2.15'
 gem 'pg'
 gem 'font-awesome-rails'
+gem 'yaml_db'
 
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'

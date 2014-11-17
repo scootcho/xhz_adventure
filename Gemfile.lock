@@ -180,6 +180,9 @@ GEM
     warden (1.2.3)
       rack (>= 1.0)
     will_paginate (3.0.7)
+    yaml_db (0.3.0)
+      rails (>= 3.0, < 4.3)
+      rake (>= 0.8.7)
 
 PLATFORMS
   ruby
@@ -195,3 +198,4 @@ DEPENDENCIES
   refinerycms-acts-as-indexed (~> 1.0.0)
   sass-rails (~> 3.2.3)
   uglifier (>= 1.0.3)
+  yaml_db
