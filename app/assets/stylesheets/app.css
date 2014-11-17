@@ -29,20 +29,9 @@ footer {
 
 //Homepage Image Background
 
-.img {
-  position: relative;
-  width: 100%;
-}
 
-.img p {
-  color: #fff;
-  float:right;
-  top: 30%;
-  left: 0px;
-  font: bold 50px Helvetica, Sans-Serif;
-  text-align: center;
-  letter-spacing: -1px;
-  padding: 10px;
+ul.orbit-slides-container li {
+  list-style-type: none;
 }
 
 // Social Bar

@@ -1,8 +1,28 @@
 <!-- Image Slider -->
-<section id='image_slider'>
-  <div class="img">
-    <%=raw @page.content_for(:image_slider) %>
-  </div>
+<section id='image_slider' style="width:100%;">
+<div class='slideshow-wrapper'>
+  <div class='preloader'></div>
+  <ul data-orbit data-options="slide_number:false; swipe:true; timer_speed:2000; bullets:false;">
+    <li>
+      <%= image_tag("cover1.jpg") %>
+    </li>
+    <li>
+      <%= image_tag("cover2.jpg") %>
+    </li>
+    <li>
+      <%= image_tag("cover3.jpg") %>
+    </li>
+    <li>
+      <%= image_tag("cover4.jpg") %>
+    </li>
+    <li>
+      <%= image_tag("cover5.jpg") %>
+    </li>
+    <li>
+      <%= image_tag("cover6.jpg") %>
+    </li>
+  <ul>
+</div>
 </section>
 <!-- End Image Slider -->
 
