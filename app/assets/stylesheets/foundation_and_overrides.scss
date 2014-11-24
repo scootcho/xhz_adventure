@@ -135,10 +135,39 @@ ul.orbit-slides-container li {
   padding: 0px 10px;
 }
 
+//End Home Page Custom
+
+
+//About Page Section
+
+#aboutbody{
+  padding: 4em;
+  .row h1 {
+    background: #333;
+    color: #fff;
+    padding: 0.5em;
+    border-radius: 3px;
+  }
+  .row p img {
+    max-width:50%;
+    float: right;
+    padding: 2em;
+  }
+}
 
 
 
-//End of Custom Section
+
+
+
+
+
+
+
+
+
+
+
 
 
 
