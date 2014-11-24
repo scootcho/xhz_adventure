@@ -1,8 +1,148 @@
 // Foundation by ZURB
 // foundation.zurb.com
 // Licensed under MIT Open Source
-
 //
+
+// Navigation
+
+header {
+}
+
+#logo img{
+  height: 80px;
+  width:auto;
+}
+
+#page {
+}
+
+// Footer
+
+footer {
+}
+
+.philosophy {
+  text-align: center;
+  background: #333;
+  color:#fff;
+  padding: 5px 0px !important;
+  line-height: 200%;
+}
+
+
+.top-bar {
+  .title-area { z-index: 2; }
+}
+
+
+//Homepage Image Background
+
+ul.orbit-slides-container li {
+  list-style-type: none;
+}
+
+
+// Social Bar
+
+#socialbar ul {
+  margin-top: 20px;
+  li {
+  display:inline;
+  padding: 0px 30px;
+  }
+}
+
+
+//News Section
+
+#newssect{
+  background-color: #333;
+  padding: 2em;
+  .small-3.small-centered.columns {
+    text-align:center;
+    color:white;
+    border-color:#fff; 
+    border-style:solid;
+    border-radius: 3px;
+    h1 {
+      color:white;
+    }
+  }
+}
+
+
+//Service Section
+
+#servicesect {
+  padding:2em; 
+  color:#333;
+  .small-3.small-centered.columns {
+    text-align:center;
+    border-style:solid;
+    border-radius: 3px;
+  }
+}
+
+
+//Attention Section
+
+#attsect {
+  background-color: #333;
+  padding: 2em;
+  h1 {
+    color: white;
+  }
+}
+
+
+//Contact Section
+
+#contactsect{
+  padding:2em; 
+  color:#333;
+  .small-3.small-centered.columns {
+    text-align:center;
+    border-style:solid;
+    border-radius: 3px;
+  }
+}
+
+#comp-info{
+  ul {
+    list-style-type: none;
+    display: inline;
+  }
+}
+
+
+// Google Maps
+
+#maps{
+  width: 100%;
+  height: 400px;
+  position: relative;
+  overflow: hidden;
+  transform: translateZ(0px);
+  background-color: rgb(229, 227, 223);
+}
+
+.comp-info {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.comp-info ul li {
+  display: inline;
+  padding: 0px 10px;
+}
+
+
+
+
+//End of Custom Section
+
+
+
+
 
 // Table of Contents
 // Foundation Settings
