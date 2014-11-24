@@ -50,27 +50,23 @@
 
 
 <!-- News Section -->
-<div class="panel">
-  <div class="row" data-equalizer>
-    <div class="small-4 columns">
-      <div class="panel" data-equalizer-watch>
-        <h1>最新消息</h1>
-        </br>
-        <i class="fa fa-newspaper-o fa-3x"></i>
-      </div>
+<div class="sectionbox" style="background-color: #333; padding: 2em;">
+  <div class="small-3 small-centered columns"  style="text-align:center;  color:white; border-color:#fff; border-style:solid; border-radius: 3px;">
+    <h1 style="color:white;">最新消息</h1>
+    <i class="fa fa-newspaper-o fa-2x"></i>
+  </div>
+  </br>
+  <div class="row">
+    <div class="panel">
+      <%=raw @page.content_for(:body) %>
     </div>
-
-    <div class="small-8 columns">
-      <div class="panel" data-equalizer-watch>
-        <%=raw @page.content_for(:body) %>
-      </div>
     </div>
   </div>
 </div>
 <!-- News Section End-->
 
 <!-- Contact Section -->
-<div id="contact-head" style="text-align:center;">
+<div id="contact-head" style="text-align:center; padding: 2em;">
   <div class="row">
     <h1>聯絡我們</h1>
   </br>
