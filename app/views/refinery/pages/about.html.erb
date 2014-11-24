@@ -1,8 +1,18 @@
-<section id='aboutbody'>
+<section id='aboutcoach'>
   <div class="row">
-    <%=raw @page.content_for(:body) %>
+    <%=raw @page.content_for(:coach) %>
   </div>
 </section>
-<section id='side_body'>
-  <%=raw @page.content_for(:side_body) %>
+</br>
+<div class="row">
+  <ul class="clearing-thumbs small-block-grid-4" data-clearing>
+    <li><%= image_tag("cover1.jpg") %></li>
+
+
+  </ul>
+</div>
+<section id='aboutteam'>
+  <div class="row">
+    <%=raw @page.content_for(:team) %>
+  </div>
 </section>

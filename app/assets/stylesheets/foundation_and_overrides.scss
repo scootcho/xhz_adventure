@@ -140,7 +140,7 @@ ul.orbit-slides-container li {
 
 //About Page Section
 
-#aboutbody{
+#aboutcoach {
   padding: 4em;
   .row h1 {
     background: #333;
@@ -156,6 +156,20 @@ ul.orbit-slides-container li {
 }
 
 
+#aboutteam {
+  padding: 4em;
+  .row h1 {
+    background: #333;
+    color: #fff;
+    padding: 0.5em;
+    border-radius: 3px;
+  }
+  .row p img {
+    max-width:50%;
+    float: right;
+    padding: 2em;
+  }
+}
 
 
 
