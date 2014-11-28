@@ -8,9 +8,21 @@
 header {
 }
 
-#logo img{
-  height: 80px;
-  width:auto;
+
+#logo {
+  a img {
+    height: 76px;
+    width:auto;
+    padding: 2px;
+  }
+  a span {
+    float: right;
+    display: inline block;
+    padding: 0 0.5em;
+    line-height: 76px;
+    font-size: 2em;
+    color: #fff;
+  }
 }
 
 #page {
@@ -29,10 +41,6 @@ footer {
   line-height: 200%;
 }
 
-
-.top-bar {
-  .title-area { z-index: 2; }
-}
 
 
 //Homepage Image Background
@@ -1548,7 +1556,7 @@ $preloader-class: "preloader";
 // $topbar-bg: $topbar-bg-color;
 
 // Height and margin
-$topbar-height: 80px;
+$topbar-height: 76px;
 // $topbar-margin-bottom: 0;
 
 // Controlling the styles for the title in the top bar
