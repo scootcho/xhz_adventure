@@ -20,7 +20,7 @@ header {
     display: inline block;
     padding: 0 0.5em;
     line-height: 76px;
-    font-size: 2em;
+    font-size: 1.5em;
     color: #fff;
   }
 }
@@ -204,8 +204,9 @@ ul.orbit-slides-container li {
 #servicecontent {
   img {
     float: right;
-    margin-left: 6px;
-    margin-bottom: 6px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
     display: inline-block;
     vertical-align: middle;
     max-width: 100%;
@@ -227,11 +228,13 @@ ul.orbit-slides-container li {
     border-color: #333;
     border-radius: 3px;
     color: #333;
+    margin-bottom: 20px;
   }
   .row img {
     float: right;
-    margin-left: 6px;
-    margin-bottom: 6px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
     display: inline-block;
     vertical-align: middle;
     max-width: 100%;
