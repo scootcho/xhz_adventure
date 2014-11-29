@@ -63,8 +63,14 @@ ul.orbit-slides-container li {
 #socialbar ul {
   margin-top: 20px;
   li {
-  display:inline;
-  padding: 0px 30px;
+    display:inline;
+    padding: 0px 30px;
+    :hover {
+      color:#008CBA;
+    }
+    i {
+      color: #333;
+    }
   }
 }
 
@@ -84,6 +90,12 @@ ul.orbit-slides-container li {
       color:white;
     }
   }
+}
+
+#newssect div.row div.panel {
+  border-radius: 5px;
+  max-height: 66666600px;
+  overflow-y: scroll;
 }
 
 
