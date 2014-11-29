@@ -43,7 +43,15 @@ footer {
 
 
 
-//Homepage Image Background
+// Image Background
+
+ul.orbit-slides-container ul{
+  display: none;
+  .active {
+    display: none;
+  }
+}
+
 
 ul.orbit-slides-container li {
   list-style-type: none;
