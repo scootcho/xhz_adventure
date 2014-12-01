@@ -49,6 +49,26 @@ refinery_user_plugins:
     - '1'
     - refinery_pages
     - '4'
+  - - '6'
+    - '1'
+    - refinery_i18n
+    - '5'
+  - - '7'
+    - '1'
+    - refinery_core
+    - '6'
+  - - '8'
+    - '1'
+    - refinery_dialogs
+    - '7'
+  - - '9'
+    - '1'
+    - visitor_inquiries
+    - '8'
+  - - '10'
+    - '1'
+    - refinery_settings
+    - '9'
 
 ---
 refinery_page_part_translations:
@@ -108,8 +128,12 @@ refinery_page_part_translations:
     - '12'
     - en
     - '2014-11-17 06:39:46.072823'
-    - '2014-11-17 06:39:46.072823'
-    - ''
+    - '2014-12-01 03:17:28.330651'
+    - "<h1 class=\"text-align-center\">專案規劃</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">Team
+      Building</h2>\r\n\r\n<img src=\"http://i.imgur.com/9zHYU2N.jpg\" />\r\n<p>如果「團隊」沒有願景、共識和向心力就只是「一群人」，和同一列火車的乘客、同一場電影的觀眾沒有兩樣。企業主管肩負求創造經營績效、提升競爭力的重要任務，如何讓「一群人」形成一個「團隊」，是無時無刻都在進行的基礎工程，更是使企業永續成長的關鍵。<br
+      />小鬍子冒險學校有具有多年產業經驗、團隊建立授課經驗的引導員講師群，以完善規劃的活動，讓所有參與伙伴經由反思、歸納、應用，明白什麼是有效的團隊、知道團隊的組合及其成功因素、發現團隊在運作及建立中所經歷的階段和困難、明白領袖及其風格在團隊中的影響。透過團隊活動，鼓勵團隊的隊員間互信與合作。<br
+      />小鬍子冒險學校將依您的獨特需求，量身訂做專屬的Team building課程，歡迎各公司行號來電洽詢！<br />\r\n</p>\r\n\r\n<a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />"
   - - '13'
     - '13'
     - en
@@ -469,7 +493,7 @@ refinery_page_part_translations:
     - '36'
     - en
     - '2014-11-30 12:03:14.853567'
-    - '2014-11-30 15:15:45.780908'
+    - '2014-12-01 04:58:13.975862'
     - "<h1 class=\"text-align-center\">雪訓課程</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">初級雪訓–合歡山</h2>\r\n\r\n<img
       src=\"http://i.imgur.com/PGGpfTr.jpg\" />\r\n<p>◎課程項目：</p>\r\n<ul><li><span
       style=\"background-color: transparent;\">雪訓操作裝備及身心體能的準備</span>\r\n</li>\r\n<li><span
@@ -479,34 +503,39 @@ refinery_page_part_translations:
       style=\"background-color: transparent;\">繩隊攀登確保連結與行進操作</span>\r\n</li>\r\n</ul>\r\n<p>◎課程時間：<br
       />第一梯　1/17 ～1/20……1/06行前課程<br />第二梯　1/31～2/03……1/20行前課程<br />第三梯　2/14～2/17……2/03行前課程</p>\r\n<p>◎課程地點：<br
       />行前課程：小鬍子冒險學校<br />雪訓場地：合歡山山區　※需住滑雪山莊，費用自付。</p>\r\n<p>◎個人必需裝備︰</p>\r\n<ol><li><span
-      style=\"background-color: transparent;\">大背包（70L以上）　　　　　　　　</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">背包套和內層防水袋　　　　　　　　</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">睡墊（泡棉）　　　　　　　　　　　</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">睡袋（露宿袋）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">硬式登山鞋（雙重靴）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">登山襪（羊毛襪）</span>\r\n</li><li><span style=\"background-color: transparent;\">登山杖</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">雨衣褲</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">綁腿</span>\r\n</li><li><span style=\"background-color: transparent;\">防雪手套（防水、保暖）</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">貼身衣物（PP）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">保暖衣物（派爾及羽毛衣）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">保暖帽</span>\r\n</li><li><span style=\"background-color: transparent;\">雪鏡</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">低音哨</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">水壺（保溫瓶）</span>\r\n</li><li><span style=\"background-color: transparent;\">防曬油及護脣膏</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">地圖、指北針及相關資料&#160;</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">頭燈（備電池）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">個人餐具、伙食（行動糧）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">鍋具、爐具、瓦斯、火柴</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">個人證件及藥品等</span>\r\n</li><li><span style=\"background-color: transparent;\">安全頭盔</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">安全吊帶</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">長冰斧</span>\r\n</li><li><span style=\"background-color: transparent;\">冰爪（快扣式或綁帶式）</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">大D有鎖勾環 X 4</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">無鎖勾環 X 4</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">50cm繩環 X 2</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">8字環</span>\r\n</li><li><span style=\"background-color: transparent;\">6mm普魯士繩250cm、150cm各1條</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">備用衣物</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">塑膠袋</span>\r\n</li><li><span style=\"background-color: transparent;\">小背包</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">防水布、求生紙</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">動力單繩30m以上(2人以上共同使用)</span>\r\n</li></ol>\r\n<p>◎建議裝備：</p>\r\n<ol><li><span
+      style=\"background-color: transparent;\">大背包（70L以上）　　　　　　　　</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">背包套和內層防水袋　　　　　　　　</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">睡墊（泡棉）　　　　　　　　　　　</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">睡袋（露宿袋）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">硬式登山鞋（雙重靴）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">登山襪（羊毛襪）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">登山杖</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">雨衣褲</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">綁腿</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">防雪手套（防水、保暖）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">貼身衣物（PP）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">保暖衣物（派爾及羽毛衣）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">保暖帽</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">雪鏡</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">低音哨</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">水壺（保溫瓶）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">防曬油及護脣膏</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">地圖、指北針及相關資料&#160;</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">頭燈（備電池）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">個人餐具、伙食（行動糧）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">鍋具、爐具、瓦斯、火柴</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">個人證件及藥品等</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">安全頭盔</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">安全吊帶</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">長冰斧</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">冰爪（快扣式或綁帶式）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">大D有鎖勾環 X 4</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">無鎖勾環 X 4</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">50cm繩環 X 2</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">8字環</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">6mm普魯士繩250cm</span>\r\n</li><li><span style=\"background-color:
+      transparent;\">6mm普魯士繩150cm</span>\r\n</li><li><span style=\"background-color:
+      transparent;\">備用衣物</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">塑膠袋</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">小背包</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">防水布、求生紙</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">動力單繩30m以上(2人以上共同使用)</span>\r\n</li>\r\n</ol>\r\n<p>◎建議裝備：</p>\r\n<ol><li><span
       style=\"background-color: transparent;\">睡袋內套</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">備用雪鏡或墨鏡</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">暖暖袋</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">相機</span>\r\n</li>\r\n<li><span
@@ -520,108 +549,121 @@ refinery_page_part_translations:
       style=\"background-color: transparent;\">報名事項請參考報名表上內容。</span>\r\n</li>\r\n</ul>\r\n\r\n<p><a
       href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n</p>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">初級雪訓課程-雪山</h2>\r\n<img
       src=\"http://i.imgur.com/BZveCT6.jpg\" />\r\n<p>◎課程項目：</p>\r\n<ul><li><span
-      style=\"background-color: transparent;\">雪訓操作裝備及身心體能的準備</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">雪地行前綜合步伐</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">滑落制動練習與滑降操作</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">雪地固定繩結支點架設運用</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">繩隊攀登確保連結與行進操作</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">雪地生活</span>\r\n</li></ul>\r\n<p>◎課程時間：<br />第一梯　1/24～1/28……1/13行前課程<br
-      />第二梯　2/11～2/15……2/03行前課程</p>\r\n<p>◎課程地點：<br />行前課程：小鬍子冒險學校<br />雪訓場地：雪山山區</p>\r\n<p>◎個人必需裝備︰</p>\r\n<ol><li><span
-      style=\"background-color: transparent;\">大背包（70L以上）</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">背包套和內層防水袋</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">睡墊（泡棉）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">睡袋（露宿袋）</span>\r\n</li><li><span style=\"background-color: transparent;\">硬式登山鞋（雙重靴）</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">登山襪（羊毛襪）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">登山杖</span>\r\n</li><li><span style=\"background-color: transparent;\">雨衣褲</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">綁腿</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">防雪手套（防水、保暖）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">貼身衣物（PP）</span>\r\n</li><li><span style=\"background-color: transparent;\">保暖衣物（派爾及羽毛衣）</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">保暖帽</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">雪鏡</span>\r\n</li><li><span style=\"background-color: transparent;\">低音哨</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">水壺（保溫瓶）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">防曬油及護脣膏</span>\r\n</li><li><span style=\"background-color: transparent;\">地圖、指北針及相關資料</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">頭燈（備電池）\t20、個人餐具、伙食（行動糧）</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">鍋具、爐具、瓦斯、火柴</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">個人證件及藥品等</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">安全頭盔</span>\r\n</li><li><span style=\"background-color: transparent;\">安全吊帶</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">長冰斧</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">冰爪（快扣式或綁帶式）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">大D有鎖勾環 X 4</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">無鎖勾環 X 4</span>\r\n</li><li><span style=\"background-color: transparent;\">50cm繩環
-      X 2</span>\r\n</li><li><span style=\"background-color: transparent;\">8字環</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">6mm普魯士繩250cm、150cm各1條</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">備用衣物</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">塑膠袋</span>\r\n</li><li><span style=\"background-color: transparent;\">小背包</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">防水布、求生紙</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">動力單繩30m以上(2人以上共同使用)</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">帳篷</span>\r\n</li></ol>\r\n<p><span style=\"background-color:
-      transparent;\">◎建議裝備：</span>\r\n</p><ul><li><span style=\"background-color:
-      transparent;\">睡袋內套</span>\r\n</li><li><span style=\"background-color: transparent;\">備用雪鏡或墨鏡</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">暖暖袋</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">相機</span>\r\n</li><li><span style=\"background-color: transparent;\">便鞋</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">毛巾</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">筆記本、筆、錢</span>\r\n</li><li><span style=\"background-color: transparent;\">擋風板</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">營燈</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">望遠鏡</span>\r\n</li></ul>\r\n<p>◎注意事項：</p>\r\n<ul><li><span style=\"background-color:
-      transparent;\">參與雪訓需有登山基礎。</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">因顧及訓練教育及安全考量，所有參加人均需團進團出。</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">報名事項請參考報名表上內容。</span>\r\n</li></ul>\r\n\r\n\r\n<a href=\"/聯絡我們\"
-      class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">中級雪訓-玉山</h2>\r\n<img
+      style=\"background-color: transparent;\">雪訓操作裝備及身心體能的準備</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">雪地行前綜合步伐</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">滑落制動練習與滑降操作</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">雪地固定繩結支點架設運用</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">繩隊攀登確保連結與行進操作</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">雪地生活</span>\r\n</li>\r\n</ul>\r\n<p>◎課程時間：<br
+      />第一梯　1/24～1/28……1/13行前課程<br />第二梯　2/11～2/15……2/03行前課程</p>\r\n<p>◎課程地點：<br />行前課程：小鬍子冒險學校<br
+      />雪訓場地：雪山山區</p>\r\n<p>◎個人必需裝備︰</p>\r\n<ol><li><span style=\"background-color:
+      transparent;\">大背包（70L以上）</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">背包套和內層防水袋</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">睡墊（泡棉）</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">睡袋（露宿袋）</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">硬式登山鞋（雙重靴）</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">登山襪（羊毛襪）</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">登山杖</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">雨衣褲</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">綁腿</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">防雪手套（防水、保暖）</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">貼身衣物（PP）</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">保暖衣物（派爾及羽毛衣）</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">保暖帽</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">雪鏡</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">低音哨</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">水壺（保溫瓶）</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">防曬油及護脣膏</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">地圖、指北針及相關資料</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">頭燈（備電池）</span>\r\n</li><li><span style=\"background-color: transparent;\">個人餐具、伙食（行動糧）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">鍋具、爐具、瓦斯、火柴</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">個人證件及藥品等</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">安全頭盔</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">安全吊帶</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">長冰斧</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">冰爪（快扣式或綁帶式）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">大D有鎖勾環 X 4</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">無鎖勾環 X 4</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">50cm繩環 X 2</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">8字環</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">6mm普魯士繩250cm</span>\r\n</li><li><span style=\"background-color:
+      transparent;\">6mm普魯士繩150cm</span>\r\n</li><li><span style=\"background-color:
+      transparent;\">備用衣物</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">塑膠袋</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">小背包</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">防水布、求生紙</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">帳篷</span>\r\n</li><li><span style=\"background-color: transparent;\">動力單繩30m以上(2人以上共同使用)</span>\r\n</li></ol>\r\n<p><span
+      style=\"background-color: transparent;\">◎建議裝備：</span>\r\n</p>\r\n<ol><li><span
+      style=\"background-color: transparent;\">睡袋內套</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">備用雪鏡或墨鏡</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">暖暖袋</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">相機</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">便鞋</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">毛巾</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">筆記本、筆、錢</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">擋風板</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">營燈</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">望遠鏡</span>\r\n</li>\r\n</ol>\r\n<p>◎注意事項：</p>\r\n<ul><li><span
+      style=\"background-color: transparent;\">參與雪訓需有登山基礎。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">因顧及訓練教育及安全考量，所有參加人均需團進團出。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">報名事項請參考報名表上內容。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">中級雪訓-玉山</h2>\r\n<img
       src=\"http://i.imgur.com/eppNVrG.jpg\" />\r\n<p><span style=\"background-color:
-      transparent;\">◎課程項目：</span>\r\n</p><ul><li><span style=\"background-color:
-      transparent;\">體適能　</span>\r\n</li><li><span style=\"background-color: transparent;\">繩結運用</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">平衡攀登　</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">滑落制動　</span>\r\n</li><li><span style=\"background-color: transparent;\">滑降　</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">雪地綜合行進</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">繩隊行進確保\t 8. 輔助攀登</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">固定點架設運用</span>\r\n</li><li><span style=\"background-color: transparent;\">冰雪岩器楔運用</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">冰壁岩壁土坡沙地模擬訓練</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">隔時攀登</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">同時攀登練習</span>\r\n</li></ul>\r\n<p>◎課程時間：<br />第一梯　1/26～1/31……1/13行前課程<br
-      />第二梯　2/12～2/17……2/03行前課程</p>\r\n<p>◎課程地點：<br />雪訓場地：玉山山區<br />行前課程：小鬍子冒險學校<br
-      />※若因玉山靜山期則雪訓地點改雪山聖稜。</p>\r\n<p>◎個人必需裝備︰</p>\r\n<ul><li><span style=\"background-color:
-      transparent;\">大、小背包</span>\r\n</li><li><span style=\"background-color: transparent;\">背包套和內層防水袋　</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">睡墊（泡棉）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">睡袋（露宿袋）</span>\r\n</li><li><span style=\"background-color: transparent;\">硬底鞋或雙重靴</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">登山襪2雙（羊毛襪）</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">雪杖</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">雨衣褲</span>\r\n</li><li><span style=\"background-color: transparent;\">綁腿</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">防雪手套（防水、保暖）</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">貼身衣物（PP）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">保暖衣物（派爾及羽毛衣）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">保暖帽</span>\r\n</li><li><span style=\"background-color: transparent;\">雪鏡</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">低音哨</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">水壺（保溫瓶）</span>\r\n</li><li><span style=\"background-color: transparent;\">防曬油及護脣膏</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">地圖、指北針及相關資料</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">頭燈（備電池）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">個人餐具、伙食（行動糧）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">鍋具、爐具、瓦斯、火柴</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">個人證件及藥品等</span>\r\n</li><li><span style=\"background-color: transparent;\">安全頭盔</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">安全吊帶</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">短冰斧2支</span>\r\n</li><li><span style=\"background-color: transparent;\">冰爪（快扣式或綁帶式）</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">大D有鎖勾環 X 4</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">無鎖勾環 X 4</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">50cm繩環 X 4</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">8字環</span>\r\n</li><li><span style=\"background-color: transparent;\">6mm普魯士繩250cm、150cm各1條</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">備用衣物</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">塑膠袋</span>\r\n</li><li><span style=\"background-color: transparent;\">小背包</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">防水布、求生紙</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">動力單繩50m以上(2人以上共同使用)</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">螺旋冰鑽2支</span>\r\n</li><li><span style=\"background-color: transparent;\">岩釘3支</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">露宿袋、外帳</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">背包套</span>\r\n</li><li><span style=\"background-color: transparent;\">猶瑪</span>\r\n</li></ul>\r\n<p>◎建議裝備：</p>\r\n<ul><li><span
-      style=\"background-color: transparent;\">睡袋內套</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">備用雪鏡或墨鏡</span>\r\n</li><li><span style=\"background-color: transparent;\">望遠鏡</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">相機</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">便鞋</span>\r\n</li><li><span style=\"background-color: transparent;\">毛巾</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">筆記本、筆、錢</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">擋風板</span>\r\n</li><li><span style=\"background-color: transparent;\">營燈</span>\r\n</li></ul>\r\n<p>◎注意事項：</p>\r\n<ul><li><span
-      style=\"background-color: transparent;\">參與中級雪訓需有已學習初級雪訓之證明，方可報名。</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">因顧及訓練教育及安全考量，所有參加人均需團進團出。</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">報名事項請參考報名表上內容。</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">消或延期課程之退費規定：玉山國家公園雪季申請雪訓名額有限，於上課日起一個月前送件申請後，提出取消則退課程費用50%，提出延期需扣課程費用30%之行政費用。</span>\r\n</li></ul>\r\n\r\n\r\n<a
+      transparent;\">◎課程項目：</span>\r\n</p>\r\n<ul><li><span style=\"background-color:
+      transparent;\">體適能　</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">繩結運用</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">平衡攀登　</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">滑落制動　</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">滑降　</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">雪地綜合行進</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">繩隊行進確保\t 8. 輔助攀登</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">固定點架設運用</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">冰雪岩器楔運用</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">冰壁岩壁土坡沙地模擬訓練</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">隔時攀登</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">同時攀登練習</span>\r\n</li>\r\n</ul>\r\n<p>◎課程時間：<br
+      />第一梯　1/26～1/31……1/13行前課程<br />第二梯　2/12～2/17……2/03行前課程</p>\r\n<p>◎課程地點：<br />雪訓場地：玉山山區<br
+      />行前課程：小鬍子冒險學校<br />※若因玉山靜山期則雪訓地點改雪山聖稜。</p>\r\n<p>◎個人必需裝備︰</p>\r\n<ol><li><span
+      style=\"background-color: transparent;\">大、小背包</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">背包套和內層防水袋　</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">睡墊（泡棉）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">睡袋（露宿袋）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">硬底鞋或雙重靴</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">登山襪2雙（羊毛襪）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">雪杖</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">雨衣褲</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">綁腿</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">防雪手套（防水、保暖）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">貼身衣物（PP）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">保暖衣物（派爾及羽毛衣）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">保暖帽</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">雪鏡</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">低音哨</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">水壺（保溫瓶）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">防曬油及護脣膏</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">地圖、指北針及相關資料</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">頭燈（備電池）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">個人餐具、伙食（行動糧）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">鍋具、爐具、瓦斯、火柴</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">個人證件及藥品等</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">安全頭盔</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">安全吊帶</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">短冰斧2支</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">冰爪（快扣式或綁帶式）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">大D有鎖勾環 X 4</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">無鎖勾環 X 4</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">50cm繩環 X 4</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">8字環</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">6mm普魯士繩250cm</span>\r\n</li><li><span style=\"background-color:
+      transparent;\">6mm普魯士繩150cm</span>\r\n</li><li><span style=\"background-color:
+      transparent;\">備用衣物</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">塑膠袋</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">小背包</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">防水布、求生紙</span>\r\n</li><li><span style=\"background-color: transparent;\">螺旋冰鑽2支</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">岩釘3支</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">露宿袋、外帳</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">背包套</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">猶瑪</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">動力單繩50m以上(2人以上共同使用)</span>\r\n</li></ol>\r\n<p>◎建議裝備：</p>\r\n<ol><li><span
+      style=\"background-color: transparent;\">睡袋內套</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">備用雪鏡或墨鏡</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">望遠鏡</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">相機</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">便鞋</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">毛巾</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">筆記本、筆、錢</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">擋風板</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">營燈</span>\r\n</li>\r\n</ol>\r\n<p>◎注意事項：</p>\r\n<ul><li><span
+      style=\"background-color: transparent;\">參與中級雪訓需有已學習初級雪訓之證明，方可報名。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">因顧及訓練教育及安全考量，所有參加人均需團進團出。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">報名事項請參考報名表上內容。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">消或延期課程之退費規定：玉山國家公園雪季申請雪訓名額有限，於上課日起一個月前送件申請後，提出取消則退課程費用50%，提出延期需扣課程費用30%之行政費用。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
       href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n\r\n"
   - - '37'
     - '37'
@@ -803,10 +845,14 @@ refinery_page_parts:
   - - '12'
     - '6'
     - Body
-    - ''
+    - "<h1 class=\"text-align-center\">專案規劃</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">Team
+      Building</h2>\r\n\r\n<img src=\"http://i.imgur.com/9zHYU2N.jpg\" />\r\n<p>如果「團隊」沒有願景、共識和向心力就只是「一群人」，和同一列火車的乘客、同一場電影的觀眾沒有兩樣。企業主管肩負求創造經營績效、提升競爭力的重要任務，如何讓「一群人」形成一個「團隊」，是無時無刻都在進行的基礎工程，更是使企業永續成長的關鍵。<br
+      />小鬍子冒險學校有具有多年產業經驗、團隊建立授課經驗的引導員講師群，以完善規劃的活動，讓所有參與伙伴經由反思、歸納、應用，明白什麼是有效的團隊、知道團隊的組合及其成功因素、發現團隊在運作及建立中所經歷的階段和困難、明白領袖及其風格在團隊中的影響。透過團隊活動，鼓勵團隊的隊員間互信與合作。<br
+      />小鬍子冒險學校將依您的獨特需求，量身訂做專屬的Team building課程，歡迎各公司行號來電洽詢！<br />\r\n</p>\r\n\r\n<a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />"
     - '0'
     - '2014-11-17 06:39:46.070576'
-    - '2014-11-17 06:39:46.070576'
+    - '2014-12-01 03:17:28.3289'
   - - '13'
     - '6'
     - Side Body
@@ -1195,34 +1241,39 @@ refinery_page_parts:
       style=\"background-color: transparent;\">繩隊攀登確保連結與行進操作</span>\r\n</li>\r\n</ul>\r\n<p>◎課程時間：<br
       />第一梯　1/17 ～1/20……1/06行前課程<br />第二梯　1/31～2/03……1/20行前課程<br />第三梯　2/14～2/17……2/03行前課程</p>\r\n<p>◎課程地點：<br
       />行前課程：小鬍子冒險學校<br />雪訓場地：合歡山山區　※需住滑雪山莊，費用自付。</p>\r\n<p>◎個人必需裝備︰</p>\r\n<ol><li><span
-      style=\"background-color: transparent;\">大背包（70L以上）　　　　　　　　</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">背包套和內層防水袋　　　　　　　　</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">睡墊（泡棉）　　　　　　　　　　　</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">睡袋（露宿袋）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">硬式登山鞋（雙重靴）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">登山襪（羊毛襪）</span>\r\n</li><li><span style=\"background-color: transparent;\">登山杖</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">雨衣褲</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">綁腿</span>\r\n</li><li><span style=\"background-color: transparent;\">防雪手套（防水、保暖）</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">貼身衣物（PP）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">保暖衣物（派爾及羽毛衣）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">保暖帽</span>\r\n</li><li><span style=\"background-color: transparent;\">雪鏡</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">低音哨</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">水壺（保溫瓶）</span>\r\n</li><li><span style=\"background-color: transparent;\">防曬油及護脣膏</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">地圖、指北針及相關資料&#160;</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">頭燈（備電池）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">個人餐具、伙食（行動糧）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">鍋具、爐具、瓦斯、火柴</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">個人證件及藥品等</span>\r\n</li><li><span style=\"background-color: transparent;\">安全頭盔</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">安全吊帶</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">長冰斧</span>\r\n</li><li><span style=\"background-color: transparent;\">冰爪（快扣式或綁帶式）</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">大D有鎖勾環 X 4</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">無鎖勾環 X 4</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">50cm繩環 X 2</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">8字環</span>\r\n</li><li><span style=\"background-color: transparent;\">6mm普魯士繩250cm、150cm各1條</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">備用衣物</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">塑膠袋</span>\r\n</li><li><span style=\"background-color: transparent;\">小背包</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">防水布、求生紙</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">動力單繩30m以上(2人以上共同使用)</span>\r\n</li></ol>\r\n<p>◎建議裝備：</p>\r\n<ol><li><span
+      style=\"background-color: transparent;\">大背包（70L以上）　　　　　　　　</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">背包套和內層防水袋　　　　　　　　</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">睡墊（泡棉）　　　　　　　　　　　</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">睡袋（露宿袋）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">硬式登山鞋（雙重靴）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">登山襪（羊毛襪）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">登山杖</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">雨衣褲</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">綁腿</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">防雪手套（防水、保暖）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">貼身衣物（PP）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">保暖衣物（派爾及羽毛衣）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">保暖帽</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">雪鏡</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">低音哨</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">水壺（保溫瓶）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">防曬油及護脣膏</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">地圖、指北針及相關資料&#160;</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">頭燈（備電池）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">個人餐具、伙食（行動糧）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">鍋具、爐具、瓦斯、火柴</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">個人證件及藥品等</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">安全頭盔</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">安全吊帶</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">長冰斧</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">冰爪（快扣式或綁帶式）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">大D有鎖勾環 X 4</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">無鎖勾環 X 4</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">50cm繩環 X 2</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">8字環</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">6mm普魯士繩250cm</span>\r\n</li><li><span style=\"background-color:
+      transparent;\">6mm普魯士繩150cm</span>\r\n</li><li><span style=\"background-color:
+      transparent;\">備用衣物</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">塑膠袋</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">小背包</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">防水布、求生紙</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">動力單繩30m以上(2人以上共同使用)</span>\r\n</li>\r\n</ol>\r\n<p>◎建議裝備：</p>\r\n<ol><li><span
       style=\"background-color: transparent;\">睡袋內套</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">備用雪鏡或墨鏡</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">暖暖袋</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">相機</span>\r\n</li>\r\n<li><span
@@ -1236,112 +1287,125 @@ refinery_page_parts:
       style=\"background-color: transparent;\">報名事項請參考報名表上內容。</span>\r\n</li>\r\n</ul>\r\n\r\n<p><a
       href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n</p>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">初級雪訓課程-雪山</h2>\r\n<img
       src=\"http://i.imgur.com/BZveCT6.jpg\" />\r\n<p>◎課程項目：</p>\r\n<ul><li><span
-      style=\"background-color: transparent;\">雪訓操作裝備及身心體能的準備</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">雪地行前綜合步伐</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">滑落制動練習與滑降操作</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">雪地固定繩結支點架設運用</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">繩隊攀登確保連結與行進操作</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">雪地生活</span>\r\n</li></ul>\r\n<p>◎課程時間：<br />第一梯　1/24～1/28……1/13行前課程<br
-      />第二梯　2/11～2/15……2/03行前課程</p>\r\n<p>◎課程地點：<br />行前課程：小鬍子冒險學校<br />雪訓場地：雪山山區</p>\r\n<p>◎個人必需裝備︰</p>\r\n<ol><li><span
-      style=\"background-color: transparent;\">大背包（70L以上）</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">背包套和內層防水袋</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">睡墊（泡棉）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">睡袋（露宿袋）</span>\r\n</li><li><span style=\"background-color: transparent;\">硬式登山鞋（雙重靴）</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">登山襪（羊毛襪）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">登山杖</span>\r\n</li><li><span style=\"background-color: transparent;\">雨衣褲</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">綁腿</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">防雪手套（防水、保暖）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">貼身衣物（PP）</span>\r\n</li><li><span style=\"background-color: transparent;\">保暖衣物（派爾及羽毛衣）</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">保暖帽</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">雪鏡</span>\r\n</li><li><span style=\"background-color: transparent;\">低音哨</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">水壺（保溫瓶）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">防曬油及護脣膏</span>\r\n</li><li><span style=\"background-color: transparent;\">地圖、指北針及相關資料</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">頭燈（備電池）\t20、個人餐具、伙食（行動糧）</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">鍋具、爐具、瓦斯、火柴</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">個人證件及藥品等</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">安全頭盔</span>\r\n</li><li><span style=\"background-color: transparent;\">安全吊帶</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">長冰斧</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">冰爪（快扣式或綁帶式）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">大D有鎖勾環 X 4</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">無鎖勾環 X 4</span>\r\n</li><li><span style=\"background-color: transparent;\">50cm繩環
-      X 2</span>\r\n</li><li><span style=\"background-color: transparent;\">8字環</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">6mm普魯士繩250cm、150cm各1條</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">備用衣物</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">塑膠袋</span>\r\n</li><li><span style=\"background-color: transparent;\">小背包</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">防水布、求生紙</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">動力單繩30m以上(2人以上共同使用)</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">帳篷</span>\r\n</li></ol>\r\n<p><span style=\"background-color:
-      transparent;\">◎建議裝備：</span>\r\n</p><ul><li><span style=\"background-color:
-      transparent;\">睡袋內套</span>\r\n</li><li><span style=\"background-color: transparent;\">備用雪鏡或墨鏡</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">暖暖袋</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">相機</span>\r\n</li><li><span style=\"background-color: transparent;\">便鞋</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">毛巾</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">筆記本、筆、錢</span>\r\n</li><li><span style=\"background-color: transparent;\">擋風板</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">營燈</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">望遠鏡</span>\r\n</li></ul>\r\n<p>◎注意事項：</p>\r\n<ul><li><span style=\"background-color:
-      transparent;\">參與雪訓需有登山基礎。</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">因顧及訓練教育及安全考量，所有參加人均需團進團出。</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">報名事項請參考報名表上內容。</span>\r\n</li></ul>\r\n\r\n\r\n<a href=\"/聯絡我們\"
-      class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">中級雪訓-玉山</h2>\r\n<img
+      style=\"background-color: transparent;\">雪訓操作裝備及身心體能的準備</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">雪地行前綜合步伐</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">滑落制動練習與滑降操作</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">雪地固定繩結支點架設運用</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">繩隊攀登確保連結與行進操作</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">雪地生活</span>\r\n</li>\r\n</ul>\r\n<p>◎課程時間：<br
+      />第一梯　1/24～1/28……1/13行前課程<br />第二梯　2/11～2/15……2/03行前課程</p>\r\n<p>◎課程地點：<br />行前課程：小鬍子冒險學校<br
+      />雪訓場地：雪山山區</p>\r\n<p>◎個人必需裝備︰</p>\r\n<ol><li><span style=\"background-color:
+      transparent;\">大背包（70L以上）</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">背包套和內層防水袋</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">睡墊（泡棉）</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">睡袋（露宿袋）</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">硬式登山鞋（雙重靴）</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">登山襪（羊毛襪）</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">登山杖</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">雨衣褲</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">綁腿</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">防雪手套（防水、保暖）</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">貼身衣物（PP）</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">保暖衣物（派爾及羽毛衣）</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">保暖帽</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">雪鏡</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">低音哨</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">水壺（保溫瓶）</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">防曬油及護脣膏</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">地圖、指北針及相關資料</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">頭燈（備電池）</span>\r\n</li><li><span style=\"background-color: transparent;\">個人餐具、伙食（行動糧）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">鍋具、爐具、瓦斯、火柴</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">個人證件及藥品等</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">安全頭盔</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">安全吊帶</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">長冰斧</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">冰爪（快扣式或綁帶式）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">大D有鎖勾環 X 4</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">無鎖勾環 X 4</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">50cm繩環 X 2</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">8字環</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">6mm普魯士繩250cm</span>\r\n</li><li><span style=\"background-color:
+      transparent;\">6mm普魯士繩150cm</span>\r\n</li><li><span style=\"background-color:
+      transparent;\">備用衣物</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">塑膠袋</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">小背包</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">防水布、求生紙</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">帳篷</span>\r\n</li><li><span style=\"background-color: transparent;\">動力單繩30m以上(2人以上共同使用)</span>\r\n</li></ol>\r\n<p><span
+      style=\"background-color: transparent;\">◎建議裝備：</span>\r\n</p>\r\n<ol><li><span
+      style=\"background-color: transparent;\">睡袋內套</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">備用雪鏡或墨鏡</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">暖暖袋</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">相機</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">便鞋</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">毛巾</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">筆記本、筆、錢</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">擋風板</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">營燈</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">望遠鏡</span>\r\n</li>\r\n</ol>\r\n<p>◎注意事項：</p>\r\n<ul><li><span
+      style=\"background-color: transparent;\">參與雪訓需有登山基礎。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">因顧及訓練教育及安全考量，所有參加人均需團進團出。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">報名事項請參考報名表上內容。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">中級雪訓-玉山</h2>\r\n<img
       src=\"http://i.imgur.com/eppNVrG.jpg\" />\r\n<p><span style=\"background-color:
-      transparent;\">◎課程項目：</span>\r\n</p><ul><li><span style=\"background-color:
-      transparent;\">體適能　</span>\r\n</li><li><span style=\"background-color: transparent;\">繩結運用</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">平衡攀登　</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">滑落制動　</span>\r\n</li><li><span style=\"background-color: transparent;\">滑降　</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">雪地綜合行進</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">繩隊行進確保\t 8. 輔助攀登</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">固定點架設運用</span>\r\n</li><li><span style=\"background-color: transparent;\">冰雪岩器楔運用</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">冰壁岩壁土坡沙地模擬訓練</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">隔時攀登</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">同時攀登練習</span>\r\n</li></ul>\r\n<p>◎課程時間：<br />第一梯　1/26～1/31……1/13行前課程<br
-      />第二梯　2/12～2/17……2/03行前課程</p>\r\n<p>◎課程地點：<br />雪訓場地：玉山山區<br />行前課程：小鬍子冒險學校<br
-      />※若因玉山靜山期則雪訓地點改雪山聖稜。</p>\r\n<p>◎個人必需裝備︰</p>\r\n<ul><li><span style=\"background-color:
-      transparent;\">大、小背包</span>\r\n</li><li><span style=\"background-color: transparent;\">背包套和內層防水袋　</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">睡墊（泡棉）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">睡袋（露宿袋）</span>\r\n</li><li><span style=\"background-color: transparent;\">硬底鞋或雙重靴</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">登山襪2雙（羊毛襪）</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">雪杖</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">雨衣褲</span>\r\n</li><li><span style=\"background-color: transparent;\">綁腿</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">防雪手套（防水、保暖）</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">貼身衣物（PP）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">保暖衣物（派爾及羽毛衣）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">保暖帽</span>\r\n</li><li><span style=\"background-color: transparent;\">雪鏡</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">低音哨</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">水壺（保溫瓶）</span>\r\n</li><li><span style=\"background-color: transparent;\">防曬油及護脣膏</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">地圖、指北針及相關資料</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">頭燈（備電池）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">個人餐具、伙食（行動糧）</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">鍋具、爐具、瓦斯、火柴</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">個人證件及藥品等</span>\r\n</li><li><span style=\"background-color: transparent;\">安全頭盔</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">安全吊帶</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">短冰斧2支</span>\r\n</li><li><span style=\"background-color: transparent;\">冰爪（快扣式或綁帶式）</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">大D有鎖勾環 X 4</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">無鎖勾環 X 4</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">50cm繩環 X 4</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">8字環</span>\r\n</li><li><span style=\"background-color: transparent;\">6mm普魯士繩250cm、150cm各1條</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">備用衣物</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">塑膠袋</span>\r\n</li><li><span style=\"background-color: transparent;\">小背包</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">防水布、求生紙</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">動力單繩50m以上(2人以上共同使用)</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">螺旋冰鑽2支</span>\r\n</li><li><span style=\"background-color: transparent;\">岩釘3支</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">露宿袋、外帳</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">背包套</span>\r\n</li><li><span style=\"background-color: transparent;\">猶瑪</span>\r\n</li></ul>\r\n<p>◎建議裝備：</p>\r\n<ul><li><span
-      style=\"background-color: transparent;\">睡袋內套</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">備用雪鏡或墨鏡</span>\r\n</li><li><span style=\"background-color: transparent;\">望遠鏡</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">相機</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">便鞋</span>\r\n</li><li><span style=\"background-color: transparent;\">毛巾</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">筆記本、筆、錢</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">擋風板</span>\r\n</li><li><span style=\"background-color: transparent;\">營燈</span>\r\n</li></ul>\r\n<p>◎注意事項：</p>\r\n<ul><li><span
-      style=\"background-color: transparent;\">參與中級雪訓需有已學習初級雪訓之證明，方可報名。</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">因顧及訓練教育及安全考量，所有參加人均需團進團出。</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">報名事項請參考報名表上內容。</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">消或延期課程之退費規定：玉山國家公園雪季申請雪訓名額有限，於上課日起一個月前送件申請後，提出取消則退課程費用50%，提出延期需扣課程費用30%之行政費用。</span>\r\n</li></ul>\r\n\r\n\r\n<a
+      transparent;\">◎課程項目：</span>\r\n</p>\r\n<ul><li><span style=\"background-color:
+      transparent;\">體適能　</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">繩結運用</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">平衡攀登　</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">滑落制動　</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">滑降　</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">雪地綜合行進</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">繩隊行進確保\t 8. 輔助攀登</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">固定點架設運用</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">冰雪岩器楔運用</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">冰壁岩壁土坡沙地模擬訓練</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">隔時攀登</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">同時攀登練習</span>\r\n</li>\r\n</ul>\r\n<p>◎課程時間：<br
+      />第一梯　1/26～1/31……1/13行前課程<br />第二梯　2/12～2/17……2/03行前課程</p>\r\n<p>◎課程地點：<br />雪訓場地：玉山山區<br
+      />行前課程：小鬍子冒險學校<br />※若因玉山靜山期則雪訓地點改雪山聖稜。</p>\r\n<p>◎個人必需裝備︰</p>\r\n<ol><li><span
+      style=\"background-color: transparent;\">大、小背包</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">背包套和內層防水袋　</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">睡墊（泡棉）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">睡袋（露宿袋）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">硬底鞋或雙重靴</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">登山襪2雙（羊毛襪）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">雪杖</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">雨衣褲</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">綁腿</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">防雪手套（防水、保暖）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">貼身衣物（PP）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">保暖衣物（派爾及羽毛衣）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">保暖帽</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">雪鏡</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">低音哨</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">水壺（保溫瓶）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">防曬油及護脣膏</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">地圖、指北針及相關資料</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">頭燈（備電池）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">個人餐具、伙食（行動糧）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">鍋具、爐具、瓦斯、火柴</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">個人證件及藥品等</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">安全頭盔</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">安全吊帶</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">短冰斧2支</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">冰爪（快扣式或綁帶式）</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">大D有鎖勾環 X 4</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">無鎖勾環 X 4</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">50cm繩環 X 4</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">8字環</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">6mm普魯士繩250cm</span>\r\n</li><li><span style=\"background-color:
+      transparent;\">6mm普魯士繩150cm</span>\r\n</li><li><span style=\"background-color:
+      transparent;\">備用衣物</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">塑膠袋</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">小背包</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">防水布、求生紙</span>\r\n</li><li><span style=\"background-color: transparent;\">螺旋冰鑽2支</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">岩釘3支</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">露宿袋、外帳</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">背包套</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">猶瑪</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">動力單繩50m以上(2人以上共同使用)</span>\r\n</li></ol>\r\n<p>◎建議裝備：</p>\r\n<ol><li><span
+      style=\"background-color: transparent;\">睡袋內套</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">備用雪鏡或墨鏡</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">望遠鏡</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">相機</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">便鞋</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">毛巾</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">筆記本、筆、錢</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">擋風板</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">營燈</span>\r\n</li>\r\n</ol>\r\n<p>◎注意事項：</p>\r\n<ul><li><span
+      style=\"background-color: transparent;\">參與中級雪訓需有已學習初級雪訓之證明，方可報名。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">因顧及訓練教育及安全考量，所有參加人均需團進團出。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">報名事項請參考報名表上內容。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">消或延期課程之退費規定：玉山國家公園雪季申請雪訓名額有限，於上課日起一個月前送件申請後，提出取消則退課程費用50%，提出延期需扣課程費用30%之行政費用。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
       href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n\r\n"
     - '0'
     - '2014-11-30 12:03:14.851487'
-    - '2014-11-30 15:15:45.758808'
+    - '2014-12-01 04:58:13.953453'
   - - '37'
     - '17'
     - Side Body
@@ -1512,10 +1576,10 @@ refinery_pages:
     - '29'
     - '30'
     - '0'
-    - show
+    - services
     - application
     - '2014-11-17 06:39:46.065683'
-    - '2014-11-17 07:59:22.332333'
+    - '2014-12-01 03:16:01.676195'
   - - '7'
     - 
     - 
