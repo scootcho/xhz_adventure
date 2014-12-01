@@ -99,7 +99,7 @@ ul.orbit-slides-container li {
 }
 
 
-//Service Section
+//Service Section Homepage
 
 #servicesect {
   padding:2em; 
@@ -244,6 +244,18 @@ ul.orbit-slides-container li {
     margin-top:30px;
     margin-bottom: 30px;
   }
+  .row ol {
+  max-width:540px;
+  li {
+    float:left; 
+    width:270px;
+    }  
+  }
+  .row ol:after {
+    content: " ";
+    display: block;
+    clear: both;
+  } 
 }
 
 
