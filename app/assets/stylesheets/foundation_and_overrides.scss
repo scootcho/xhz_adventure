@@ -28,6 +28,7 @@ header {
 #page {
 }
 
+
 // Footer
 
 footer {
@@ -45,6 +46,10 @@ footer {
 
 #quote p{
   padding: 1em 0;
+  margin: 0;
+  span {
+    font-size: 1.5em;
+  }
 }
 
 // Image Background
@@ -65,7 +70,6 @@ ul.orbit-slides-container li {
 // Social Bar
 
 #socialbar ul {
-  margin-top: 20px;
   li {
     display:inline;
     padding: 0px 30px;
