@@ -286,6 +286,11 @@ ul.orbit-slides-container li {
 
 /*view ports*/
 
+@media only screen
+and (max-width : 860px) {
+  #logo a span { display:none;}
+}
+
 
 
 
