@@ -80,32 +80,43 @@ refinery_page_part_translations:
   - updated_at
   - body
   records: 
-  - - '1'
-    - '1'
-    - en
-    - '2014-11-15 01:20:38.0511'
-    - '2014-11-17 06:38:15.424116'
-    - "<p>2015年雪訓課程日期</p>\r\n<p>【2015雪訓】中級雪訓–玉山</p>\r\n<p>玉山是鬍子教練冬季最愛的山了，冰、雪、岩的混和岩壁攀登，等你來挑戰！</p>\r\n<p>※中級雪訓–玉山課程時間：</p>\r\n<p>行前訓　2015/01/17(六)<br
-      />第一梯　2015/01/24(六)~2015/01/29(四)<br />第二梯　2015/03/03(二)~2015/03/08(日)</p>\r\n<p>※報名截止日：2014/12/10(三)</p>\r\n<p>※中級雪訓–玉山課程詳情請見<br
-      />※2015年雪訓課程報名表下載</p>\r\n<p>其他雪訓課程日期：<br />※初級雪訓–合歡山課程<br />※初級雪訓–雪山課程</p>"
-  - - '2'
-    - '2'
-    - en
-    - '2014-11-15 01:20:38.060002'
-    - '2014-11-15 01:20:38.060002'
-    - ''
-  - - '5'
-    - '5'
-    - en
-    - '2014-11-15 06:32:22.321652'
-    - '2014-11-17 16:10:58.17031'
-    - ''
   - - '8'
     - '8'
     - en
     - '2014-11-17 06:39:07.425259'
-    - '2014-11-29 04:01:03.961918'
-    - "<h1>活動體驗</h1>\r\n<h2>攀岩體驗</h2>\r\n<h2>攀樹體驗</h2>\r\n<h2>溯溪體驗</h2>\r\n<h2>綜合登山</h2>\r\n<h2>高空滑降</h2>\r\n<h2>大海浮潛</h2>"
+    - '2014-12-08 15:41:25.373975'
+    - "<div id=\"servicesect\">\r\n  <div class=\"small-3 small-centered columns homesection\">\r\n
+      \   <h1>服務項目</h1>\r\n    <em class=\"fa fa-compass fa-2x\"></em>  \r\n  </div>\r\n\r\n
+      \ <br />\r\n  <br />\r\n\r\n  <div class=\"row\">\r\n    <div class=\"medium-4
+      columns\" style=\"text-align:center;\">\r\n      <h2>溯溪體驗</h2>\r\n      <a href=\"/服務項目/溯溪體驗\"><img
+      src=\"/services/rivertrace.jpg\" /></a>\r\n      <p>夏天!就是要玩水~</p>\r\n    </div>\r\n\r\n
+      \   <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n      <h2>攀岩體驗</h2>\r\n
+      \     <a href=\"/服務項目/攀岩體驗\"><img src=\"/services/rockclimb.jpg\" /></a>\r\n
+      \     <p>膽大心細，攀岩一點都不難！</p>\r\n    </div>\r\n\r\n    <div class=\"medium-4 columns\"
+      style=\"text-align:center;\">\r\n      <h2>高空滑降</h2>\r\n      <a href=\"/服務項目/高空滑降\"><img
+      src=\"/services/zipline.jpg\" /></a>\r\n      <p>啊~啊~啊~~把你的所有恐懼吶喊出來吧!!</p>\r\n
+      \   </div>\r\n  </div>\r\n\r\n\r\n  <div class=\"row\">\r\n    <div class=\"medium-4
+      columns\" style=\"text-align:center;\">\r\n      <h2>攀樹體驗</h2>\r\n      <a href=\"/服務項目/攀樹體驗\"><img
+      src=\"/services/treeclimb.jpg\" /></a>\r\n      <p>在不同的高度，有不同的視野，不同的心情喔～</p>\r\n
+      \   </div>\r\n\r\n    <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n
+      \     <h2>綜合登山</h2>\r\n      <a href=\"/服務項目/綜合登山\"><img src=\"/services/mtclimb.jpg\"
+      /></a>\r\n      <p>放眼望去，連綿到天邊的雲海，這只能要親眼見到才能明白的感動。</p>\r\n    </div>\r\n\r\n
+      \   <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n      <h2>大海浮潛</h2>\r\n
+      \     <a href=\"/服務項目/大海浮潛\"><img src=\"/services/snorkel.jpg\" /></a>\r\n      <p>跟美麗的熱帶魚～零距離的接觸喔！</p>\r\n
+      \   </div>\r\n  </div>\r\n\r\n\r\n  <div class=\"row\">\r\n    <div class=\"medium-4
+      columns\" style=\"text-align:center;\">\r\n      <h2>溯溪課程</h2>\r\n      <a href=\"/服務項目/溯溪課程\"><img
+      src=\"/courses/rtcourse.jpg\" /></a>\r\n      <p>地形判斷～要利用何種方式突破困難地形，實地演練增加經驗。</p>\r\n
+      \   </div>\r\n\r\n    <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n
+      \     <h2>攀岩課程</h2>\r\n      <a href=\"/服務項目/攀岩課程\"><img src=\"/courses/rccourse.jpg\"
+      /></a>\r\n      <p>雖然訓練課程一點都不能馬虎，但偷偷看一下遼闊的大海，這正是在龍洞上攀岩課的最大享受呀！</p>\r\n    </div>\r\n\r\n
+      \   <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n      <h2>冰雪攀登</h2>\r\n
+      \     <a href=\"/服務項目/冰雪攀登\"><img src=\"/courses/iccourse.jpg\" /></a>\r\n      <p>安全確保～是雪地訓練最重要的事！</p>\r\n
+      \   </div>\r\n  </div>\r\n\r\n\r\n  <div class=\"row\">\r\n    <div class=\"medium-4
+      columns\" style=\"text-align:center;\">\r\n      <h2>攀樹課程</h2>\r\n      <a href=\"/服務項目/攀樹課程\"><img
+      src=\"/courses/tccourse.jpg\" /></a>\r\n      <p>攀樹技術與設備在應用之前，應該接受專業人員的指導，並精熟技術之後，方可實際操作。</p>\r\n
+      \   </div>\r\n\r\n    <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n
+      \     <h2>海外攀登</h2>\r\n      <a href=\"/服務項目/海外攀登\"><img src=\"/courses/overseas.jpg\"
+      /></a>\r\n      <p>神山特殊的地質，讓無數的攀岩者也想來試試自己的膽量與技術。</p>\r\n    </div>\r\n  </div>\r\n</div>\r\n\r\n\r\n\r\n\r\n"
   - - '9'
     - '9'
     - en
@@ -116,7 +127,7 @@ refinery_page_part_translations:
     - '12'
     - en
     - '2014-11-17 06:39:46.072823'
-    - '2014-12-08 11:32:26.335868'
+    - '2014-12-08 16:03:47.765747'
     - "<h1 class=\"text-align-center\">專案規劃</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">Team
       Building<br />量身訂做!</h2>\r\n\r\n<img src=\"http://i.imgur.com/9zHYU2N.jpg\"
       />\r\n<p>如果「團隊」沒有願景、共識和向心力就只是「一群人」，和同一列火車的乘客、同一場電影的觀眾沒有兩樣。企業主管肩負求創造經營績效、提升競爭力的重要任務，如何讓「一群人」形成一個「團隊」，是無時無刻都在進行的基礎工程，更是使企業永續成長的關鍵。<br
@@ -125,7 +136,8 @@ refinery_page_part_translations:
       href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">活動攀岩車</h2>\r\n<img
       src=\"http://i.imgur.com/9cjQz7I.jpg\" />\r\n<p>&#160;<br />一個可以帶著走的岩場，走到那兒～爬到那兒～</p>\r\n<p>高7公尺，可三人同時攀爬，左右兩側為平面區，適合體驗攀爬。正面傾斜區，適合挑戰者攀爬。</p>\r\n<p>適合家庭日、運動園遊會、活動造勢、體驗教育教學等運用。</p>\r\n<p>可配合學校、社團安排一個不一樣的體驗教育。</p>\r\n<p>現場提供：安全攀登配備及安全協助教練。</p>\r\n<p>配合設置現場，運用空間約直徑10公尺圓寬，活動前2小時內進場架設完成。</p>\r\n<p>～～全台僅只一座，若有需要，歡迎來電洽詢！～～</p>\r\n\r\n<a
       href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<p class=\"text-align-center\"></p>\r\n<hr
-      />"
+      />\r\n\r\n\r\n<a href=\"/聯絡我們\" class=\"button\" id=\"floatbtn\"><em class=\"fa
+      fa-phone\"></em> 聯絡我們<br />09-3962-5099</a>"
   - - '13'
     - '13'
     - en
@@ -199,7 +211,7 @@ refinery_page_part_translations:
     - '18'
     - en
     - '2014-11-29 04:11:06.216763'
-    - '2014-12-08 11:36:55.994779'
+    - '2014-12-08 16:01:01.362611'
     - "<h1 class=\"text-align-center\">攀岩體驗</h1>\r\n\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">北投大砲岩岩場</h2>\r\n<img
       src=\"http://i.imgur.com/HdNN7IQ.jpg\" />\r\n<p><span style=\"background-color:
       transparent;\">◎ 活動項目：</span>\r\n</p>\r\n<ul><li><span style=\"background-color:
@@ -273,7 +285,8 @@ refinery_page_part_translations:
       style=\"background-color: transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">請穿著俱彈性易活動之輕便服裝及運動鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />"
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<a href=\"/聯絡我們\"
+      class=\"button\" id=\"floatbtn\"><em class=\"fa fa-phone\"></em> 聯絡我們<br />09-3962-5099</a>"
   - - '19'
     - '19'
     - en
@@ -563,6 +576,41 @@ refinery_page_part_translations:
     - '2014-12-08 07:06:42.54354'
     - '2014-12-08 07:06:42.54354'
     - ''
+  - - '51'
+    - '51'
+    - en
+    - '2014-12-08 16:09:07.896907'
+    - '2014-12-08 16:09:07.896907'
+    - "<p>2015年雪訓課程日期</p>\r\n<p>【2015雪訓】中級雪訓–玉山</p>\r\n<p>玉山是鬍子教練冬季最愛的山了，冰、雪、岩的混和岩壁攀登，等你來挑戰！</p>\r\n<p>※中級雪訓–玉山課程時間：</p>\r\n<p>行前訓　2015/01/17(六)<br
+      />第一梯　2015/01/24(六)~2015/01/29(四)<br />第二梯　2015/03/03(二)~2015/03/08(日)</p>\r\n<p>※報名截止日：2014/12/10(三)</p>\r\n<p>※中級雪訓–玉山課程詳情請見<br
+      />※2015年雪訓課程報名表下載</p>\r\n<p>其他雪訓課程日期：<br />※初級雪訓–合歡山課程<br />※初級雪訓–雪山課程</p>"
+  - - '52'
+    - '52'
+    - en
+    - '2014-12-08 16:26:42.952756'
+    - '2014-12-08 16:33:10.458286'
+    - "<p>\r\n<span>突破</span> 競爭走出自己的獨特格調,改變對<span>\"量\"</span>的迷思,提升對<span>\"質\"</span>的服務,\r\n<br
+      />\r\n<span>---小鬍子親自服務---</span>\r\n<br />\r\n20年活動經驗,親自帶領;20年廚藝經驗,親自料理,每次活動<span>限定一團</span>\r\n<br
+      />\r\n量身安排適合您的體驗學習項目,用朋友的心來服務您\r\n<br />\r\n不打廣告,口碑相傳,與您相遇是我們的緣份!!\r\n<br />\r\n交個朋友吧!!
+      讓我們共同學習成長,親山遊水,開闊視野!!\r\n</p>\r\n"
+  - - '54'
+    - '54'
+    - en
+    - '2014-12-08 16:45:49.496142'
+    - '2014-12-08 17:17:21.105782'
+    - "<h1>你還在等什麼? 我們去冒險吧!</h1>"
+  - - '56'
+    - '56'
+    - en
+    - '2014-12-08 17:39:08.098471'
+    - '2014-12-08 17:39:36.778279'
+    - "<div class=\"row\">\r\n  <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n
+      \   <a href=\"/活動體驗\"><img src=\"/front1.jpg\" /></a>\r\n    <h4>活動體驗</h4>\r\n
+      \   \r\n  </div>\r\n  <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n
+      \   <a href=\"/課程訓練\"><img src=\"/front2.jpg\" /></a>\r\n    <h4>課程訓練</h4>\r\n
+      \   \r\n  </div>\r\n  <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n
+      \   <a href=\"/專案規劃\"><img src=\"/front3.jpg\" /></a>\r\n    <h4>專案規劃</h4>\r\n
+      \   \r\n  </div>\r\n</div>"
 
 ---
 refinery_users:
@@ -610,36 +658,44 @@ refinery_page_parts:
   - created_at
   - updated_at
   records: 
-  - - '1'
-    - '1'
-    - Body
-    - "<p>2015年雪訓課程日期</p>\r\n<p>【2015雪訓】中級雪訓–玉山</p>\r\n<p>玉山是鬍子教練冬季最愛的山了，冰、雪、岩的混和岩壁攀登，等你來挑戰！</p>\r\n<p>※中級雪訓–玉山課程時間：</p>\r\n<p>行前訓　2015/01/17(六)<br
-      />第一梯　2015/01/24(六)~2015/01/29(四)<br />第二梯　2015/03/03(二)~2015/03/08(日)</p>\r\n<p>※報名截止日：2014/12/10(三)</p>\r\n<p>※中級雪訓–玉山課程詳情請見<br
-      />※2015年雪訓課程報名表下載</p>\r\n<p>其他雪訓課程日期：<br />※初級雪訓–合歡山課程<br />※初級雪訓–雪山課程</p>"
-    - '0'
-    - '2014-11-15 01:20:38.040706'
-    - '2014-11-17 06:38:15.422546'
-  - - '2'
-    - '1'
-    - Side Body
-    - ''
-    - '1'
-    - '2014-11-15 01:20:38.057655'
-    - '2014-11-15 01:20:38.057655'
-  - - '5'
-    - '1'
-    - Image Slider
-    - ''
-    - '2'
-    - '2014-11-15 06:32:22.314549'
-    - '2014-11-17 16:10:58.168873'
   - - '8'
     - '4'
     - Body
-    - "<h1>活動體驗</h1>\r\n<h2>攀岩體驗</h2>\r\n<h2>攀樹體驗</h2>\r\n<h2>溯溪體驗</h2>\r\n<h2>綜合登山</h2>\r\n<h2>高空滑降</h2>\r\n<h2>大海浮潛</h2>"
+    - "<div id=\"servicesect\">\r\n  <div class=\"small-3 small-centered columns homesection\">\r\n
+      \   <h1>服務項目</h1>\r\n    <em class=\"fa fa-compass fa-2x\"></em>  \r\n  </div>\r\n\r\n
+      \ <br />\r\n  <br />\r\n\r\n  <div class=\"row\">\r\n    <div class=\"medium-4
+      columns\" style=\"text-align:center;\">\r\n      <h2>溯溪體驗</h2>\r\n      <a href=\"/服務項目/溯溪體驗\"><img
+      src=\"/services/rivertrace.jpg\" /></a>\r\n      <p>夏天!就是要玩水~</p>\r\n    </div>\r\n\r\n
+      \   <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n      <h2>攀岩體驗</h2>\r\n
+      \     <a href=\"/服務項目/攀岩體驗\"><img src=\"/services/rockclimb.jpg\" /></a>\r\n
+      \     <p>膽大心細，攀岩一點都不難！</p>\r\n    </div>\r\n\r\n    <div class=\"medium-4 columns\"
+      style=\"text-align:center;\">\r\n      <h2>高空滑降</h2>\r\n      <a href=\"/服務項目/高空滑降\"><img
+      src=\"/services/zipline.jpg\" /></a>\r\n      <p>啊~啊~啊~~把你的所有恐懼吶喊出來吧!!</p>\r\n
+      \   </div>\r\n  </div>\r\n\r\n\r\n  <div class=\"row\">\r\n    <div class=\"medium-4
+      columns\" style=\"text-align:center;\">\r\n      <h2>攀樹體驗</h2>\r\n      <a href=\"/服務項目/攀樹體驗\"><img
+      src=\"/services/treeclimb.jpg\" /></a>\r\n      <p>在不同的高度，有不同的視野，不同的心情喔～</p>\r\n
+      \   </div>\r\n\r\n    <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n
+      \     <h2>綜合登山</h2>\r\n      <a href=\"/服務項目/綜合登山\"><img src=\"/services/mtclimb.jpg\"
+      /></a>\r\n      <p>放眼望去，連綿到天邊的雲海，這只能要親眼見到才能明白的感動。</p>\r\n    </div>\r\n\r\n
+      \   <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n      <h2>大海浮潛</h2>\r\n
+      \     <a href=\"/服務項目/大海浮潛\"><img src=\"/services/snorkel.jpg\" /></a>\r\n      <p>跟美麗的熱帶魚～零距離的接觸喔！</p>\r\n
+      \   </div>\r\n  </div>\r\n\r\n\r\n  <div class=\"row\">\r\n    <div class=\"medium-4
+      columns\" style=\"text-align:center;\">\r\n      <h2>溯溪課程</h2>\r\n      <a href=\"/服務項目/溯溪課程\"><img
+      src=\"/courses/rtcourse.jpg\" /></a>\r\n      <p>地形判斷～要利用何種方式突破困難地形，實地演練增加經驗。</p>\r\n
+      \   </div>\r\n\r\n    <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n
+      \     <h2>攀岩課程</h2>\r\n      <a href=\"/服務項目/攀岩課程\"><img src=\"/courses/rccourse.jpg\"
+      /></a>\r\n      <p>雖然訓練課程一點都不能馬虎，但偷偷看一下遼闊的大海，這正是在龍洞上攀岩課的最大享受呀！</p>\r\n    </div>\r\n\r\n
+      \   <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n      <h2>冰雪攀登</h2>\r\n
+      \     <a href=\"/服務項目/冰雪攀登\"><img src=\"/courses/iccourse.jpg\" /></a>\r\n      <p>安全確保～是雪地訓練最重要的事！</p>\r\n
+      \   </div>\r\n  </div>\r\n\r\n\r\n  <div class=\"row\">\r\n    <div class=\"medium-4
+      columns\" style=\"text-align:center;\">\r\n      <h2>攀樹課程</h2>\r\n      <a href=\"/服務項目/攀樹課程\"><img
+      src=\"/courses/tccourse.jpg\" /></a>\r\n      <p>攀樹技術與設備在應用之前，應該接受專業人員的指導，並精熟技術之後，方可實際操作。</p>\r\n
+      \   </div>\r\n\r\n    <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n
+      \     <h2>海外攀登</h2>\r\n      <a href=\"/服務項目/海外攀登\"><img src=\"/courses/overseas.jpg\"
+      /></a>\r\n      <p>神山特殊的地質，讓無數的攀岩者也想來試試自己的膽量與技術。</p>\r\n    </div>\r\n  </div>\r\n</div>\r\n\r\n\r\n\r\n\r\n"
     - '0'
     - '2014-11-17 06:39:07.421836'
-    - '2014-11-29 04:01:03.960599'
+    - '2014-12-08 15:41:25.232111'
   - - '9'
     - '4'
     - Side Body
@@ -658,10 +714,11 @@ refinery_page_parts:
       href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">活動攀岩車</h2>\r\n<img
       src=\"http://i.imgur.com/9cjQz7I.jpg\" />\r\n<p>&#160;<br />一個可以帶著走的岩場，走到那兒～爬到那兒～</p>\r\n<p>高7公尺，可三人同時攀爬，左右兩側為平面區，適合體驗攀爬。正面傾斜區，適合挑戰者攀爬。</p>\r\n<p>適合家庭日、運動園遊會、活動造勢、體驗教育教學等運用。</p>\r\n<p>可配合學校、社團安排一個不一樣的體驗教育。</p>\r\n<p>現場提供：安全攀登配備及安全協助教練。</p>\r\n<p>配合設置現場，運用空間約直徑10公尺圓寬，活動前2小時內進場架設完成。</p>\r\n<p>～～全台僅只一座，若有需要，歡迎來電洽詢！～～</p>\r\n\r\n<a
       href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<p class=\"text-align-center\"></p>\r\n<hr
-      />"
+      />\r\n\r\n\r\n<a href=\"/聯絡我們\" class=\"button\" id=\"floatbtn\"><em class=\"fa
+      fa-phone\"></em> 聯絡我們<br />09-3962-5099</a>"
     - '0'
     - '2014-11-17 06:39:46.070576'
-    - '2014-12-08 11:32:26.333753'
+    - '2014-12-08 16:03:47.74037'
   - - '13'
     - '6'
     - Side Body
@@ -810,10 +867,11 @@ refinery_page_parts:
       style=\"background-color: transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">請穿著俱彈性易活動之輕便服裝及運動鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />"
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<a href=\"/聯絡我們\"
+      class=\"button\" id=\"floatbtn\"><em class=\"fa fa-phone\"></em> 聯絡我們<br />09-3962-5099</a>"
     - '0'
     - '2014-11-29 04:11:06.189878'
-    - '2014-12-08 11:36:55.902178'
+    - '2014-12-08 16:01:01.332271'
   - - '19'
     - '8'
     - Side Body
@@ -1122,6 +1180,45 @@ refinery_page_parts:
     - '1'
     - '2014-12-08 07:06:42.542136'
     - '2014-12-08 07:06:42.542136'
+  - - '51'
+    - '1'
+    - News
+    - "<p>2015年雪訓課程日期</p>\r\n<p>【2015雪訓】中級雪訓–玉山</p>\r\n<p>玉山是鬍子教練冬季最愛的山了，冰、雪、岩的混和岩壁攀登，等你來挑戰！</p>\r\n<p>※中級雪訓–玉山課程時間：</p>\r\n<p>行前訓　2015/01/17(六)<br
+      />第一梯　2015/01/24(六)~2015/01/29(四)<br />第二梯　2015/03/03(二)~2015/03/08(日)</p>\r\n<p>※報名截止日：2014/12/10(三)</p>\r\n<p>※中級雪訓–玉山課程詳情請見<br
+      />※2015年雪訓課程報名表下載</p>\r\n<p>其他雪訓課程日期：<br />※初級雪訓–合歡山課程<br />※初級雪訓–雪山課程</p>"
+    - '0'
+    - '2014-12-08 16:09:07.894825'
+    - '2014-12-08 16:09:07.905711'
+  - - '52'
+    - '1'
+    - Quote
+    - "<p>\r\n<span>突破</span> 競爭走出自己的獨特格調,改變對<span>\"量\"</span>的迷思,提升對<span>\"質\"</span>的服務,\r\n<br
+      />\r\n<span>---小鬍子親自服務---</span>\r\n<br />\r\n20年活動經驗,親自帶領;20年廚藝經驗,親自料理,每次活動<span>限定一團</span>\r\n<br
+      />\r\n量身安排適合您的體驗學習項目,用朋友的心來服務您\r\n<br />\r\n不打廣告,口碑相傳,與您相遇是我們的緣份!!\r\n<br />\r\n交個朋友吧!!
+      讓我們共同學習成長,親山遊水,開闊視野!!\r\n</p>\r\n"
+    - '1'
+    - '2014-12-08 16:26:42.93007'
+    - '2014-12-08 16:33:10.456688'
+  - - '54'
+    - '1'
+    - Attention
+    - "<h1>你還在等什麼? 我們去冒險吧!</h1>"
+    - '2'
+    - '2014-12-08 16:45:49.493939'
+    - '2014-12-08 17:34:03.903786'
+  - - '56'
+    - '1'
+    - Services
+    - "<div class=\"row\">\r\n  <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n
+      \   <a href=\"/活動體驗\"><img src=\"/front1.jpg\" /></a>\r\n    <h4>活動體驗</h4>\r\n
+      \   \r\n  </div>\r\n  <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n
+      \   <a href=\"/課程訓練\"><img src=\"/front2.jpg\" /></a>\r\n    <h4>課程訓練</h4>\r\n
+      \   \r\n  </div>\r\n  <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n
+      \   <a href=\"/專案規劃\"><img src=\"/front3.jpg\" /></a>\r\n    <h4>專案規劃</h4>\r\n
+      \   \r\n  </div>\r\n</div>"
+    - '3'
+    - '2014-12-08 17:39:08.096448'
+    - '2014-12-08 17:39:36.776758'
 
 ---
 refinery_pages:
@@ -1174,10 +1271,10 @@ refinery_pages:
     - '5'
     - '22'
     - '0'
-    - experience
+    - offerings
     - application
     - '2014-11-17 06:39:07.418093'
-    - '2014-12-08 11:29:44.170371'
+    - '2014-12-08 14:19:12.47475'
   - - '6'
     - 
     - 
@@ -1191,10 +1288,10 @@ refinery_pages:
     - '23'
     - '24'
     - '0'
-    - services
+    - page
     - application
     - '2014-11-17 06:39:46.065683'
-    - '2014-12-01 03:16:01.676195'
+    - '2014-12-08 14:46:26.696904'
   - - '7'
     - 
     - 
@@ -1225,10 +1322,10 @@ refinery_pages:
     - '6'
     - '7'
     - '1'
-    - services
+    - page
     - application
     - '2014-11-29 04:11:06.161228'
-    - '2014-11-29 11:15:46.197954'
+    - '2014-12-08 14:23:33.761673'
   - - '9'
     - '4'
     - 
@@ -1242,10 +1339,10 @@ refinery_pages:
     - '8'
     - '9'
     - '1'
-    - services
+    - page
     - application
     - '2014-11-29 04:11:37.500485'
-    - '2014-11-29 14:36:37.695425'
+    - '2014-12-08 14:23:52.501612'
   - - '10'
     - '4'
     - 
@@ -1259,10 +1356,10 @@ refinery_pages:
     - '10'
     - '11'
     - '1'
-    - services
+    - page
     - application
     - '2014-11-29 04:15:52.319794'
-    - '2014-11-29 14:45:37.294631'
+    - '2014-12-08 14:24:06.966655'
   - - '11'
     - '4'
     - 
@@ -1276,10 +1373,10 @@ refinery_pages:
     - '12'
     - '13'
     - '1'
-    - services
+    - page
     - application
     - '2014-11-29 04:20:02.834669'
-    - '2014-11-29 15:20:14.01022'
+    - '2014-12-08 14:24:23.630127'
   - - '13'
     - '4'
     - 
@@ -1293,10 +1390,10 @@ refinery_pages:
     - '16'
     - '17'
     - '1'
-    - services
+    - page
     - application
     - '2014-11-29 04:21:54.317247'
-    - '2014-11-29 15:34:19.96843'
+    - '2014-12-08 14:24:53.428758'
   - - '14'
     - 
     - 
@@ -1344,10 +1441,10 @@ refinery_pages:
     - '18'
     - '19'
     - '1'
-    - services
+    - page
     - application
     - '2014-12-08 07:02:40.282385'
-    - '2014-12-08 07:02:40.282385'
+    - '2014-12-08 14:25:06.779068'
   - - '22'
     - '4'
     - 
@@ -1361,10 +1458,10 @@ refinery_pages:
     - '20'
     - '21'
     - '1'
-    - services
+    - page
     - application
     - '2014-12-08 07:03:44.886636'
-    - '2014-12-08 07:03:44.886636'
+    - '2014-12-08 14:25:19.282253'
   - - '23'
     - '4'
     - 
@@ -1378,10 +1475,10 @@ refinery_pages:
     - '14'
     - '15'
     - '1'
-    - services
+    - page
     - application
     - '2014-12-08 07:06:42.521287'
-    - '2014-12-08 07:06:42.521287'
+    - '2014-12-08 14:24:40.681076'
 
 ---
 refinery_page_translations:
