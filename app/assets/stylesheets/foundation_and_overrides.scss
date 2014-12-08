@@ -70,6 +70,7 @@ ul.orbit-slides-container li {
 // Social Bar
 
 #socialbar ul {
+  vertical-align: middle;
   li {
     display:inline;
     padding: 0px 30px;
@@ -91,7 +92,7 @@ ul.orbit-slides-container li {
   .small-3.small-centered.columns {
     text-align:center;
     color:white;
-    border-color:#fff; 
+    border-color:#fff;
     border-style:solid;
     border-radius: 3px;
     h1 {
@@ -110,7 +111,7 @@ ul.orbit-slides-container li {
 //Service Section Homepage
 
 #servicesect {
-  padding:2em; 
+  padding:2em;
   color:#333;
   .small-3.small-centered.columns {
     text-align:center;
@@ -134,7 +135,7 @@ ul.orbit-slides-container li {
 //Contact Section
 
 #contactsect{
-  padding:2em; 
+  padding:2em;
   color:#333;
   .small-3.small-centered.columns {
     text-align:center;
@@ -207,7 +208,7 @@ ul.orbit-slides-container li {
   }
 }
 
-// Services Page 
+// Services Page
 
 #servicecontent {
   img {
@@ -219,7 +220,7 @@ ul.orbit-slides-container li {
     vertical-align: middle;
     max-width: 100%;
     height: auto;
-  }  
+  }
 }
 
 #serviceoffering {
@@ -255,15 +256,15 @@ ul.orbit-slides-container li {
   .row ol {
   max-width:540px;
   li {
-    float:left; 
+    float:left;
     width:270px;
-    }  
+    }
   }
   .row ol:after {
     content: " ";
     display: block;
     clear: both;
-  } 
+  }
 }
 
 
