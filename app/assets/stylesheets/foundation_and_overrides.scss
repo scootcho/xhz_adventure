@@ -290,9 +290,19 @@ ul.orbit-slides-container li {
 //**********END PAGE SECTION **************//
 
 
+// Floating Button
+
+#floatbtn {
+  max-width:150px;
+  padding: 1em;
+  position: fixed;
+  right: 0px;
+  top:100px;
+}
 
 
-/*view ports*/
+
+// View Ports
 
 @media only screen
 and (max-width : 860px) {
