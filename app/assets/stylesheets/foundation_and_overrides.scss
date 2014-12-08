@@ -48,13 +48,21 @@ footer {
 
 // Quote Section
 
-#quote p{
-  padding: 1em 0;
-  margin: 0;
-  span {
-    font-size: 1.5em;
+#quote {
+  font-size: 1.5em;
+  p{
+    text-align:center;
+    color: #fff;
+    font-size: 1em;
+    background:#333;
+    padding: 1em 0;
+    margin: 0;
+    span {
+      font-size: 1.5em;
+    }
   }
 }
+
 
 // Image Slider
 
@@ -280,6 +288,7 @@ ul.orbit-slides-container li {
 }
 
 //**********END PAGE SECTION **************//
+
 
 
 

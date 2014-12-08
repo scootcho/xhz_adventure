@@ -31,21 +31,10 @@
 
 <!-- Quote -->
 
-<div id="quote" Style="text-align:center; background:#333;">
-  <p style="font-size: 1.5em; color:#fff">
-    <span>突破</span> 競爭走出自己的獨特格調,改變對<span>"量"</span>的迷思,提升對<span>"質"</span>的服務,
-    <br/>
-    <span>---小鬍子親自服務---</span>
-    <br/>
-    20年活動經驗,親自帶領;20年廚藝經驗,親自料理,每次活動<span>限定一團</span>
-    <br/>
-    量身安排適合您的體驗學習項目,用朋友的心來服務您
-    <br/>
-    不打廣告,口碑相傳,與您相遇是我們的緣份!!
-    <br/>
-    交個朋友吧!! 讓我們共同學習成長,親山遊水,開闊視野!!
-  </p>
+<div id="quote">
+  <%=raw @page.content_for(:quote) %>
 </div>
+
 
 <!--End Quote -->
 
@@ -82,7 +71,7 @@
   </br>
   <div class="row">
     <div class="panel">
-      <%=raw @page.content_for(:body) %>
+      <%=raw @page.content_for(:news) %>
     </div>
     </div>
   </div>
