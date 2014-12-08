@@ -112,18 +112,6 @@ refinery_page_part_translations:
     - '2014-11-17 06:39:07.429102'
     - '2014-11-17 06:39:07.429102'
     - ''
-  - - '10'
-    - '10'
-    - en
-    - '2014-11-17 06:39:23.492322'
-    - '2014-11-30 11:39:17.85359'
-    - ''
-  - - '11'
-    - '11'
-    - en
-    - '2014-11-17 06:39:23.49575'
-    - '2014-11-17 06:39:23.49575'
-    - ''
   - - '12'
     - '12'
     - en
@@ -207,7 +195,7 @@ refinery_page_part_translations:
     - '18'
     - en
     - '2014-11-29 04:11:06.216763'
-    - '2014-11-29 15:06:03.548544'
+    - '2014-12-08 07:04:18.731337'
     - "<h1 class=\"text-align-center\">攀岩體驗</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">活動攀岩車</h2>\r\n<img
       src=\"http://i.imgur.com/9cjQz7I.jpg\" />\r\n<p>&#160;<br />一個可以帶著走的岩場，走到那兒～爬到那兒～</p>\r\n<p>高7公尺，可三人同時攀爬，左右兩側為平面區，適合體驗攀爬。正面傾斜區，適合挑戰者攀爬。</p>\r\n<p>適合家庭日、運動園遊會、活動造勢、體驗教育教學等運用。</p>\r\n<p>可配合學校、社團安排一個不一樣的體驗教育。</p>\r\n<p>現場提供：安全攀登配備及安全協助教練。</p>\r\n<p>配合設置現場，運用空間約直徑10公尺圓寬，活動前2小時內進場架設完成。</p>\r\n<p>～～全台僅只一座，若有需要，歡迎來電洽詢！～～</p>\r\n\r\n<a
       href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<p class=\"text-align-center\"></p>\r\n<hr
@@ -235,174 +223,19 @@ refinery_page_part_translations:
       style=\"background-color: transparent;\">岩壁垂降</span>\r\n</li>\r\n</ul>\r\n<p>活動流程：</p>\r\n<p>08︰00　龍洞和美國小集合<br
       />08︰10　活動安全講解、步行出發進入岩場<br />09︰00　活動分組循環進行體驗<br />12︰00　午餐休息時間<br />13︰00　活動繼續進行<br
       />15︰30　分享時間、合照<br />16︰00　回程、歸賦</p>\r\n\r\n<a href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr
-      />"
-  - - '19'
-    - '19'
-    - en
-    - '2014-11-29 04:11:06.25892'
-    - '2014-11-29 04:11:06.25892'
-    - ''
-  - - '20'
-    - '20'
-    - en
-    - '2014-11-29 04:11:37.50595'
-    - '2014-11-29 14:36:37.700397'
-    - "<h1 class=\"text-align-center\">攀樹體驗</h1>\r\n<img src=\"http://i.imgur.com/fcbxdNh.jpg\"
-      />\r\n<p>『樹攀』是以對樹產生最少的衝擊去親近、認識它。透過人樹安全原則，用輔助攀繩方式到達樹上，在樹上登高望遠，可以做動、植物的觀察，亦可以修剪樹枝，過程是種休閒運動，也是生活樂趣。</p>\r\n\r\n<p>活動流程：</p>\r\n<p>上午班<br
-      />07：30　新北投捷運站集合（搭捷運、開車、騎車都可以）<br />08：00　活動安全講解、著裝<br />08：30　攀樹體驗進行<br />12：00　活動結束</p>\r\n<p>下午班<br
-      />12：30　新北投捷運站集合（搭捷運、開車、騎車都可以）<br />13：00　活動安全講解、著裝<br />13：30　攀樹體驗進行<br />17：00　活動結束</p>\r\n<p>在不同的高度，有不同的視野，不同的心情喔～</p>\r\n\r\n<a
-      href=\"#\" class=\"button\">我要報名！</a>"
-  - - '21'
-    - '21'
-    - en
-    - '2014-11-29 04:11:37.509716'
-    - '2014-11-29 04:11:37.509716'
-    - ''
-  - - '22'
-    - '22'
-    - en
-    - '2014-11-29 04:15:52.325297'
-    - '2014-11-29 15:02:20.955002'
-    - "<h1 class=\"text-align-center\">溯溪體驗</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">三峽中坑溪</h2>\r\n<img
-      src=\"http://i.imgur.com/eKBDtef.jpg\" />\r\n<p>活動項目：</p>\r\n<p>溯行安全觀念、互助溯行技巧、瀑布攀爬、滑水</p>\r\n<p>活動流程：</p>\r\n<p>08：00　三峽「大板根森林溫泉渡假村」門口集合，引導開車前往<br
-      />08：30　停車處著裝、活動安全講解<br />09：00　步行至起溯點  熱身、互助溯行<br />11：00　激流突破、攀瀑<br />12：00　午餐休息<br
-      />13：00　繼續溯行，大攀瀑、滑水<br />15：30　大合照、山徑回程<br />16：00　回至停車處更衣<br />16：30　活動結束、歸賦</p>\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">宜蘭南澳南溪–碧旦峽谷</h2>\r\n<img
-      src=\"http://i.imgur.com/Zymn32k.jpg\" />\r\n<p>活動項目：</p>\r\n<p>溯行安全觀念、互助溯行技巧、瀑布攀爬、滑水</p>\r\n<p>活動流程：</p>\r\n<p>08：00　三峽「大板根森林溫泉渡假村」門口集合，引導開車前往<br
-      />08：30　停車處著裝、活動安全講解<br />09：00　步行至起溯點  熱身、互助溯行<br />11：00　激流突破、攀瀑<br />12：00　午餐休息<br
-      />13：00　繼續溯行，大攀瀑、滑水<br />15：30　大合照、山徑回程<br />16：00　回至停車處更衣<br />16：30　活動結束、歸賦</p>\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">宜蘭南澳鹿皮溪</h2>\r\n<img
-      src=\"http://i.imgur.com/ia6R10k.jpg\" />\r\n<p>活動項目：</p>\r\n<p>溯行安全觀念、互助溯行技巧、急流泳渡、攀瀑、跳水</p>\r\n<p>活動流程：</p>\r\n<p>08：30　南澳『建華冰店』集合，引導車行前往<br
-      />09：00　南澳鹿皮溪停車處、著裝、活動安全講解<br />10：00　步行往溪谷起溯點　熱身、互助溯行<br />10：30　泳渡、攀瀑、跳水<br
-      />12：00　午餐休息<br />13：00　急瀑溯行　至金岳大瀑布大合照<br />14：30　下溯，回程漂流<br />16：00　離開溪谷，回至停車處更衣<br
-      />16：30　活動結束、歸賦</p>\r\n\r\n<a href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr
-      />\r\n\r\n<h2 class=\"text-align-center\">新竹內灣錦屏溪</h2>\r\n<img src=\"http://i.imgur.com/ST1KGu1.jpg\"
-      />\r\n<p>活動項目：</p>\r\n<p>溯行安全觀念、互助溯行技巧、沖瀑、跳水</p>\r\n<p>活動流程：</p>\r\n<p>08：30　內灣橋旁7-11集合
-      \ 引導車行至停車處<br />        09：00　活動安全講解，著裝、熱身  步行至起溯點<br />        10：30　攔砂瀑布區前進小瀑布群<br
-      />        12：00　錦屏露天溫泉  午餐休息<br />        13：00　繼續溯行  深潭、瀑布<br />        14：00　原路下溯、漂流<br
-      />16：00　回至停車處更衣<br />        16：30　活動結束、歸賦  可至內灣老街逛逛</p>\r\n\r\n<a href=\"/聯絡我們\"
-      class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">烏來加九寮溪</h2>\r\n<img
-      src=\"http://i.imgur.com/j6uKcdU.jpg\" />\r\n<p>活動項目：</p>\r\n<p>溯行安全觀念、互助溯行技巧、滑瀑、跳水</p>\r\n<p>活動流程：</p>\r\n<p>09：00　捷運新店站集合，引導開車前往<br
-      />09：30　停車場著裝、步行至起溯點<br />10：00　活動安全講解、熱身<br />10：10　跳水、互助溯行、激流突破<br />12：00　午餐休息<br
-      />        13：00　雀巢檸檬茶、滑瀑<br />        16：00　圓圓滿滿、大合照<br />        16：30　山徑回程至停車場更衣<br
-      />        17：00　活動結束、歸賦</p>\r\n\r\n<a href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr
-      />\r\n\r\n<h2 class=\"text-align-center\">花蓮三棧南溪–黃金峽谷</h2>\r\n<img src=\"http://i.imgur.com/aIO0N9e.jpg\"
-      />\r\n<p>活動項目：</p>\r\n<p>溯行安全觀念、互助溯行技巧、深潭泳渡、攀瀑、跳水</p>\r\n<p>活動流程：</p>\r\n<p>05：00　台北集合出發<br
-      />    08：00　至花蓮三棧村，活動安全講解、著裝、熱身<br />    11：00　黃金峽谷深潭泳渡<br />    12：00　午餐休息<br
-      />    13：00　繼續溯行、跳水<br />    14：30　下溯，回程漂流　大合照<br />    16：00　離開溪谷，回至停車處更衣<br
-      />    16：30　活動結束、歸賦</p>\r\n\r\n\r\n<a href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr
-      />\r\n\r\n<h2 class=\"text-align-center\">萬里頭前溪</h2>\r\n<img src=\"http://i.imgur.com/7fl0wEi.jpg\"
-      />\r\n<p>活動項目：</p>\r\n<p>溯行安全觀念、互助溯行技巧、深潭泳渡、攀瀑、跳水</p>\r\n<p>活動流程：</p>\r\n<p>05：00　台北集合出發<br
-      />    08：00　至花蓮三棧村，活動安全講解、著裝、熱身<br />    11：00　黃金峽谷深潭泳渡<br />    12：00　午餐休息<br
-      />    13：00　繼續溯行、跳水<br />    14：30　下溯，回程漂流　大合照<br />    16：00　離開溪谷，回至停車處更衣<br
-      />    16：\r\n30　活動結束、歸賦</p>\r\n\r\n<a href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr
-      />"
-  - - '23'
-    - '23'
-    - en
-    - '2014-11-29 04:15:52.328711'
-    - '2014-11-29 04:15:52.328711'
-    - ''
-  - - '24'
-    - '24'
-    - en
-    - '2014-11-29 04:20:02.839732'
-    - '2014-11-29 15:25:25.018946'
-    - "<h1 class=\"text-align-center\">綜合登山活動</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">水<span
-      class=\"text-align-center\">漾</span>森林</h2>\r\n<img src=\"http://i.imgur.com/qFsOSWC.jpg\"
-      />\r\n<p>山林袐境探訪體驗-水漾森林　美麗又夢幻的湖泊<br />九二一地震讓阿里山鄉豐山村的深山裡，出現一個四公頃的高山堰塞湖。原本翠綠的柳杉林因長期浸泡在湖水裡，慢慢的相繼死亡，造成白木林奇景。白木林與藍天相映在水中，尤如傳說中的人間仙境。隨著枯木慢慢傾倒，已快成為消失的仙境。歡迎各位跟著我們，帶您到這傳說中的人間仙境。</p>\r\n<p>活動時間：<br
-      /><span style=\"background-color: transparent;\">二天二夜  滿6人成行</span>\r\n</p>\r\n<p>行程內容：</p>\r\n<p>前1晚<br
-      />21：00　集合出發　至杉林溪  車上休息</p>\r\n<p>第1天<br />06：30　晨喚，早餐<br />07︰30<span class=\"Apple-tab-span\"
-      style=\"white-space:pre\">\t</span>整裝，接駁至人亭登山口<br />08：00　出發～沿著林道前進<br />12︰00　工寮　休息、午餐<br
-      />13︰00　再出發往水漾森林前進<br />14︰00　溪阿縱走岔路。請注意跟隨嚮導的指示前進<br />16︰00  水漾森林紮營　自由活動<br
-      />※此時請配合專業嚮導的指示，在安全的範圍裡活動，體驗野炊及美食晚餐饗宴。</p>\r\n<p>第2天<br />06：00　晨喚　欣賞湖畔的日出並享用早餐<br
-      />07︰00　出發　享受一早的森林美景<br />08︰00　回到溪阿縱走岔路。請務必聽嚮導指示前進<br />11︰30　工寮　休息、午餐<br />12︰30　再出發　下山回程<br
-      />15︰30　回到人亭登山口　休息，等待所有隊員<br />16︰00　接駁車回停車場　告別杉林溪</p>\r\n<p>個人所需裝備：<br />禦寒及備用衣物、雨衣褲、便帽(保暖帽)、飲水2000cc、背包、個人碗筷餐具、登山健行鞋、登山杖、小毛巾、大小塑膠袋、頭燈(手電桶)、個人隨身醫藥用品、睡袋※。<br
-      /><span style=\"background-color: transparent;\">※睡袋：由於個人衛生習慣之因素請自備，會請高山協作幫忙背負。</span>\r\n</p>\r\n<p>辦理入山及保險所需個人資料：<br
-      /><span style=\"background-color: transparent;\">姓名、出生年月日、身份證字號、地址、電話、緊急聯絡人姓名、關係、電話。</span>\r\n</p>\r\n注意事項：<br
-      /><ol><li><span style=\"background-color: transparent;\">請著貼身排汗俱彈性、方便活動之衣物(勿穿綿衫及牛仔褲)。</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">活動前一晚若想提早到達杉林溪民宿休息，可提供代訂「林溪民宿」。此費用不包含在活動費用裡。</span>\r\n</li></ol>\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">雪山主東峰</h2>\r\n<img
-      src=\"http://i.imgur.com/sk70tiD.jpg\" />\r\n<p>高山百岳漫步體驗-雪山主東峰<br />雪山主峰為全台灣第二高峰標高3886公尺，屬雪山山脈最高峰，在台灣僅次於玉山主峰。台灣百岳之中，雪山與玉山、秀姑巒山、南湖大山、北大武山合稱五嶽。</p>\r\n<p>活動時間：二天二夜
-      \ 滿6人成行</p>\r\n<p>行程內容：</p>\r\n<p>前1晚<br />21：00　集合出發　至杉林溪  車上休息</p>\r\n<p>第1天<br
-      />06：30　晨喚，早餐<br />07︰30  整裝，接駁至人亭登山口<br />08：00　出發～沿著林道前進<br />12︰00　工寮　休息、午餐<br
-      />13︰00　再出發往水漾森林前進<br />14︰00　溪阿縱走岔路。請注意跟隨嚮導的指示前進<br />16︰00  水漾森林紮營　自由活動<br
-      />※此時請配合專業嚮導的指示，在安全的範圍裡活動，體驗野炊及美食晚餐饗宴。</p>\r\n<p>第2天<br />06：00　晨喚　欣賞湖畔的日出並享用早餐<br
-      />07︰00　出發　享受一早的森林美景<br />08︰00　回到溪阿縱走岔路。請務必聽嚮導指示前進<br />11︰30　工寮　休息、午餐<br />12︰30　再出發　下山回程<br
-      />15︰30　回到人亭登山口　休息，等待所有隊員<br />16︰00　接駁車回停車場　告別杉林溪</p>\r\n<p>個人所需裝備：禦寒及備用衣物、雨衣褲、便帽(保暖帽)、飲水2000cc、背包、個人碗筷餐具、登山健行鞋、登山杖、小毛巾、大小塑膠袋、頭燈(手電桶)、個人隨身醫藥用品、睡袋※。</p>\r\n<p>※睡袋：由於個人衛生習慣之因素請自備，會請高山協作幫忙背負。</p>\r\n<p>辦理入山及保險所需個人資料：<br
-      />姓名、出生年月日、身份證字號、地址、電話、緊急聯絡人姓名、關係、電話。</p>\r\n注意事項：<br /><ol><li><span style=\"background-color:
-      transparent;\">請著貼身排汗俱彈性、方便活動之衣物(勿穿綿衫及牛仔褲)。</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">活動前一晚若想提早到達杉林溪民宿休息，可提供代訂「林溪民宿」。此費用不包含在活動費用裡。</span>\r\n</li></ol>\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />"
-  - - '25'
-    - '25'
-    - en
-    - '2014-11-29 04:20:02.84322'
-    - '2014-11-29 04:20:02.84322'
-    - ''
-  - - '26'
-    - '26'
-    - en
-    - '2014-11-29 04:20:57.71605'
-    - '2014-11-29 18:09:44.655807'
-    - "<h1 class=\"text-align-center\">高空滑降</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">龍洞高空滑降體驗</h2>\r\n<img
-      src=\"http://i.imgur.com/qgqxnNC.jpg\" />\r\n<p>走出戶外看見海之美景，親臨現場之高聳岩壁，勇敢跨出百米滑降，挑戰你的腎上腺素</p>\r\n<p>大海~藍天~陽光~我來嘍~~</p>\r\n<p>★活動需滿15人成行～可配合環境與其它活動結合一同體驗<br
-      />例如：滑降 + 攀岩 或 滑降 + 浮潛...等</p>\r\n<p>二合一活動：滑降需滿15人，附加活動需滿6人<br />費用含教練、保險、裝備器材用具、活動安全裝備等</p>\r\n\r\n<a
-      href=\"/#contactsect\" class=\"button\">我要報名！</a>\r\n<hr />"
-  - - '27'
-    - '27'
-    - en
-    - '2014-11-29 04:20:57.718626'
-    - '2014-11-29 04:20:57.718626'
-    - ''
-  - - '28'
-    - '28'
-    - en
-    - '2014-11-29 04:21:54.322221'
-    - '2014-11-29 15:35:23.380552'
-    - "<h1 class=\"text-align-center\">大海浮潛</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">東北角龍洞浮潛</h2>\r\n<img
-      src=\"http://i.imgur.com/7b941q7.jpg\" />\r\n<p>活動流程：<br />08：00　龍洞街和美國小前集合<br
-      />08：20　活動安全講解　著裝、熱身<br />08：50　步行至浮潛區<br />09：10　浮潛體驗<br />12：00　步行回停車處更衣沖水，活動結束</p>★\t注意事項：<br
-      /><ol><li><span style=\"background-color: transparent;\">個人報名以繳交報名表及活動款項後，才算報名完成。</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">自備交通、午餐、飲水、防曬用品、備用衣物、毛巾及個人用品。請穿著俱彈性且不易吸水之輕便衣物，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">歡迎企業、公司行號、學校社團及機關團體等預約活動。預約需於活動日20天前決定，並簽訂契約及支付活動總計費用之50%為訂金。</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">活動若因天候或其它不可抗拒之因素，將考量人員安全，決定取消或順延或更改行程內容。</span>\r\n</li>\r\n</ol>\r\n\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />"
-  - - '29'
-    - '29'
-    - en
-    - '2014-11-29 04:21:54.3258'
-    - '2014-11-29 04:21:54.3258'
-    - ''
-  - - '30'
-    - '30'
-    - en
-    - '2014-11-29 14:49:57.756595'
-    - '2014-11-29 14:49:57.756595'
-    - ''
-  - - '31'
-    - '31'
-    - en
-    - '2014-11-29 14:49:57.760913'
-    - '2014-11-29 14:49:57.760913'
-    - ''
-  - - '32'
-    - '32'
-    - en
-    - '2014-11-30 12:00:50.353657'
-    - '2014-11-30 14:17:05.343474'
-    - "<h1 class=\"text-align-center\">攀岩課程</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">初級岩訓課程</h2>\r\n\r\n<img
-      src=\"http://i.imgur.com/CKmMjd4.jpg\" />\r\n<p>◎課程項目：</p>\r\n<ul><li><span
-      style=\"background-color: transparent;\">雙8字結</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">安全攀登觀念</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">裝備認識與使用</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">平衡攀登練習</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">熱暖身運動</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">岩壁垂降練習</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">安全確保</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">攀登口令規則</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">收理繩的方法</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">繩索裝備保養</span>\r\n</li>\r\n</ul>\r\n\r\n<p>◎課程時間：
-      08：00 ~ 17：00</p>\r\n<p>◎上課地點： 東北角龍洞岩場、新北投熱海岩場、檳榔路岩場或室內岩場</p>\r\n<p>◎課程裝備： 安全頭盔、安全吊帶、岩鞋、大D有鎖勾環、8字環、主繩及輔助繩<br
+      />\r\n\r\n<h1 class=\"text-align-center\">攀岩課程</h1>\r\n\r\n<hr />\r\n\r\n<h2
+      class=\"text-align-center\">初級岩訓課程</h2>\r\n\r\n<img src=\"http://i.imgur.com/CKmMjd4.jpg\"
+      />\r\n<p>◎課程項目：</p>\r\n<ul><li><span style=\"background-color: transparent;\">雙8字結</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">安全攀登觀念</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">裝備認識與使用</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">平衡攀登練習</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">熱暖身運動</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">岩壁垂降練習</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">安全確保</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">攀登口令規則</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">收理繩的方法</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">繩索裝備保養</span>\r\n</li>\r\n</ul>\r\n\r\n<p>◎課程時間： 08：00 ~ 17：00</p>\r\n<p>◎上課地點：
+      東北角龍洞岩場、新北投熱海岩場、檳榔路岩場或室內岩場</p>\r\n<p>◎課程裝備： 安全頭盔、安全吊帶、岩鞋、大D有鎖勾環、8字環、主繩及輔助繩<br
       />【全部由小鬍子冒險學校提供無需自備】</p>\r\n<p>◎注意事項：</p>\r\n<ul>\r\n<li><span style=\"background-color:
       transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">請穿著俱彈性易活動之輕便服裝及運動鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span style=\"background-color:
@@ -438,26 +271,100 @@ refinery_page_part_translations:
       transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">請穿著俱彈性易活動之輕便服裝及運動鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a href=\"/聯絡我們\"
-      class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n\r\n\r\n"
-  - - '33'
-    - '33'
+      class=\"button\">我要報名！</a>\r\n<hr />"
+  - - '19'
+    - '19'
     - en
-    - '2014-11-30 12:00:50.371238'
-    - '2014-11-30 12:00:50.371238'
+    - '2014-11-29 04:11:06.25892'
+    - '2014-11-29 04:11:06.25892'
     - ''
-  - - '34'
-    - '34'
+  - - '20'
+    - '20'
     - en
-    - '2014-11-30 12:02:31.671443'
-    - '2014-11-30 14:35:47.391272'
-    - "<h1 class=\"text-align-center\">溯溪課程</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">初級溯溪課程</h2>\r\n\r\n<img
-      src=\"http://i.imgur.com/iOiW6TJ.jpg\" />\r\n<p>◎課程項目：</p>\r\n<ul><li><span
-      style=\"background-color: transparent;\">溯溪源由</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">溯溪基本安全觀念、熱身法</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">溯溪基本裝備認識與運用</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">溪谷行進互相技巧〔泳渡、攀爬及跳石法〕</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">高繞垂降安全法</span>\r\n</li>\r\n</ul>\r\n<p>◎課程時間：4小時室內課及1天戶外課 滿6人開課</p>\r\n<p>◎課程地點：<br
-      />室內課　新店瑠公公園岩場或小鬍子室內岩場<br />戶外課　三峽中坑溪或萬里頭前溪</p>\r\n<p>◎課程裝備：</p>\r\n<p>安全吊帶、頭盔、溯溪鞋、大D有鎖勾環2個、勾環2個、８字環、護脛綁腿、繩環扣、泳鏡、小背包、防水袋、毛巾、備用衣物、救生衣＊、防寒衣＊、個人醫藥用品<br
+    - '2014-11-29 04:11:37.50595'
+    - '2014-12-08 07:04:55.766149'
+    - "<h1 class=\"text-align-center\">攀樹體驗</h1>\r\n<img src=\"http://i.imgur.com/fcbxdNh.jpg\"
+      />\r\n<p>『樹攀』是以對樹產生最少的衝擊去親近、認識它。透過人樹安全原則，用輔助攀繩方式到達樹上，在樹上登高望遠，可以做動、植物的觀察，亦可以修剪樹枝，過程是種休閒運動，也是生活樂趣。</p>\r\n\r\n<p>活動流程：</p>\r\n<p>上午班<br
+      />07：30　新北投捷運站集合（搭捷運、開車、騎車都可以）<br />08：00　活動安全講解、著裝<br />08：30　攀樹體驗進行<br />12：00　活動結束</p>\r\n<p>下午班<br
+      />12：30　新北投捷運站集合（搭捷運、開車、騎車都可以）<br />13：00　活動安全講解、著裝<br />13：30　攀樹體驗進行<br />17：00　活動結束</p>\r\n<p>在不同的高度，有不同的視野，不同的心情喔～</p>\r\n\r\n<a
+      href=\"#\" class=\"button\">我要報名！</a>\r\n\r\n<h1 class=\"text-align-center\">攀樹課程</h1>\r\n\r\n<hr
+      />\r\n\r\n<h2 class=\"text-align-center\">初級攀樹課程</h2>\r\n\r\n<img src=\"http://i.imgur.com/1BvJ9W8.jpg\"
+      />\r\n<p>此課程適用於樹冠層的觀測、生態研究調查、修剪樹枝、高空安全作業及休閒運動◎課程項目：</p>\r\n<p>◎課程項目：</p>\r\n<ul><li><span
+      style=\"background-color: transparent;\">攀樹介紹</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">攀樹觀念、備忘錄、口令</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">攀樹裝備介紹、運用、保養</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">攀樹結繩，架設操作系統</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">地上（樹上）投擲系統操作</span>\r\n</li>\r\n</ul>\r\n<p>◎課程天數： 三天</p>\r\n<p>◎\t注意事項：</p>\r\n<ul><li><span
+      style=\"background-color: transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">請穿著俱彈性之輕便服裝及具包覆性之硬底鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">取消課程之退費規定：於上課日20天前取消退80%，於上課日2天前取消退70%，於上課日前1天取消退50%，上課當日取消則不退費。</span>\r\n</li>\r\n</ul>\r\n\r\n<p><a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n</p>\r\n\r\n<hr />\r\n\r\n<p>進階攀樹課程</p>\r\n<img
+      src=\"http://i.imgur.com/GxO84fB.jpg\" />\r\n<p>此課程適用於樹冠層的觀測、生態研究調查、修剪樹枝、高空安全作業及休閒運動</p>\r\n<p>◎課程項目：</p>\r\n<ul><li><span
+      style=\"background-color: transparent;\">單、雙索人員救援系統操作</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">器材救援操作</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">橫渡轉換</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">吊掛救援系統操作</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">攀樹教授（危機處理）</span>\r\n</li>\r\n</ul>\r\n<p>◎課程天數：3天戶外〔不同場地操作〕<br
+      />　　　　　　2天野外樹宿操作〔需過夜〕</p>\r\n<p>◎\t注意事項：</p>\r\n<ul><li><span style=\"background-color:
+      transparent;\">此課程需具備基礎學習經驗者。</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">請穿著俱彈性之輕便服裝及具包覆性之硬底鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">取消課程之退費規定：於上課日20天前取消退80%，於上課日2天前取消退70%，於上課日前1天取消退50%，上課當日取消則不退費。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n"
+  - - '21'
+    - '21'
+    - en
+    - '2014-11-29 04:11:37.509716'
+    - '2014-11-29 04:11:37.509716'
+    - ''
+  - - '22'
+    - '22'
+    - en
+    - '2014-11-29 04:15:52.325297'
+    - '2014-12-08 07:05:25.105247'
+    - "<h1 class=\"text-align-center\">溯溪體驗</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">三峽中坑溪</h2>\r\n<img
+      src=\"http://i.imgur.com/eKBDtef.jpg\" />\r\n<p>活動項目：</p>\r\n<p>溯行安全觀念、互助溯行技巧、瀑布攀爬、滑水</p>\r\n<p>活動流程：</p>\r\n<p>08：00　三峽「大板根森林溫泉渡假村」門口集合，引導開車前往<br
+      />08：30　停車處著裝、活動安全講解<br />09：00　步行至起溯點  熱身、互助溯行<br />11：00　激流突破、攀瀑<br />12：00　午餐休息<br
+      />13：00　繼續溯行，大攀瀑、滑水<br />15：30　大合照、山徑回程<br />16：00　回至停車處更衣<br />16：30　活動結束、歸賦</p>\r\n\r\n<a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">宜蘭南澳南溪–碧旦峽谷</h2>\r\n<img
+      src=\"http://i.imgur.com/Zymn32k.jpg\" />\r\n<p>活動項目：</p>\r\n<p>溯行安全觀念、互助溯行技巧、瀑布攀爬、滑水</p>\r\n<p>活動流程：</p>\r\n<p>08：00　三峽「大板根森林溫泉渡假村」門口集合，引導開車前往<br
+      />08：30　停車處著裝、活動安全講解<br />09：00　步行至起溯點  熱身、互助溯行<br />11：00　激流突破、攀瀑<br />12：00　午餐休息<br
+      />13：00　繼續溯行，大攀瀑、滑水<br />15：30　大合照、山徑回程<br />16：00　回至停車處更衣<br />16：30　活動結束、歸賦</p>\r\n\r\n<a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">宜蘭南澳鹿皮溪</h2>\r\n<img
+      src=\"http://i.imgur.com/ia6R10k.jpg\" />\r\n<p>活動項目：</p>\r\n<p>溯行安全觀念、互助溯行技巧、急流泳渡、攀瀑、跳水</p>\r\n<p>活動流程：</p>\r\n<p>08：30　南澳『建華冰店』集合，引導車行前往<br
+      />09：00　南澳鹿皮溪停車處、著裝、活動安全講解<br />10：00　步行往溪谷起溯點　熱身、互助溯行<br />10：30　泳渡、攀瀑、跳水<br
+      />12：00　午餐休息<br />13：00　急瀑溯行　至金岳大瀑布大合照<br />14：30　下溯，回程漂流<br />16：00　離開溪谷，回至停車處更衣<br
+      />16：30　活動結束、歸賦</p>\r\n\r\n<a href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr
+      />\r\n\r\n<h2 class=\"text-align-center\">新竹內灣錦屏溪</h2>\r\n<img src=\"http://i.imgur.com/ST1KGu1.jpg\"
+      />\r\n<p>活動項目：</p>\r\n<p>溯行安全觀念、互助溯行技巧、沖瀑、跳水</p>\r\n<p>活動流程：</p>\r\n<p>08：30　內灣橋旁7-11集合
+      \ 引導車行至停車處<br />        09：00　活動安全講解，著裝、熱身  步行至起溯點<br />        10：30　攔砂瀑布區前進小瀑布群<br
+      />        12：00　錦屏露天溫泉  午餐休息<br />        13：00　繼續溯行  深潭、瀑布<br />        14：00　原路下溯、漂流<br
+      />16：00　回至停車處更衣<br />        16：30　活動結束、歸賦  可至內灣老街逛逛</p>\r\n\r\n<a href=\"/聯絡我們\"
+      class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">烏來加九寮溪</h2>\r\n<img
+      src=\"http://i.imgur.com/j6uKcdU.jpg\" />\r\n<p>活動項目：</p>\r\n<p>溯行安全觀念、互助溯行技巧、滑瀑、跳水</p>\r\n<p>活動流程：</p>\r\n<p>09：00　捷運新店站集合，引導開車前往<br
+      />09：30　停車場著裝、步行至起溯點<br />10：00　活動安全講解、熱身<br />10：10　跳水、互助溯行、激流突破<br />12：00　午餐休息<br
+      />        13：00　雀巢檸檬茶、滑瀑<br />        16：00　圓圓滿滿、大合照<br />        16：30　山徑回程至停車場更衣<br
+      />        17：00　活動結束、歸賦</p>\r\n\r\n<a href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr
+      />\r\n\r\n<h2 class=\"text-align-center\">花蓮三棧南溪–黃金峽谷</h2>\r\n<img src=\"http://i.imgur.com/aIO0N9e.jpg\"
+      />\r\n<p>活動項目：</p>\r\n<p>溯行安全觀念、互助溯行技巧、深潭泳渡、攀瀑、跳水</p>\r\n<p>活動流程：</p>\r\n<p>05：00　台北集合出發<br
+      />    08：00　至花蓮三棧村，活動安全講解、著裝、熱身<br />    11：00　黃金峽谷深潭泳渡<br />    12：00　午餐休息<br
+      />    13：00　繼續溯行、跳水<br />    14：30　下溯，回程漂流　大合照<br />    16：00　離開溪谷，回至停車處更衣<br
+      />    16：30　活動結束、歸賦</p>\r\n\r\n\r\n<a href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr
+      />\r\n\r\n<h2 class=\"text-align-center\">萬里頭前溪</h2>\r\n<img src=\"http://i.imgur.com/7fl0wEi.jpg\"
+      />\r\n<p>活動項目：</p>\r\n<p>溯行安全觀念、互助溯行技巧、深潭泳渡、攀瀑、跳水</p>\r\n<p>活動流程：</p>\r\n<p>05：00　台北集合出發<br
+      />    08：00　至花蓮三棧村，活動安全講解、著裝、熱身<br />    11：00　黃金峽谷深潭泳渡<br />    12：00　午餐休息<br
+      />    13：00　繼續溯行、跳水<br />    14：30　下溯，回程漂流　大合照<br />    16：00　離開溪谷，回至停車處更衣<br
+      />    16：\r\n30　活動結束、歸賦</p>\r\n\r\n<a href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr
+      />\r\n\r\n<h1 class=\"text-align-center\">溯溪課程</h1>\r\n\r\n<hr />\r\n\r\n<h2
+      class=\"text-align-center\">初級溯溪課程</h2>\r\n\r\n<img src=\"http://i.imgur.com/iOiW6TJ.jpg\"
+      />\r\n<p>◎課程項目：</p>\r\n<ul><li><span style=\"background-color: transparent;\">溯溪源由</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">溯溪基本安全觀念、熱身法</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">溯溪基本裝備認識與運用</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">溪谷行進互相技巧〔泳渡、攀爬及跳石法〕</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">高繞垂降安全法</span>\r\n</li>\r\n</ul>\r\n<p>◎課程時間：4小時室內課及1天戶外課
+      滿6人開課</p>\r\n<p>◎課程地點：<br />室內課　新店瑠公公園岩場或小鬍子室內岩場<br />戶外課　三峽中坑溪或萬里頭前溪</p>\r\n<p>◎課程裝備：</p>\r\n<p>安全吊帶、頭盔、溯溪鞋、大D有鎖勾環2個、勾環2個、８字環、護脛綁腿、繩環扣、泳鏡、小背包、防水袋、毛巾、備用衣物、救生衣＊、防寒衣＊、個人醫藥用品<br
       /><br />(＊)為選擇性裝備</p>\r\n<p>◎注意事項：</p>\r\n<ul><li><span style=\"background-color:
       transparent;\">給想深入溪谷、體驗安全溯行的夥伴基礎練習。</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span style=\"background-color:
@@ -482,18 +389,98 @@ refinery_page_part_translations:
       style=\"background-color: transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">請穿著不易吸水且俱彈性之輕便服裝，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n\r\n"
-  - - '35'
-    - '35'
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />"
+  - - '23'
+    - '23'
     - en
-    - '2014-11-30 12:02:31.674885'
-    - '2014-11-30 12:02:31.674885'
+    - '2014-11-29 04:15:52.328711'
+    - '2014-11-29 04:15:52.328711'
     - ''
-  - - '36'
-    - '36'
+  - - '24'
+    - '24'
     - en
-    - '2014-11-30 12:03:14.853567'
-    - '2014-12-01 04:58:13.975862'
+    - '2014-11-29 04:20:02.839732'
+    - '2014-12-08 07:05:49.008656'
+    - "<h1 class=\"text-align-center\">綜合登山活動</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">水<span
+      class=\"text-align-center\">漾</span>森林</h2>\r\n<img src=\"http://i.imgur.com/qFsOSWC.jpg\"
+      />\r\n<p>山林袐境探訪體驗-水漾森林　美麗又夢幻的湖泊<br />九二一地震讓阿里山鄉豐山村的深山裡，出現一個四公頃的高山堰塞湖。原本翠綠的柳杉林因長期浸泡在湖水裡，慢慢的相繼死亡，造成白木林奇景。白木林與藍天相映在水中，尤如傳說中的人間仙境。隨著枯木慢慢傾倒，已快成為消失的仙境。歡迎各位跟著我們，帶您到這傳說中的人間仙境。</p>\r\n<p>活動時間：<br
+      /><span style=\"background-color: transparent;\">二天二夜  滿6人成行</span>\r\n</p>\r\n<p>行程內容：</p>\r\n<p>前1晚<br
+      />21：00　集合出發　至杉林溪  車上休息</p>\r\n<p>第1天<br />06：30　晨喚，早餐<br />07︰30<span class=\"Apple-tab-span\"
+      style=\"white-space:pre\">\t</span>整裝，接駁至人亭登山口<br />08：00　出發～沿著林道前進<br />12︰00　工寮　休息、午餐<br
+      />13︰00　再出發往水漾森林前進<br />14︰00　溪阿縱走岔路。請注意跟隨嚮導的指示前進<br />16︰00  水漾森林紮營　自由活動<br
+      />※此時請配合專業嚮導的指示，在安全的範圍裡活動，體驗野炊及美食晚餐饗宴。</p>\r\n<p>第2天<br />06：00　晨喚　欣賞湖畔的日出並享用早餐<br
+      />07︰00　出發　享受一早的森林美景<br />08︰00　回到溪阿縱走岔路。請務必聽嚮導指示前進<br />11︰30　工寮　休息、午餐<br />12︰30　再出發　下山回程<br
+      />15︰30　回到人亭登山口　休息，等待所有隊員<br />16︰00　接駁車回停車場　告別杉林溪</p>\r\n<p>個人所需裝備：<br />禦寒及備用衣物、雨衣褲、便帽(保暖帽)、飲水2000cc、背包、個人碗筷餐具、登山健行鞋、登山杖、小毛巾、大小塑膠袋、頭燈(手電桶)、個人隨身醫藥用品、睡袋※。<br
+      /><span style=\"background-color: transparent;\">※睡袋：由於個人衛生習慣之因素請自備，會請高山協作幫忙背負。</span>\r\n</p>\r\n<p>辦理入山及保險所需個人資料：<br
+      /><span style=\"background-color: transparent;\">姓名、出生年月日、身份證字號、地址、電話、緊急聯絡人姓名、關係、電話。</span>\r\n</p>\r\n注意事項：<br
+      /><ol><li><span style=\"background-color: transparent;\">請著貼身排汗俱彈性、方便活動之衣物(勿穿綿衫及牛仔褲)。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">活動前一晚若想提早到達杉林溪民宿休息，可提供代訂「林溪民宿」。此費用不包含在活動費用裡。</span>\r\n</li>\r\n</ol>\r\n\r\n<a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">雪山主東峰</h2>\r\n<img
+      src=\"http://i.imgur.com/sk70tiD.jpg\" />\r\n<p>高山百岳漫步體驗-雪山主東峰<br />雪山主峰為全台灣第二高峰標高3886公尺，屬雪山山脈最高峰，在台灣僅次於玉山主峰。台灣百岳之中，雪山與玉山、秀姑巒山、南湖大山、北大武山合稱五嶽。</p>\r\n<p>活動時間：二天二夜
+      \ 滿6人成行</p>\r\n<p>行程內容：</p>\r\n<p>前1晚<br />21：00　集合出發　至杉林溪  車上休息</p>\r\n<p>第1天<br
+      />06：30　晨喚，早餐<br />07︰30  整裝，接駁至人亭登山口<br />08：00　出發～沿著林道前進<br />12︰00　工寮　休息、午餐<br
+      />13︰00　再出發往水漾森林前進<br />14︰00　溪阿縱走岔路。請注意跟隨嚮導的指示前進<br />16︰00  水漾森林紮營　自由活動<br
+      />※此時請配合專業嚮導的指示，在安全的範圍裡活動，體驗野炊及美食晚餐饗宴。</p>\r\n<p>第2天<br />06：00　晨喚　欣賞湖畔的日出並享用早餐<br
+      />07︰00　出發　享受一早的森林美景<br />08︰00　回到溪阿縱走岔路。請務必聽嚮導指示前進<br />11︰30　工寮　休息、午餐<br />12︰30　再出發　下山回程<br
+      />15︰30　回到人亭登山口　休息，等待所有隊員<br />16︰00　接駁車回停車場　告別杉林溪</p>\r\n<p>個人所需裝備：禦寒及備用衣物、雨衣褲、便帽(保暖帽)、飲水2000cc、背包、個人碗筷餐具、登山健行鞋、登山杖、小毛巾、大小塑膠袋、頭燈(手電桶)、個人隨身醫藥用品、睡袋※。</p>\r\n<p>※睡袋：由於個人衛生習慣之因素請自備，會請高山協作幫忙背負。</p>\r\n<p>辦理入山及保險所需個人資料：<br
+      />姓名、出生年月日、身份證字號、地址、電話、緊急聯絡人姓名、關係、電話。</p>\r\n注意事項：<br /><ol><li><span style=\"background-color:
+      transparent;\">請著貼身排汗俱彈性、方便活動之衣物(勿穿綿衫及牛仔褲)。</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">活動前一晚若想提早到達杉林溪民宿休息，可提供代訂「林溪民宿」。此費用不包含在活動費用裡。</span>\r\n</li>\r\n</ol>\r\n\r\n<a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />"
+  - - '25'
+    - '25'
+    - en
+    - '2014-11-29 04:20:02.84322'
+    - '2014-11-29 04:20:02.84322'
+    - ''
+  - - '28'
+    - '28'
+    - en
+    - '2014-11-29 04:21:54.322221'
+    - '2014-11-29 15:35:23.380552'
+    - "<h1 class=\"text-align-center\">大海浮潛</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">東北角龍洞浮潛</h2>\r\n<img
+      src=\"http://i.imgur.com/7b941q7.jpg\" />\r\n<p>活動流程：<br />08：00　龍洞街和美國小前集合<br
+      />08：20　活動安全講解　著裝、熱身<br />08：50　步行至浮潛區<br />09：10　浮潛體驗<br />12：00　步行回停車處更衣沖水，活動結束</p>★\t注意事項：<br
+      /><ol><li><span style=\"background-color: transparent;\">個人報名以繳交報名表及活動款項後，才算報名完成。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">自備交通、午餐、飲水、防曬用品、備用衣物、毛巾及個人用品。請穿著俱彈性且不易吸水之輕便衣物，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">歡迎企業、公司行號、學校社團及機關團體等預約活動。預約需於活動日20天前決定，並簽訂契約及支付活動總計費用之50%為訂金。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">活動若因天候或其它不可抗拒之因素，將考量人員安全，決定取消或順延或更改行程內容。</span>\r\n</li>\r\n</ol>\r\n\r\n\r\n<a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />"
+  - - '29'
+    - '29'
+    - en
+    - '2014-11-29 04:21:54.3258'
+    - '2014-11-29 04:21:54.3258'
+    - ''
+  - - '30'
+    - '30'
+    - en
+    - '2014-11-29 14:49:57.756595'
+    - '2014-11-29 14:49:57.756595'
+    - ''
+  - - '31'
+    - '31'
+    - en
+    - '2014-11-29 14:49:57.760913'
+    - '2014-11-29 14:49:57.760913'
+    - ''
+  - - '42'
+    - '42'
+    - en
+    - '2014-12-08 07:00:39.302205'
+    - '2014-12-08 07:00:39.302205'
+    - ''
+  - - '43'
+    - '43'
+    - en
+    - '2014-12-08 07:00:39.369232'
+    - '2014-12-08 07:00:39.369232'
+    - ''
+  - - '44'
+    - '44'
+    - en
+    - '2014-12-08 07:02:40.403555'
+    - '2014-12-08 07:02:40.403555'
     - "<h1 class=\"text-align-center\">雪訓課程</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">初級雪訓–合歡山</h2>\r\n\r\n<img
       src=\"http://i.imgur.com/PGGpfTr.jpg\" />\r\n<p>◎課程項目：</p>\r\n<ul><li><span
       style=\"background-color: transparent;\">雪訓操作裝備及身心體能的準備</span>\r\n</li>\r\n<li><span
@@ -530,8 +517,8 @@ refinery_page_part_translations:
       style=\"background-color: transparent;\">無鎖勾環 X 4</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">50cm繩環 X 2</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">8字環</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">6mm普魯士繩250cm</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">6mm普魯士繩150cm</span>\r\n</li><li><span style=\"background-color:
+      transparent;\">6mm普魯士繩250cm</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">6mm普魯士繩150cm</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">備用衣物</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">塑膠袋</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">小背包</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">防水布、求生紙</span>\r\n</li>\r\n<li><span style=\"background-color:
@@ -573,30 +560,31 @@ refinery_page_part_translations:
       transparent;\">水壺（保溫瓶）</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">防曬油及護脣膏</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">地圖、指北針及相關資料</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">頭燈（備電池）</span>\r\n</li><li><span style=\"background-color: transparent;\">個人餐具、伙食（行動糧）</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">鍋具、爐具、瓦斯、火柴</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">個人證件及藥品等</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">安全頭盔</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">安全吊帶</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">長冰斧</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">冰爪（快扣式或綁帶式）</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">大D有鎖勾環 X 4</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">無鎖勾環 X 4</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">50cm繩環 X 2</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">8字環</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">6mm普魯士繩250cm</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">6mm普魯士繩150cm</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">備用衣物</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">塑膠袋</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">小背包</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">防水布、求生紙</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">帳篷</span>\r\n</li><li><span style=\"background-color: transparent;\">動力單繩30m以上(2人以上共同使用)</span>\r\n</li></ol>\r\n<p><span
-      style=\"background-color: transparent;\">◎建議裝備：</span>\r\n</p>\r\n<ol><li><span
-      style=\"background-color: transparent;\">睡袋內套</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">備用雪鏡或墨鏡</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">暖暖袋</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">相機</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">便鞋</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">毛巾</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">筆記本、筆、錢</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">擋風板</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">營燈</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">望遠鏡</span>\r\n</li>\r\n</ol>\r\n<p>◎注意事項：</p>\r\n<ul><li><span
+      transparent;\">頭燈（備電池）</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">個人餐具、伙食（行動糧）</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">鍋具、爐具、瓦斯、火柴</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">個人證件及藥品等</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">安全頭盔</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">安全吊帶</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">長冰斧</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">冰爪（快扣式或綁帶式）</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">大D有鎖勾環 X 4</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">無鎖勾環 X 4</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">50cm繩環 X 2</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">8字環</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">6mm普魯士繩250cm</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">6mm普魯士繩150cm</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">備用衣物</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">塑膠袋</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">小背包</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">防水布、求生紙</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">帳篷</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">動力單繩30m以上(2人以上共同使用)</span>\r\n</li>\r\n</ol>\r\n<p><span style=\"background-color:
+      transparent;\">◎建議裝備：</span>\r\n</p>\r\n<ol><li><span style=\"background-color:
+      transparent;\">睡袋內套</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">備用雪鏡或墨鏡</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">暖暖袋</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">相機</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">便鞋</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">毛巾</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">筆記本、筆、錢</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">擋風板</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">營燈</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">望遠鏡</span>\r\n</li>\r\n</ol>\r\n<p>◎注意事項：</p>\r\n<ul><li><span
       style=\"background-color: transparent;\">參與雪訓需有登山基礎。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">因顧及訓練教育及安全考量，所有參加人均需團進團出。</span>\r\n</li>\r\n<li><span
@@ -643,15 +631,15 @@ refinery_page_part_translations:
       style=\"background-color: transparent;\">無鎖勾環 X 4</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">50cm繩環 X 4</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">8字環</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">6mm普魯士繩250cm</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">6mm普魯士繩150cm</span>\r\n</li><li><span style=\"background-color:
+      transparent;\">6mm普魯士繩250cm</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">6mm普魯士繩150cm</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">備用衣物</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">塑膠袋</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">小背包</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">防水布、求生紙</span>\r\n</li><li><span style=\"background-color: transparent;\">螺旋冰鑽2支</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">岩釘3支</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">露宿袋、外帳</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">背包套</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">猶瑪</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">動力單繩50m以上(2人以上共同使用)</span>\r\n</li></ol>\r\n<p>◎建議裝備：</p>\r\n<ol><li><span
+      transparent;\">防水布、求生紙</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">螺旋冰鑽2支</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">岩釘3支</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">露宿袋、外帳</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">背包套</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">猶瑪</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">動力單繩50m以上(2人以上共同使用)</span>\r\n</li>\r\n</ol>\r\n<p>◎建議裝備：</p>\r\n<ol><li><span
       style=\"background-color: transparent;\">睡袋內套</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">備用雪鏡或墨鏡</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">望遠鏡</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">相機</span>\r\n</li>\r\n<li><span
@@ -664,54 +652,18 @@ refinery_page_part_translations:
       style=\"background-color: transparent;\">因顧及訓練教育及安全考量，所有參加人均需團進團出。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">報名事項請參考報名表上內容。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">消或延期課程之退費規定：玉山國家公園雪季申請雪訓名額有限，於上課日起一個月前送件申請後，提出取消則退課程費用50%，提出延期需扣課程費用30%之行政費用。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n\r\n"
-  - - '37'
-    - '37'
-    - en
-    - '2014-11-30 12:03:14.857133'
-    - '2014-11-30 12:03:14.857133'
-    - ''
-  - - '38'
-    - '38'
-    - en
-    - '2014-11-30 12:03:59.174969'
-    - '2014-11-30 15:21:38.065319'
-    - "<h1 class=\"text-align-center\">攀樹課程</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">初級攀樹課程</h2>\r\n\r\n<img
-      src=\"http://i.imgur.com/1BvJ9W8.jpg\" />\r\n<p>此課程適用於樹冠層的觀測、生態研究調查、修剪樹枝、高空安全作業及休閒運動◎課程項目：</p>\r\n<p>◎課程項目：</p>\r\n<ul><li><span
-      style=\"background-color: transparent;\">攀樹介紹</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">攀樹觀念、備忘錄、口令</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">攀樹裝備介紹、運用、保養</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">攀樹結繩，架設操作系統</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">地上（樹上）投擲系統操作</span>\r\n</li>\r\n</ul>\r\n<p>◎課程天數： 三天</p>\r\n<p>◎\t注意事項：</p>\r\n<ul><li><span
-      style=\"background-color: transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">請穿著俱彈性之輕便服裝及具包覆性之硬底鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">取消課程之退費規定：於上課日20天前取消退80%，於上課日2天前取消退70%，於上課日前1天取消退50%，上課當日取消則不退費。</span>\r\n</li>\r\n</ul>\r\n\r\n<p><a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n</p>\r\n\r\n<hr />\r\n\r\n<p>進階攀樹課程</p>\r\n<img
-      src=\"http://i.imgur.com/GxO84fB.jpg\" />\r\n<p>此課程適用於樹冠層的觀測、生態研究調查、修剪樹枝、高空安全作業及休閒運動</p>\r\n<p>◎課程項目：</p>\r\n<ul><li><span
-      style=\"background-color: transparent;\">單、雙索人員救援系統操作</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">器材救援操作</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">橫渡轉換</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">吊掛救援系統操作</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">攀樹教授（危機處理）</span>\r\n</li>\r\n</ul>\r\n<p>◎課程天數：3天戶外〔不同場地操作〕<br
-      />　　　　　　2天野外樹宿操作〔需過夜〕</p>\r\n<p>◎\t注意事項：</p>\r\n<ul><li><span style=\"background-color:
-      transparent;\">此課程需具備基礎學習經驗者。</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">請穿著俱彈性之輕便服裝及具包覆性之硬底鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">取消課程之退費規定：於上課日20天前取消退80%，於上課日2天前取消退70%，於上課日前1天取消退50%，上課當日取消則不退費。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
       href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n"
-  - - '39'
-    - '39'
+  - - '45'
+    - '45'
     - en
-    - '2014-11-30 12:03:59.178076'
-    - '2014-11-30 12:03:59.178076'
+    - '2014-12-08 07:02:40.42273'
+    - '2014-12-08 07:02:40.42273'
     - ''
-  - - '40'
-    - '40'
+  - - '46'
+    - '46'
     - en
-    - '2014-11-30 12:04:48.147742'
-    - '2014-11-30 15:29:07.758618'
+    - '2014-12-08 07:03:44.891503'
+    - '2014-12-08 07:03:44.891503'
     - "<h1 class=\"text-align-center\">海外攀登</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">海外攀登健行–馬來西亞神山七頂峰攀登健行
       《八天行程》</h2>\r\n\r\n<img src=\"http://i.imgur.com/r3zG2ml.jpg\" />\r\n<p>海外攀登健行–馬來西亞神山七頂峰攀登健行《八天行程》<br
       />※國內唯一帶領神山『非傳統』路線攀登健行者※</p>\r\n<p>◎行程規劃：<br />　　第一天　台北–亞庇市–住宿天山山莊<br />　　第二天　天山山莊–國家公園–住宿沙葉沙葉山屋<br
@@ -737,12 +689,27 @@ refinery_page_part_translations:
       style=\"background-color: transparent;\">禁止販賣吸食毒品！</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">特別申請需於活動日40天前辦理。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">報名經核准，出發前有行前說明會。</span>\r\n</li>\r\n</ul>\r\n<p>～　歡迎喜好高山攝影的朋友來參加　～</p>\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n\r\n<hr />\r\n\r\n\r\n\r\n\r\n"
-  - - '41'
-    - '41'
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n\r\n<hr />\r\n\r\n\r\n\r\n"
+  - - '47'
+    - '47'
     - en
-    - '2014-11-30 12:04:48.151015'
-    - '2014-11-30 12:04:48.151015'
+    - '2014-12-08 07:03:44.895223'
+    - '2014-12-08 07:03:44.895223'
+    - ''
+  - - '48'
+    - '48'
+    - en
+    - '2014-12-08 07:06:42.525228'
+    - '2014-12-08 07:06:42.525228'
+    - "<h1 class=\"text-align-center\">高空滑降</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">龍洞高空滑降體驗</h2>\r\n<img
+      src=\"http://i.imgur.com/qgqxnNC.jpg\" />\r\n<p>走出戶外看見海之美景，親臨現場之高聳岩壁，勇敢跨出百米滑降，挑戰你的腎上腺素</p>\r\n<p>大海~藍天~陽光~我來嘍~~</p>\r\n<p>★活動需滿15人成行～可配合環境與其它活動結合一同體驗<br
+      />例如：滑降 + 攀岩 或 滑降 + 浮潛...等</p>\r\n<p>二合一活動：滑降需滿15人，附加活動需滿6人<br />費用含教練、保險、裝備器材用具、活動安全裝備等</p>\r\n\r\n<a
+      href=\"/#contactsect\" class=\"button\">我要報名！</a>\r\n<hr />"
+  - - '49'
+    - '49'
+    - en
+    - '2014-12-08 07:06:42.54354'
+    - '2014-12-08 07:06:42.54354'
     - ''
 
 ---
@@ -768,16 +735,16 @@ refinery_users:
     - admin
     - test@test.com
     - "$2a$10$B5wM0KRDPUUN6Ha840J7DO9M8JmSvu84Rmx9/CJFvcdcgomp6uDtW"
+    - '2014-12-08 06:58:48.428601'
     - '2014-11-29 03:50:30.535039'
-    - '2014-11-28 02:43:59.514448'
     - 127.0.0.1
     - 127.0.0.1
-    - '8'
+    - '9'
     - 
     - 
     - 
     - '2014-11-15 01:20:26.739335'
-    - '2014-11-29 03:50:30.682973'
+    - '2014-12-08 06:58:48.646015'
     - admin
 
 ---
@@ -828,20 +795,6 @@ refinery_page_parts:
     - '1'
     - '2014-11-17 06:39:07.426888'
     - '2014-11-17 06:39:07.426888'
-  - - '10'
-    - '5'
-    - Body
-    - ''
-    - '0'
-    - '2014-11-17 06:39:23.490594'
-    - '2014-11-30 11:39:17.851993'
-  - - '11'
-    - '5'
-    - Side Body
-    - ''
-    - '1'
-    - '2014-11-17 06:39:23.493218'
-    - '2014-11-17 06:39:23.493218'
   - - '12'
     - '6'
     - Body
@@ -955,10 +908,58 @@ refinery_page_parts:
       style=\"background-color: transparent;\">岩壁垂降</span>\r\n</li>\r\n</ul>\r\n<p>活動流程：</p>\r\n<p>08︰00　龍洞和美國小集合<br
       />08︰10　活動安全講解、步行出發進入岩場<br />09︰00　活動分組循環進行體驗<br />12︰00　午餐休息時間<br />13︰00　活動繼續進行<br
       />15︰30　分享時間、合照<br />16︰00　回程、歸賦</p>\r\n\r\n<a href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr
-      />"
+      />\r\n\r\n<h1 class=\"text-align-center\">攀岩課程</h1>\r\n\r\n<hr />\r\n\r\n<h2
+      class=\"text-align-center\">初級岩訓課程</h2>\r\n\r\n<img src=\"http://i.imgur.com/CKmMjd4.jpg\"
+      />\r\n<p>◎課程項目：</p>\r\n<ul><li><span style=\"background-color: transparent;\">雙8字結</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">安全攀登觀念</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">裝備認識與使用</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">平衡攀登練習</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">熱暖身運動</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">岩壁垂降練習</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">安全確保</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">攀登口令規則</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">收理繩的方法</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">繩索裝備保養</span>\r\n</li>\r\n</ul>\r\n\r\n<p>◎課程時間： 08：00 ~ 17：00</p>\r\n<p>◎上課地點：
+      東北角龍洞岩場、新北投熱海岩場、檳榔路岩場或室內岩場</p>\r\n<p>◎課程裝備： 安全頭盔、安全吊帶、岩鞋、大D有鎖勾環、8字環、主繩及輔助繩<br
+      />【全部由小鬍子冒險學校提供無需自備】</p>\r\n<p>◎注意事項：</p>\r\n<ul>\r\n<li><span style=\"background-color:
+      transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">請穿著俱彈性易活動之輕便服裝及運動鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n<a href=\"/聯絡我們\"
+      class=\"button\">我要報名！</a>\r\n<p class=\"text-align-center\"></p>\r\n\r\n<hr
+      />\r\n\r\n<p>中級岩訓課程</p>\r\n<img src=\"http://i.imgur.com/T4HB6Cd.jpg\" />\r\n<p>◎課程項目：</p>\r\n<ul><li><span
+      style=\"background-color: transparent;\">固定點架設運用</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">裝備介紹及天然岩場岩械使用架設</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">動態確保</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">確保脫出練習</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">普魯士攀升轉換垂降</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">先鋒攀登</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">繩隊攀登</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">TOP ROPE 架設</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">撤退轉換</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">比賽規則</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">平衡攀登技巧</span>\r\n</li>\r\n</ul>\r\n<p>◎課程時間：星期六、日
+      08：00～ 17：00 《共五天》</p>\r\n<p>◎課程地點：東北角龍洞岩場</p>\r\n<p>◎課程裝備：<br />個人裝備：安全吊帶、頭盔、岩鞋、粉袋、大D有鎖勾環4個、無鎖勾環4個、八字環、確保器、繩環2條(90cm)
+      、繩鍊、傘帶(100cm)2條、普魯士繩2條(6mm 140cm+170cm)<br />繩隊裝備：11mm主繩50m、輔助繩20m、岩械2組(20支)
+      、活動岩械6支、快扣12組、解岩器2支、不鏽鋼保險O型環2個</p>\r\n<p>◎注意事項：</p>\r\n<ul><li><span style=\"background-color:
+      transparent;\">開課前須檢測初岩基本攀登、確保、先鋒攀登、先鋒確保、系統轉換之能力。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">請穿著俱彈性易活動之輕便服裝及運動鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">課程結束後，測驗通過發給《中級岩訓學習證書》。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">初岩進階課程</h2>\r\n<img
+      src=\"http://i.imgur.com/GUay8OR.jpg\" />\r\n<p>◎課程項目：</p>\r\n<p>第一天</p>\r\n<ul><li><span
+      style=\"background-color: transparent;\">平衡攀登練習</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">運動攀登</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">先鋒確保</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">六大繩結</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">課後研討</span>\r\n</li>\r\n</ul>\r\n<p>第二天</p>\r\n<ul><li>先鋒撤退</li>\r\n<li>複習</li>\r\n<li>測驗及結訓</li>\r\n</ul>\r\n<p>◎課程時間：星期六、日
+      \ AM 08：00~PM 17：00</p>\r\n<p>◎課程地點：星期六  東北角龍洞岩場、新店瑠公公園岩場或小鬍子室內岩場<br />　　　　　　
+      星期日  樹林攀岩場、檳榔路岩場或室內岩場</p>\r\n<p>◎課程裝備：<br />自備個人裝備：安全吊帶、岩鞋、粉袋、大D有鎖勾環2個、快扣組6組、確保器、攀登繩（單繩）45米每組一條、繩鍊</p>\r\n<p>◎課程費用：每人費用NT$3,500元（未稅）滿6人開課<br
+      />　　　　　　 費用包含教練、保險</p>\r\n<p>◎注意事項：</p>\r\n<ul><li><span style=\"background-color:
+      transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">請穿著俱彈性易活動之輕便服裝及運動鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a href=\"/聯絡我們\"
+      class=\"button\">我要報名！</a>\r\n<hr />"
     - '0'
     - '2014-11-29 04:11:06.189878'
-    - '2014-11-29 15:06:03.546145'
+    - '2014-12-08 07:04:18.729234'
   - - '19'
     - '8'
     - Side Body
@@ -973,10 +974,35 @@ refinery_page_parts:
       />\r\n<p>『樹攀』是以對樹產生最少的衝擊去親近、認識它。透過人樹安全原則，用輔助攀繩方式到達樹上，在樹上登高望遠，可以做動、植物的觀察，亦可以修剪樹枝，過程是種休閒運動，也是生活樂趣。</p>\r\n\r\n<p>活動流程：</p>\r\n<p>上午班<br
       />07：30　新北投捷運站集合（搭捷運、開車、騎車都可以）<br />08：00　活動安全講解、著裝<br />08：30　攀樹體驗進行<br />12：00　活動結束</p>\r\n<p>下午班<br
       />12：30　新北投捷運站集合（搭捷運、開車、騎車都可以）<br />13：00　活動安全講解、著裝<br />13：30　攀樹體驗進行<br />17：00　活動結束</p>\r\n<p>在不同的高度，有不同的視野，不同的心情喔～</p>\r\n\r\n<a
-      href=\"#\" class=\"button\">我要報名！</a>"
+      href=\"#\" class=\"button\">我要報名！</a>\r\n\r\n<h1 class=\"text-align-center\">攀樹課程</h1>\r\n\r\n<hr
+      />\r\n\r\n<h2 class=\"text-align-center\">初級攀樹課程</h2>\r\n\r\n<img src=\"http://i.imgur.com/1BvJ9W8.jpg\"
+      />\r\n<p>此課程適用於樹冠層的觀測、生態研究調查、修剪樹枝、高空安全作業及休閒運動◎課程項目：</p>\r\n<p>◎課程項目：</p>\r\n<ul><li><span
+      style=\"background-color: transparent;\">攀樹介紹</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">攀樹觀念、備忘錄、口令</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">攀樹裝備介紹、運用、保養</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">攀樹結繩，架設操作系統</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">地上（樹上）投擲系統操作</span>\r\n</li>\r\n</ul>\r\n<p>◎課程天數： 三天</p>\r\n<p>◎\t注意事項：</p>\r\n<ul><li><span
+      style=\"background-color: transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">請穿著俱彈性之輕便服裝及具包覆性之硬底鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">取消課程之退費規定：於上課日20天前取消退80%，於上課日2天前取消退70%，於上課日前1天取消退50%，上課當日取消則不退費。</span>\r\n</li>\r\n</ul>\r\n\r\n<p><a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n</p>\r\n\r\n<hr />\r\n\r\n<p>進階攀樹課程</p>\r\n<img
+      src=\"http://i.imgur.com/GxO84fB.jpg\" />\r\n<p>此課程適用於樹冠層的觀測、生態研究調查、修剪樹枝、高空安全作業及休閒運動</p>\r\n<p>◎課程項目：</p>\r\n<ul><li><span
+      style=\"background-color: transparent;\">單、雙索人員救援系統操作</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">器材救援操作</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">橫渡轉換</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">吊掛救援系統操作</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">攀樹教授（危機處理）</span>\r\n</li>\r\n</ul>\r\n<p>◎課程天數：3天戶外〔不同場地操作〕<br
+      />　　　　　　2天野外樹宿操作〔需過夜〕</p>\r\n<p>◎\t注意事項：</p>\r\n<ul><li><span style=\"background-color:
+      transparent;\">此課程需具備基礎學習經驗者。</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">請穿著俱彈性之輕便服裝及具包覆性之硬底鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">取消課程之退費規定：於上課日20天前取消退80%，於上課日2天前取消退70%，於上課日前1天取消退50%，上課當日取消則不退費。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n"
     - '0'
     - '2014-11-29 04:11:37.503801'
-    - '2014-11-29 14:36:37.698918'
+    - '2014-12-08 07:04:55.764524'
   - - '21'
     - '9'
     - Side Body
@@ -1020,10 +1046,42 @@ refinery_page_parts:
       />    08：00　至花蓮三棧村，活動安全講解、著裝、熱身<br />    11：00　黃金峽谷深潭泳渡<br />    12：00　午餐休息<br
       />    13：00　繼續溯行、跳水<br />    14：30　下溯，回程漂流　大合照<br />    16：00　離開溪谷，回至停車處更衣<br
       />    16：\r\n30　活動結束、歸賦</p>\r\n\r\n<a href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr
-      />"
+      />\r\n\r\n<h1 class=\"text-align-center\">溯溪課程</h1>\r\n\r\n<hr />\r\n\r\n<h2
+      class=\"text-align-center\">初級溯溪課程</h2>\r\n\r\n<img src=\"http://i.imgur.com/iOiW6TJ.jpg\"
+      />\r\n<p>◎課程項目：</p>\r\n<ul><li><span style=\"background-color: transparent;\">溯溪源由</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">溯溪基本安全觀念、熱身法</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">溯溪基本裝備認識與運用</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">溪谷行進互相技巧〔泳渡、攀爬及跳石法〕</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">高繞垂降安全法</span>\r\n</li>\r\n</ul>\r\n<p>◎課程時間：4小時室內課及1天戶外課
+      滿6人開課</p>\r\n<p>◎課程地點：<br />室內課　新店瑠公公園岩場或小鬍子室內岩場<br />戶外課　三峽中坑溪或萬里頭前溪</p>\r\n<p>◎課程裝備：</p>\r\n<p>安全吊帶、頭盔、溯溪鞋、大D有鎖勾環2個、勾環2個、８字環、護脛綁腿、繩環扣、泳鏡、小背包、防水袋、毛巾、備用衣物、救生衣＊、防寒衣＊、個人醫藥用品<br
+      /><br />(＊)為選擇性裝備</p>\r\n<p>◎注意事項：</p>\r\n<ul><li><span style=\"background-color:
+      transparent;\">給想深入溪谷、體驗安全溯行的夥伴基礎練習。</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">請穿著不易吸水且俱彈性之輕便服裝，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n<a href=\"/聯絡我們\"
+      class=\"button\">我要報名！</a>\r\n<p class=\"text-align-center\"></p>\r\n\r\n<hr
+      />\r\n\r\n<p>中級溯溪課程</p>\r\n<img src=\"http://i.imgur.com/zHMd15F.jpg\" />\r\n<p>◎課程項目：</p>\r\n<ul><li><span
+      style=\"background-color: transparent;\">結繩法</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">體能訓練法</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">裝備打包裝填法</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">地形圖繪製</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">裝備運用、整理與保養</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">固定點架設運用</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">深潭泳渡突破技巧</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">輔助攀登技巧</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">宿營炊事法</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">帶隊安全技巧</span>\r\n</li>\r\n</ul>\r\n<p>◎課程時間：2小時室內課、1天郊山溪谷及3天高山溪谷</p>\r\n<p>◎課程地點：<br
+      />室內課　新店瑠公公園岩場或小鬍子室內岩場<br />戶外課　1天萬里頭前溪<br />3天高山溪谷《合歡溪或塔次基里溪》</p>\r\n<p>◎課程裝備：<br
+      />安全吊帶、頭盔、溯溪鞋、大D有鎖勾環4個、勾環4個、８字環、護脛綁腿、繩環扣、確保器、泳鏡、防水袋(塑膠袋) 、繩環2條(50cm) 、普魯士繩2條(6mm
+      \ 150cm+180cm) 、傘袋2條(100cm) 、岩釘(長短3種規格各2支) 、岩鎚、救生繩1條(20cm) 、50m浮水繩(4人1條) 、救生衣＊
+      、防寒衣＊ 、個人醫藥用品、大、中背包<br /><br />＊為選擇性裝備<br />※ 另需準備登山過夜裝備<br />〔睡袋、睡墊、頭燈、碗筷、雨具、手套、毛巾、外帳、山刀、鋸子、炊具及火種〕</p>\r\n<p>◎注意事項：</p>\r\n<ul><li><span
+      style=\"background-color: transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">請穿著不易吸水且俱彈性之輕便服裝，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />"
     - '0'
     - '2014-11-29 04:15:52.323233'
-    - '2014-11-29 15:02:20.953044'
+    - '2014-12-08 07:05:25.103103'
   - - '23'
     - '10'
     - Side Body
@@ -1046,8 +1104,8 @@ refinery_page_parts:
       />15︰30　回到人亭登山口　休息，等待所有隊員<br />16︰00　接駁車回停車場　告別杉林溪</p>\r\n<p>個人所需裝備：<br />禦寒及備用衣物、雨衣褲、便帽(保暖帽)、飲水2000cc、背包、個人碗筷餐具、登山健行鞋、登山杖、小毛巾、大小塑膠袋、頭燈(手電桶)、個人隨身醫藥用品、睡袋※。<br
       /><span style=\"background-color: transparent;\">※睡袋：由於個人衛生習慣之因素請自備，會請高山協作幫忙背負。</span>\r\n</p>\r\n<p>辦理入山及保險所需個人資料：<br
       /><span style=\"background-color: transparent;\">姓名、出生年月日、身份證字號、地址、電話、緊急聯絡人姓名、關係、電話。</span>\r\n</p>\r\n注意事項：<br
-      /><ol><li><span style=\"background-color: transparent;\">請著貼身排汗俱彈性、方便活動之衣物(勿穿綿衫及牛仔褲)。</span>\r\n</li><li><span
-      style=\"background-color: transparent;\">活動前一晚若想提早到達杉林溪民宿休息，可提供代訂「林溪民宿」。此費用不包含在活動費用裡。</span>\r\n</li></ol>\r\n\r\n<a
+      /><ol><li><span style=\"background-color: transparent;\">請著貼身排汗俱彈性、方便活動之衣物(勿穿綿衫及牛仔褲)。</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">活動前一晚若想提早到達杉林溪民宿休息，可提供代訂「林溪民宿」。此費用不包含在活動費用裡。</span>\r\n</li>\r\n</ol>\r\n\r\n<a
       href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">雪山主東峰</h2>\r\n<img
       src=\"http://i.imgur.com/sk70tiD.jpg\" />\r\n<p>高山百岳漫步體驗-雪山主東峰<br />雪山主峰為全台灣第二高峰標高3886公尺，屬雪山山脈最高峰，在台灣僅次於玉山主峰。台灣百岳之中，雪山與玉山、秀姑巒山、南湖大山、北大武山合稱五嶽。</p>\r\n<p>活動時間：二天二夜
       \ 滿6人成行</p>\r\n<p>行程內容：</p>\r\n<p>前1晚<br />21：00　集合出發　至杉林溪  車上休息</p>\r\n<p>第1天<br
@@ -1057,12 +1115,12 @@ refinery_page_parts:
       />07︰00　出發　享受一早的森林美景<br />08︰00　回到溪阿縱走岔路。請務必聽嚮導指示前進<br />11︰30　工寮　休息、午餐<br />12︰30　再出發　下山回程<br
       />15︰30　回到人亭登山口　休息，等待所有隊員<br />16︰00　接駁車回停車場　告別杉林溪</p>\r\n<p>個人所需裝備：禦寒及備用衣物、雨衣褲、便帽(保暖帽)、飲水2000cc、背包、個人碗筷餐具、登山健行鞋、登山杖、小毛巾、大小塑膠袋、頭燈(手電桶)、個人隨身醫藥用品、睡袋※。</p>\r\n<p>※睡袋：由於個人衛生習慣之因素請自備，會請高山協作幫忙背負。</p>\r\n<p>辦理入山及保險所需個人資料：<br
       />姓名、出生年月日、身份證字號、地址、電話、緊急聯絡人姓名、關係、電話。</p>\r\n注意事項：<br /><ol><li><span style=\"background-color:
-      transparent;\">請著貼身排汗俱彈性、方便活動之衣物(勿穿綿衫及牛仔褲)。</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">活動前一晚若想提早到達杉林溪民宿休息，可提供代訂「林溪民宿」。此費用不包含在活動費用裡。</span>\r\n</li></ol>\r\n\r\n<a
+      transparent;\">請著貼身排汗俱彈性、方便活動之衣物(勿穿綿衫及牛仔褲)。</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">活動前一晚若想提早到達杉林溪民宿休息，可提供代訂「林溪民宿」。此費用不包含在活動費用裡。</span>\r\n</li>\r\n</ol>\r\n\r\n<a
       href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />"
     - '0'
     - '2014-11-29 04:20:02.837688'
-    - '2014-11-29 15:25:25.016483'
+    - '2014-12-08 07:05:48.995889'
   - - '25'
     - '11'
     - Side Body
@@ -1070,23 +1128,6 @@ refinery_page_parts:
     - '1'
     - '2014-11-29 04:20:02.841096'
     - '2014-11-29 04:20:02.841096'
-  - - '26'
-    - '12'
-    - Body
-    - "<h1 class=\"text-align-center\">高空滑降</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">龍洞高空滑降體驗</h2>\r\n<img
-      src=\"http://i.imgur.com/qgqxnNC.jpg\" />\r\n<p>走出戶外看見海之美景，親臨現場之高聳岩壁，勇敢跨出百米滑降，挑戰你的腎上腺素</p>\r\n<p>大海~藍天~陽光~我來嘍~~</p>\r\n<p>★活動需滿15人成行～可配合環境與其它活動結合一同體驗<br
-      />例如：滑降 + 攀岩 或 滑降 + 浮潛...等</p>\r\n<p>二合一活動：滑降需滿15人，附加活動需滿6人<br />費用含教練、保險、裝備器材用具、活動安全裝備等</p>\r\n\r\n<a
-      href=\"/#contactsect\" class=\"button\">我要報名！</a>\r\n<hr />"
-    - '0'
-    - '2014-11-29 04:20:57.714457'
-    - '2014-11-29 18:09:44.653919'
-  - - '27'
-    - '12'
-    - Side Body
-    - ''
-    - '1'
-    - '2014-11-29 04:20:57.717307'
-    - '2014-11-29 04:20:57.717307'
   - - '28'
     - '13'
     - Body
@@ -1122,115 +1163,22 @@ refinery_page_parts:
     - '1'
     - '2014-11-29 14:49:57.75871'
     - '2014-11-29 14:49:57.75871'
-  - - '32'
-    - '15'
+  - - '42'
+    - '20'
     - Body
-    - "<h1 class=\"text-align-center\">攀岩課程</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">初級岩訓課程</h2>\r\n\r\n<img
-      src=\"http://i.imgur.com/CKmMjd4.jpg\" />\r\n<p>◎課程項目：</p>\r\n<ul><li><span
-      style=\"background-color: transparent;\">雙8字結</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">安全攀登觀念</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">裝備認識與使用</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">平衡攀登練習</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">熱暖身運動</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">岩壁垂降練習</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">安全確保</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">攀登口令規則</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">收理繩的方法</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">繩索裝備保養</span>\r\n</li>\r\n</ul>\r\n\r\n<p>◎課程時間：
-      08：00 ~ 17：00</p>\r\n<p>◎上課地點： 東北角龍洞岩場、新北投熱海岩場、檳榔路岩場或室內岩場</p>\r\n<p>◎課程裝備： 安全頭盔、安全吊帶、岩鞋、大D有鎖勾環、8字環、主繩及輔助繩<br
-      />【全部由小鬍子冒險學校提供無需自備】</p>\r\n<p>◎注意事項：</p>\r\n<ul>\r\n<li><span style=\"background-color:
-      transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">請穿著俱彈性易活動之輕便服裝及運動鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n<a href=\"/聯絡我們\"
-      class=\"button\">我要報名！</a>\r\n<p class=\"text-align-center\"></p>\r\n\r\n<hr
-      />\r\n\r\n<p>中級岩訓課程</p>\r\n<img src=\"http://i.imgur.com/T4HB6Cd.jpg\" />\r\n<p>◎課程項目：</p>\r\n<ul><li><span
-      style=\"background-color: transparent;\">固定點架設運用</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">裝備介紹及天然岩場岩械使用架設</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">動態確保</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">確保脫出練習</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">普魯士攀升轉換垂降</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">先鋒攀登</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">繩隊攀登</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">TOP ROPE 架設</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">撤退轉換</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">比賽規則</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">平衡攀登技巧</span>\r\n</li>\r\n</ul>\r\n<p>◎課程時間：星期六、日
-      08：00～ 17：00 《共五天》</p>\r\n<p>◎課程地點：東北角龍洞岩場</p>\r\n<p>◎課程裝備：<br />個人裝備：安全吊帶、頭盔、岩鞋、粉袋、大D有鎖勾環4個、無鎖勾環4個、八字環、確保器、繩環2條(90cm)
-      、繩鍊、傘帶(100cm)2條、普魯士繩2條(6mm 140cm+170cm)<br />繩隊裝備：11mm主繩50m、輔助繩20m、岩械2組(20支)
-      、活動岩械6支、快扣12組、解岩器2支、不鏽鋼保險O型環2個</p>\r\n<p>◎注意事項：</p>\r\n<ul><li><span style=\"background-color:
-      transparent;\">開課前須檢測初岩基本攀登、確保、先鋒攀登、先鋒確保、系統轉換之能力。</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">請穿著俱彈性易活動之輕便服裝及運動鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">課程結束後，測驗通過發給《中級岩訓學習證書》。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">初岩進階課程</h2>\r\n<img
-      src=\"http://i.imgur.com/GUay8OR.jpg\" />\r\n<p>◎課程項目：</p>\r\n<p>第一天</p>\r\n<ul><li><span
-      style=\"background-color: transparent;\">平衡攀登練習</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">運動攀登</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">先鋒確保</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">六大繩結</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">課後研討</span>\r\n</li>\r\n</ul>\r\n<p>第二天</p>\r\n<ul><li>先鋒撤退</li>\r\n<li>複習</li>\r\n<li>測驗及結訓</li>\r\n</ul>\r\n<p>◎課程時間：星期六、日
-      \ AM 08：00~PM 17：00</p>\r\n<p>◎課程地點：星期六  東北角龍洞岩場、新店瑠公公園岩場或小鬍子室內岩場<br />　　　　　　
-      星期日  樹林攀岩場、檳榔路岩場或室內岩場</p>\r\n<p>◎課程裝備：<br />自備個人裝備：安全吊帶、岩鞋、粉袋、大D有鎖勾環2個、快扣組6組、確保器、攀登繩（單繩）45米每組一條、繩鍊</p>\r\n<p>◎課程費用：每人費用NT$3,500元（未稅）滿6人開課<br
-      />　　　　　　 費用包含教練、保險</p>\r\n<p>◎注意事項：</p>\r\n<ul><li><span style=\"background-color:
-      transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">請穿著俱彈性易活動之輕便服裝及運動鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a href=\"/聯絡我們\"
-      class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n\r\n\r\n"
+    - ''
     - '0'
-    - '2014-11-30 12:00:50.35147'
-    - '2014-11-30 14:17:05.341369'
-  - - '33'
-    - '15'
+    - '2014-12-08 07:00:39.217081'
+    - '2014-12-08 07:00:39.217081'
+  - - '43'
+    - '20'
     - Side Body
     - ''
     - '1'
-    - '2014-11-30 12:00:50.369061'
-    - '2014-11-30 12:00:50.369061'
-  - - '34'
-    - '16'
-    - Body
-    - "<h1 class=\"text-align-center\">溯溪課程</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">初級溯溪課程</h2>\r\n\r\n<img
-      src=\"http://i.imgur.com/iOiW6TJ.jpg\" />\r\n<p>◎課程項目：</p>\r\n<ul><li><span
-      style=\"background-color: transparent;\">溯溪源由</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">溯溪基本安全觀念、熱身法</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">溯溪基本裝備認識與運用</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">溪谷行進互相技巧〔泳渡、攀爬及跳石法〕</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">高繞垂降安全法</span>\r\n</li>\r\n</ul>\r\n<p>◎課程時間：4小時室內課及1天戶外課 滿6人開課</p>\r\n<p>◎課程地點：<br
-      />室內課　新店瑠公公園岩場或小鬍子室內岩場<br />戶外課　三峽中坑溪或萬里頭前溪</p>\r\n<p>◎課程裝備：</p>\r\n<p>安全吊帶、頭盔、溯溪鞋、大D有鎖勾環2個、勾環2個、８字環、護脛綁腿、繩環扣、泳鏡、小背包、防水袋、毛巾、備用衣物、救生衣＊、防寒衣＊、個人醫藥用品<br
-      /><br />(＊)為選擇性裝備</p>\r\n<p>◎注意事項：</p>\r\n<ul><li><span style=\"background-color:
-      transparent;\">給想深入溪谷、體驗安全溯行的夥伴基礎練習。</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">請穿著不易吸水且俱彈性之輕便服裝，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n<a href=\"/聯絡我們\"
-      class=\"button\">我要報名！</a>\r\n<p class=\"text-align-center\"></p>\r\n\r\n<hr
-      />\r\n\r\n<p>中級溯溪課程</p>\r\n<img src=\"http://i.imgur.com/zHMd15F.jpg\" />\r\n<p>◎課程項目：</p>\r\n<ul><li><span
-      style=\"background-color: transparent;\">結繩法</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">體能訓練法</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">裝備打包裝填法</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">地形圖繪製</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">裝備運用、整理與保養</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">固定點架設運用</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">深潭泳渡突破技巧</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">輔助攀登技巧</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">宿營炊事法</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">帶隊安全技巧</span>\r\n</li>\r\n</ul>\r\n<p>◎課程時間：2小時室內課、1天郊山溪谷及3天高山溪谷</p>\r\n<p>◎課程地點：<br
-      />室內課　新店瑠公公園岩場或小鬍子室內岩場<br />戶外課　1天萬里頭前溪<br />3天高山溪谷《合歡溪或塔次基里溪》</p>\r\n<p>◎課程裝備：<br
-      />安全吊帶、頭盔、溯溪鞋、大D有鎖勾環4個、勾環4個、８字環、護脛綁腿、繩環扣、確保器、泳鏡、防水袋(塑膠袋) 、繩環2條(50cm) 、普魯士繩2條(6mm
-      \ 150cm+180cm) 、傘袋2條(100cm) 、岩釘(長短3種規格各2支) 、岩鎚、救生繩1條(20cm) 、50m浮水繩(4人1條) 、救生衣＊
-      、防寒衣＊ 、個人醫藥用品、大、中背包<br /><br />＊為選擇性裝備<br />※ 另需準備登山過夜裝備<br />〔睡袋、睡墊、頭燈、碗筷、雨具、手套、毛巾、外帳、山刀、鋸子、炊具及火種〕</p>\r\n<p>◎注意事項：</p>\r\n<ul><li><span
-      style=\"background-color: transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">請穿著不易吸水且俱彈性之輕便服裝，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n\r\n"
-    - '0'
-    - '2014-11-30 12:02:31.669411'
-    - '2014-11-30 14:35:47.389177'
-  - - '35'
-    - '16'
-    - Side Body
-    - ''
-    - '1'
-    - '2014-11-30 12:02:31.672714'
-    - '2014-11-30 12:02:31.672714'
-  - - '36'
-    - '17'
+    - '2014-12-08 07:00:39.367653'
+    - '2014-12-08 07:00:39.367653'
+  - - '44'
+    - '21'
     - Body
     - "<h1 class=\"text-align-center\">雪訓課程</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">初級雪訓–合歡山</h2>\r\n\r\n<img
       src=\"http://i.imgur.com/PGGpfTr.jpg\" />\r\n<p>◎課程項目：</p>\r\n<ul><li><span
@@ -1268,8 +1216,8 @@ refinery_page_parts:
       style=\"background-color: transparent;\">無鎖勾環 X 4</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">50cm繩環 X 2</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">8字環</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">6mm普魯士繩250cm</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">6mm普魯士繩150cm</span>\r\n</li><li><span style=\"background-color:
+      transparent;\">6mm普魯士繩250cm</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">6mm普魯士繩150cm</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">備用衣物</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">塑膠袋</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">小背包</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">防水布、求生紙</span>\r\n</li>\r\n<li><span style=\"background-color:
@@ -1311,30 +1259,31 @@ refinery_page_parts:
       transparent;\">水壺（保溫瓶）</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">防曬油及護脣膏</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">地圖、指北針及相關資料</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">頭燈（備電池）</span>\r\n</li><li><span style=\"background-color: transparent;\">個人餐具、伙食（行動糧）</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">鍋具、爐具、瓦斯、火柴</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">個人證件及藥品等</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">安全頭盔</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">安全吊帶</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">長冰斧</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">冰爪（快扣式或綁帶式）</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">大D有鎖勾環 X 4</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">無鎖勾環 X 4</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">50cm繩環 X 2</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">8字環</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">6mm普魯士繩250cm</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">6mm普魯士繩150cm</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">備用衣物</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">塑膠袋</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">小背包</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">防水布、求生紙</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">帳篷</span>\r\n</li><li><span style=\"background-color: transparent;\">動力單繩30m以上(2人以上共同使用)</span>\r\n</li></ol>\r\n<p><span
-      style=\"background-color: transparent;\">◎建議裝備：</span>\r\n</p>\r\n<ol><li><span
-      style=\"background-color: transparent;\">睡袋內套</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">備用雪鏡或墨鏡</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">暖暖袋</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">相機</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">便鞋</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">毛巾</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">筆記本、筆、錢</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">擋風板</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">營燈</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">望遠鏡</span>\r\n</li>\r\n</ol>\r\n<p>◎注意事項：</p>\r\n<ul><li><span
+      transparent;\">頭燈（備電池）</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">個人餐具、伙食（行動糧）</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">鍋具、爐具、瓦斯、火柴</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">個人證件及藥品等</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">安全頭盔</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">安全吊帶</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">長冰斧</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">冰爪（快扣式或綁帶式）</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">大D有鎖勾環 X 4</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">無鎖勾環 X 4</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">50cm繩環 X 2</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">8字環</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">6mm普魯士繩250cm</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">6mm普魯士繩150cm</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">備用衣物</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">塑膠袋</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">小背包</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">防水布、求生紙</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">帳篷</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">動力單繩30m以上(2人以上共同使用)</span>\r\n</li>\r\n</ol>\r\n<p><span style=\"background-color:
+      transparent;\">◎建議裝備：</span>\r\n</p>\r\n<ol><li><span style=\"background-color:
+      transparent;\">睡袋內套</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">備用雪鏡或墨鏡</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">暖暖袋</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">相機</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">便鞋</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">毛巾</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">筆記本、筆、錢</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">擋風板</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">營燈</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">望遠鏡</span>\r\n</li>\r\n</ol>\r\n<p>◎注意事項：</p>\r\n<ul><li><span
       style=\"background-color: transparent;\">參與雪訓需有登山基礎。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">因顧及訓練教育及安全考量，所有參加人均需團進團出。</span>\r\n</li>\r\n<li><span
@@ -1381,15 +1330,15 @@ refinery_page_parts:
       style=\"background-color: transparent;\">無鎖勾環 X 4</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">50cm繩環 X 4</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">8字環</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">6mm普魯士繩250cm</span>\r\n</li><li><span style=\"background-color:
-      transparent;\">6mm普魯士繩150cm</span>\r\n</li><li><span style=\"background-color:
+      transparent;\">6mm普魯士繩250cm</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">6mm普魯士繩150cm</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">備用衣物</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">塑膠袋</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">小背包</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">防水布、求生紙</span>\r\n</li><li><span style=\"background-color: transparent;\">螺旋冰鑽2支</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">岩釘3支</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">露宿袋、外帳</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">背包套</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">猶瑪</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">動力單繩50m以上(2人以上共同使用)</span>\r\n</li></ol>\r\n<p>◎建議裝備：</p>\r\n<ol><li><span
+      transparent;\">防水布、求生紙</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">螺旋冰鑽2支</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">岩釘3支</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">露宿袋、外帳</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">背包套</span>\r\n</li>\r\n<li><span style=\"background-color:
+      transparent;\">猶瑪</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">動力單繩50m以上(2人以上共同使用)</span>\r\n</li>\r\n</ol>\r\n<p>◎建議裝備：</p>\r\n<ol><li><span
       style=\"background-color: transparent;\">睡袋內套</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">備用雪鏡或墨鏡</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">望遠鏡</span>\r\n</li>\r\n<li><span style=\"background-color: transparent;\">相機</span>\r\n</li>\r\n<li><span
@@ -1402,57 +1351,19 @@ refinery_page_parts:
       style=\"background-color: transparent;\">因顧及訓練教育及安全考量，所有參加人均需團進團出。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">報名事項請參考報名表上內容。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">消或延期課程之退費規定：玉山國家公園雪季申請雪訓名額有限，於上課日起一個月前送件申請後，提出取消則退課程費用50%，提出延期需扣課程費用30%之行政費用。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n\r\n"
-    - '0'
-    - '2014-11-30 12:03:14.851487'
-    - '2014-12-01 04:58:13.953453'
-  - - '37'
-    - '17'
-    - Side Body
-    - ''
-    - '1'
-    - '2014-11-30 12:03:14.855319'
-    - '2014-11-30 12:03:14.855319'
-  - - '38'
-    - '18'
-    - Body
-    - "<h1 class=\"text-align-center\">攀樹課程</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">初級攀樹課程</h2>\r\n\r\n<img
-      src=\"http://i.imgur.com/1BvJ9W8.jpg\" />\r\n<p>此課程適用於樹冠層的觀測、生態研究調查、修剪樹枝、高空安全作業及休閒運動◎課程項目：</p>\r\n<p>◎課程項目：</p>\r\n<ul><li><span
-      style=\"background-color: transparent;\">攀樹介紹</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">攀樹觀念、備忘錄、口令</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">攀樹裝備介紹、運用、保養</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">攀樹結繩，架設操作系統</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">地上（樹上）投擲系統操作</span>\r\n</li>\r\n</ul>\r\n<p>◎課程天數： 三天</p>\r\n<p>◎\t注意事項：</p>\r\n<ul><li><span
-      style=\"background-color: transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">請穿著俱彈性之輕便服裝及具包覆性之硬底鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">取消課程之退費規定：於上課日20天前取消退80%，於上課日2天前取消退70%，於上課日前1天取消退50%，上課當日取消則不退費。</span>\r\n</li>\r\n</ul>\r\n\r\n<p><a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n</p>\r\n\r\n<hr />\r\n\r\n<p>進階攀樹課程</p>\r\n<img
-      src=\"http://i.imgur.com/GxO84fB.jpg\" />\r\n<p>此課程適用於樹冠層的觀測、生態研究調查、修剪樹枝、高空安全作業及休閒運動</p>\r\n<p>◎課程項目：</p>\r\n<ul><li><span
-      style=\"background-color: transparent;\">單、雙索人員救援系統操作</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">器材救援操作</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">橫渡轉換</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">吊掛救援系統操作</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">攀樹教授（危機處理）</span>\r\n</li>\r\n</ul>\r\n<p>◎課程天數：3天戶外〔不同場地操作〕<br
-      />　　　　　　2天野外樹宿操作〔需過夜〕</p>\r\n<p>◎\t注意事項：</p>\r\n<ul><li><span style=\"background-color:
-      transparent;\">此課程需具備基礎學習經驗者。</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">請穿著俱彈性之輕便服裝及具包覆性之硬底鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">取消課程之退費規定：於上課日20天前取消退80%，於上課日2天前取消退70%，於上課日前1天取消退50%，上課當日取消則不退費。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
       href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n"
     - '0'
-    - '2014-11-30 12:03:59.173206'
-    - '2014-11-30 15:21:38.063138'
-  - - '39'
-    - '18'
+    - '2014-12-08 07:02:40.285122'
+    - '2014-12-08 07:02:40.285122'
+  - - '45'
+    - '21'
     - Side Body
     - ''
     - '1'
-    - '2014-11-30 12:03:59.176551'
-    - '2014-11-30 12:03:59.176551'
-  - - '40'
-    - '19'
+    - '2014-12-08 07:02:40.4212'
+    - '2014-12-08 07:02:40.4212'
+  - - '46'
+    - '22'
     - Body
     - "<h1 class=\"text-align-center\">海外攀登</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">海外攀登健行–馬來西亞神山七頂峰攀登健行
       《八天行程》</h2>\r\n\r\n<img src=\"http://i.imgur.com/r3zG2ml.jpg\" />\r\n<p>海外攀登健行–馬來西亞神山七頂峰攀登健行《八天行程》<br
@@ -1479,17 +1390,34 @@ refinery_page_parts:
       style=\"background-color: transparent;\">禁止販賣吸食毒品！</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">特別申請需於活動日40天前辦理。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">報名經核准，出發前有行前說明會。</span>\r\n</li>\r\n</ul>\r\n<p>～　歡迎喜好高山攝影的朋友來參加　～</p>\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n\r\n<hr />\r\n\r\n\r\n\r\n\r\n"
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n\r\n<hr />\r\n\r\n\r\n\r\n"
     - '0'
-    - '2014-11-30 12:04:48.145453'
-    - '2014-11-30 15:29:07.756451'
-  - - '41'
-    - '19'
+    - '2014-12-08 07:03:44.889573'
+    - '2014-12-08 07:03:44.889573'
+  - - '47'
+    - '22'
     - Side Body
     - ''
     - '1'
-    - '2014-11-30 12:04:48.149198'
-    - '2014-11-30 12:04:48.149198'
+    - '2014-12-08 07:03:44.893015'
+    - '2014-12-08 07:03:44.893015'
+  - - '48'
+    - '23'
+    - Body
+    - "<h1 class=\"text-align-center\">高空滑降</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">龍洞高空滑降體驗</h2>\r\n<img
+      src=\"http://i.imgur.com/qgqxnNC.jpg\" />\r\n<p>走出戶外看見海之美景，親臨現場之高聳岩壁，勇敢跨出百米滑降，挑戰你的腎上腺素</p>\r\n<p>大海~藍天~陽光~我來嘍~~</p>\r\n<p>★活動需滿15人成行～可配合環境與其它活動結合一同體驗<br
+      />例如：滑降 + 攀岩 或 滑降 + 浮潛...等</p>\r\n<p>二合一活動：滑降需滿15人，附加活動需滿6人<br />費用含教練、保險、裝備器材用具、活動安全裝備等</p>\r\n\r\n<a
+      href=\"/#contactsect\" class=\"button\">我要報名！</a>\r\n<hr />"
+    - '0'
+    - '2014-12-08 07:06:42.523808'
+    - '2014-12-08 07:06:42.523808'
+  - - '49'
+    - '23'
+    - Side Body
+    - ''
+    - '1'
+    - '2014-12-08 07:06:42.542136'
+    - '2014-12-08 07:06:42.542136'
 
 ---
 refinery_pages:
@@ -1532,37 +1460,20 @@ refinery_pages:
   - - '4'
     - 
     - 
-    - "活動體驗"
+    - "服務項目"
     - true
     - ''
     - 
     - true
     - false
     - false
-    - '3'
-    - '16'
+    - '5'
+    - '22'
     - '0'
     - experience
     - application
     - '2014-11-17 06:39:07.418093'
-    - '2014-11-29 06:02:12.577375'
-  - - '5'
-    - 
-    - 
-    - "課程訓練"
-    - true
-    - ''
-    - 
-    - true
-    - false
-    - false
-    - '17'
-    - '28'
-    - '0'
-    - courses
-    - application
-    - '2014-11-17 06:39:23.487212'
-    - '2014-11-30 12:00:09.553603'
+    - '2014-12-08 07:09:46.466188'
   - - '6'
     - 
     - 
@@ -1573,8 +1484,8 @@ refinery_pages:
     - true
     - false
     - false
-    - '29'
-    - '30'
+    - '23'
+    - '24'
     - '0'
     - services
     - application
@@ -1590,8 +1501,8 @@ refinery_pages:
     - true
     - false
     - false
-    - '31'
-    - '32'
+    - '25'
+    - '26'
     - '0'
     - about
     - application
@@ -1607,8 +1518,8 @@ refinery_pages:
     - true
     - false
     - false
-    - '4'
-    - '5'
+    - '6'
+    - '7'
     - '1'
     - services
     - application
@@ -1624,8 +1535,8 @@ refinery_pages:
     - true
     - false
     - false
-    - '6'
-    - '7'
+    - '8'
+    - '9'
     - '1'
     - services
     - application
@@ -1641,8 +1552,8 @@ refinery_pages:
     - true
     - false
     - false
-    - '8'
-    - '9'
+    - '10'
+    - '11'
     - '1'
     - services
     - application
@@ -1658,30 +1569,13 @@ refinery_pages:
     - true
     - false
     - false
-    - '10'
-    - '11'
-    - '1'
-    - services
-    - application
-    - '2014-11-29 04:20:02.834669'
-    - '2014-11-29 15:20:14.01022'
-  - - '12'
-    - '4'
-    - 
-    - "高空滑降"
-    - true
-    - ''
-    - 
-    - true
-    - false
-    - false
     - '12'
     - '13'
     - '1'
     - services
     - application
-    - '2014-11-29 04:20:57.711123'
-    - '2014-11-29 15:31:02.518573'
+    - '2014-11-29 04:20:02.834669'
+    - '2014-11-29 15:20:14.01022'
   - - '13'
     - '4'
     - 
@@ -1692,8 +1586,8 @@ refinery_pages:
     - true
     - false
     - false
-    - '14'
-    - '15'
+    - '16'
+    - '17'
     - '1'
     - services
     - application
@@ -1703,23 +1597,40 @@ refinery_pages:
     - 
     - 
     - "聯絡我們"
+    - false
+    - ''
+    - 
+    - true
+    - false
+    - false
+    - '27'
+    - '28'
+    - '0'
+    - contact
+    - application
+    - '2014-11-29 14:49:57.608144'
+    - '2014-12-08 07:07:39.981936'
+  - - '20'
+    - 
+    - 
+    - "鬍言亂語"
     - true
     - ''
     - 
     - true
     - false
     - false
-    - '33'
-    - '34'
+    - '3'
+    - '4'
     - '0'
-    - contact
+    - show
     - application
-    - '2014-11-29 14:49:57.608144'
-    - '2014-11-29 15:39:12.254283'
-  - - '15'
-    - '5'
+    - '2014-12-08 07:00:39.171124'
+    - '2014-12-08 07:00:39.171124'
+  - - '21'
+    - '4'
     - 
-    - "攀岩課程"
+    - "冰雪攀登"
     - true
     - ''
     - 
@@ -1731,12 +1642,12 @@ refinery_pages:
     - '1'
     - services
     - application
-    - '2014-11-30 12:00:50.286315'
-    - '2014-11-30 12:01:24.027109'
-  - - '16'
-    - '5'
+    - '2014-12-08 07:02:40.282385'
+    - '2014-12-08 07:02:40.282385'
+  - - '22'
+    - '4'
     - 
-    - "溯溪課程"
+    - "海外攀登"
     - true
     - ''
     - 
@@ -1748,59 +1659,25 @@ refinery_pages:
     - '1'
     - services
     - application
-    - '2014-11-30 12:02:31.665241'
-    - '2014-11-30 12:02:31.665241'
-  - - '17'
-    - '5'
+    - '2014-12-08 07:03:44.886636'
+    - '2014-12-08 07:03:44.886636'
+  - - '23'
+    - '4'
     - 
-    - "冰雪攀登"
+    - "高空滑降"
     - true
     - ''
     - 
     - true
     - false
     - false
-    - '22'
-    - '23'
+    - '14'
+    - '15'
     - '1'
     - services
     - application
-    - '2014-11-30 12:03:14.848196'
-    - '2014-11-30 12:03:14.848196'
-  - - '18'
-    - '5'
-    - 
-    - "攀樹課程"
-    - true
-    - ''
-    - 
-    - true
-    - false
-    - false
-    - '24'
-    - '25'
-    - '1'
-    - services
-    - application
-    - '2014-11-30 12:03:59.170089'
-    - '2014-11-30 12:03:59.170089'
-  - - '19'
-    - '5'
-    - 
-    - "海外攀登"
-    - true
-    - ''
-    - 
-    - true
-    - false
-    - false
-    - '26'
-    - '27'
-    - '1'
-    - services
-    - application
-    - '2014-11-30 12:04:48.141662'
-    - '2014-11-30 12:04:48.141662'
+    - '2014-12-08 07:06:42.521287'
+    - '2014-12-08 07:06:42.521287'
 
 ---
 refinery_page_translations:
@@ -1828,20 +1705,11 @@ refinery_page_translations:
     - '4'
     - en
     - '2014-11-17 06:39:07.414069'
-    - '2014-11-17 08:11:04.181229'
+    - '2014-12-08 07:09:46.467579'
     - Experience
     - 
-    - "活動體驗"
-    - "活動體驗"
-  - - '5'
-    - '5'
-    - en
-    - '2014-11-17 06:39:23.483177'
-    - '2014-11-30 12:00:09.555998'
-    - Courses
-    - 
-    - "課程訓練"
-    - "課程訓練"
+    - "服務項目"
+    - "服務項目"
   - - '6'
     - '6'
     - en
@@ -1896,15 +1764,6 @@ refinery_page_translations:
     - 
     - "綜合登山"
     - "綜合登山"
-  - - '12'
-    - '12'
-    - en
-    - '2014-11-29 04:20:57.706136'
-    - '2014-11-29 04:20:57.712724'
-    - Zip Linning
-    - 
-    - "高空滑降"
-    - "高空滑降"
   - - '13'
     - '13'
     - en
@@ -1923,51 +1782,42 @@ refinery_page_translations:
     - 
     - "聯絡我們"
     - "聯絡我們"
-  - - '15'
-    - '15'
+  - - '20'
+    - '20'
     - en
-    - '2014-11-30 12:00:50.256423'
-    - '2014-11-30 12:01:24.02975'
-    - Rock Climbing Course
+    - '2014-12-08 07:00:39.097132'
+    - '2014-12-08 07:00:39.215378'
+    - "鬍言亂語"
     - 
-    - "攀岩課程"
-    - "攀岩課程"
-  - - '16'
-    - '16'
+    - ''
+    - "鬍言亂語"
+  - - '21'
+    - '21'
     - en
-    - '2014-11-30 12:02:31.661356'
-    - '2014-11-30 12:02:31.666956'
-    - River Tracing Courses
-    - 
-    - "溯溪課程"
-    - "溯溪課程"
-  - - '17'
-    - '17'
-    - en
-    - '2014-11-30 12:03:14.84418'
-    - '2014-11-30 12:03:14.849774'
-    - Ice Climbing Courses
+    - '2014-12-08 07:02:40.279573'
+    - '2014-12-08 07:02:40.28367'
+    - Ice Climbing
     - 
     - "冰雪攀登"
     - "冰雪攀登"
-  - - '18'
-    - '18'
+  - - '22'
+    - '22'
     - en
-    - '2014-11-30 12:03:59.166125'
-    - '2014-11-30 12:03:59.171709'
-    - Tree Climbing Courses
-    - 
-    - "攀樹課程"
-    - "攀樹課程"
-  - - '19'
-    - '19'
-    - en
-    - '2014-11-30 12:04:48.137329'
-    - '2014-11-30 12:04:48.143476'
-    - Overseas Climbing Courses
+    - '2014-12-08 07:03:44.883166'
+    - '2014-12-08 07:03:44.888155'
+    - Overseas Climbing
     - 
     - "海外攀登"
     - "海外攀登"
+  - - '23'
+    - '23'
+    - en
+    - '2014-12-08 07:06:42.517599'
+    - '2014-12-08 07:06:42.522498'
+    - Zip Linning
+    - 
+    - "高空滑降"
+    - "高空滑降"
 
 ---
 refinery_images:
@@ -2026,13 +1876,6 @@ seo_meta:
     - ''
     - '2014-11-17 06:39:07.415427'
     - '2014-11-17 06:39:07.415427'
-  - - '5'
-    - '5'
-    - Refinery::Page::Translation
-    - ''
-    - ''
-    - '2014-11-17 06:39:23.484514'
-    - '2014-11-17 06:39:23.484514'
   - - '6'
     - '6'
     - Refinery::Page::Translation
@@ -2075,13 +1918,6 @@ seo_meta:
     - Service offering for 綜合登山, mountain climbing, and mountaineering.
     - '2014-11-29 04:20:02.832154'
     - '2014-11-29 04:20:02.832154'
-  - - '12'
-    - '12'
-    - Refinery::Page::Translation
-    - ''
-    - Service offering for 高空滑降, zip linning.
-    - '2014-11-29 04:20:57.708208'
-    - '2014-11-29 04:20:57.708208'
   - - '13'
     - '13'
     - Refinery::Page::Translation
@@ -2096,38 +1932,31 @@ seo_meta:
     - contact us, 聯絡我們
     - '2014-11-29 14:49:57.600051'
     - '2014-11-29 14:49:57.600051'
-  - - '15'
-    - '15'
+  - - '20'
+    - '20'
     - Refinery::Page::Translation
     - ''
     - ''
-    - '2014-11-30 12:00:50.276222'
-    - '2014-11-30 12:00:50.276222'
-  - - '16'
-    - '16'
-    - Refinery::Page::Translation
-    - ''
-    - river tracing, river trekking, 溯溪課程, lessons and courses
-    - '2014-11-30 12:02:31.663148'
-    - '2014-11-30 12:02:31.663148'
-  - - '17'
-    - '17'
+    - '2014-12-08 07:00:39.153048'
+    - '2014-12-08 07:00:39.153048'
+  - - '21'
+    - '21'
     - Refinery::Page::Translation
     - ''
     - ice climbing, 冰雪攀登, lessons and courses.
-    - '2014-11-30 12:03:14.845689'
-    - '2014-11-30 12:03:14.845689'
-  - - '18'
-    - '18'
-    - Refinery::Page::Translation
-    - ''
-    - Tree climbing, 攀樹課程, lessons and courses.
-    - '2014-11-30 12:03:59.167764'
-    - '2014-11-30 12:03:59.167764'
-  - - '19'
-    - '19'
+    - '2014-12-08 07:02:40.280685'
+    - '2014-12-08 07:02:40.280685'
+  - - '22'
+    - '22'
     - Refinery::Page::Translation
     - ''
     - overseas climbing, 海外攀登, lessons and courses.
-    - '2014-11-30 12:04:48.138892'
-    - '2014-11-30 12:04:48.138892'
+    - '2014-12-08 07:03:44.884173'
+    - '2014-12-08 07:03:44.884173'
+  - - '23'
+    - '23'
+    - Refinery::Page::Translation
+    - ''
+    - Service offering for 高空滑降, zip linning.
+    - '2014-12-08 07:06:42.518885'
+    - '2014-12-08 07:06:42.518885'
