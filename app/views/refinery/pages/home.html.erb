@@ -31,9 +31,9 @@
 
 <!-- Quote -->
 
-<div id="quote">
+<section id="quote">
   <%=raw @page.content_for(:quote) %>
-</div>
+</section>
 
 
 <!--End Quote -->
@@ -63,7 +63,7 @@
 
 
 <!-- News Section -->
-<div id="newssect">
+<section id="newssect">
   <div class="small-3 small-centered columns homesection">
     <h1>最新消息</h1>
     <i class="fa fa-newspaper-o fa-2x"></i>
@@ -73,14 +73,13 @@
     <div class="panel">
       <%=raw @page.content_for(:news) %>
     </div>
-    </div>
   </div>
-</div>
+</section>
 <!-- News Section End-->
 
 <!-- Services Section-->
 
-<div id="servicesect">
+<section id="servicesect">
   <div class="small-3 small-centered columns homesection">
     <h1>服務項目</h1>
     <i class="fa fa-compass fa-2x"></i>
@@ -88,35 +87,20 @@
 
   </br>
 
-  <div class="row">
-    <div class="medium-4 columns" style="text-align:center;">
-      <a href="/活動體驗"><img src="/front1.jpg"/></a>
-      <h4>活動體驗</h4>
-      <p></p>
-    </div>
-    <div class="medium-4 columns" style="text-align:center;">
-      <a href="/課程訓練"><img src="/front2.jpg"/></a>
-      <h4>課程訓練</h4>
-      <p></p>
-    </div>
-    <div class="medium-4 columns" style="text-align:center;">
-      <a href="/專案規劃"><img src="/front3.jpg"/></a>
-      <h4>專案規劃</h4>
-      <p></p>
-    </div>
-  </div>
-</div>
+  <%=raw @page.content_for(:services) %>
+
+</section>
 </hr>
 <!-- Services Section End-->
 
 
 <!--Attention Section-->
 
-<div id="attsect">
+<section id="attsect">
   <div class="small-12 small-centered columns" style="text-align:center;">
-    <h1>你還在等什麼? 我們去冒險吧!</h1>
+    <%=raw@page.content_for(:attention) %>
   </div>
-</div>
+</section>
 
 
 <!--END Attention Section-->
@@ -124,7 +108,7 @@
 
 
 <!-- Contact Section -->
-<div id="contactsect">
+<section id="contactsect">
   <div class="small-3 small-centered columns homesection">
     <h1>聯絡我們</h1>
     <i class="fa fa-envelope-o fa-2x"></i>
@@ -182,7 +166,7 @@
       </div>
     </form>
   </div>
-</div>
+</section>
 <div class="row clear-fix"></div>
 </br>
 <!-- End Contact Section -->
