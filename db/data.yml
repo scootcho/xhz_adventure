@@ -84,39 +84,26 @@ refinery_page_part_translations:
     - '8'
     - en
     - '2014-11-17 06:39:07.425259'
-    - '2014-12-08 15:41:25.373975'
-    - "<div id=\"servicesect\">\r\n  <div class=\"small-3 small-centered columns homesection\">\r\n
-      \   <h1>服務項目</h1>\r\n    <em class=\"fa fa-compass fa-2x\"></em>  \r\n  </div>\r\n\r\n
-      \ <br />\r\n  <br />\r\n\r\n  <div class=\"row\">\r\n    <div class=\"medium-4
-      columns\" style=\"text-align:center;\">\r\n      <h2>溯溪體驗</h2>\r\n      <a href=\"/服務項目/溯溪體驗\"><img
-      src=\"/services/rivertrace.jpg\" /></a>\r\n      <p>夏天!就是要玩水~</p>\r\n    </div>\r\n\r\n
-      \   <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n      <h2>攀岩體驗</h2>\r\n
-      \     <a href=\"/服務項目/攀岩體驗\"><img src=\"/services/rockclimb.jpg\" /></a>\r\n
-      \     <p>膽大心細，攀岩一點都不難！</p>\r\n    </div>\r\n\r\n    <div class=\"medium-4 columns\"
-      style=\"text-align:center;\">\r\n      <h2>高空滑降</h2>\r\n      <a href=\"/服務項目/高空滑降\"><img
-      src=\"/services/zipline.jpg\" /></a>\r\n      <p>啊~啊~啊~~把你的所有恐懼吶喊出來吧!!</p>\r\n
-      \   </div>\r\n  </div>\r\n\r\n\r\n  <div class=\"row\">\r\n    <div class=\"medium-4
-      columns\" style=\"text-align:center;\">\r\n      <h2>攀樹體驗</h2>\r\n      <a href=\"/服務項目/攀樹體驗\"><img
-      src=\"/services/treeclimb.jpg\" /></a>\r\n      <p>在不同的高度，有不同的視野，不同的心情喔～</p>\r\n
-      \   </div>\r\n\r\n    <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n
-      \     <h2>綜合登山</h2>\r\n      <a href=\"/服務項目/綜合登山\"><img src=\"/services/mtclimb.jpg\"
-      /></a>\r\n      <p>放眼望去，連綿到天邊的雲海，這只能要親眼見到才能明白的感動。</p>\r\n    </div>\r\n\r\n
-      \   <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n      <h2>大海浮潛</h2>\r\n
-      \     <a href=\"/服務項目/大海浮潛\"><img src=\"/services/snorkel.jpg\" /></a>\r\n      <p>跟美麗的熱帶魚～零距離的接觸喔！</p>\r\n
-      \   </div>\r\n  </div>\r\n\r\n\r\n  <div class=\"row\">\r\n    <div class=\"medium-4
-      columns\" style=\"text-align:center;\">\r\n      <h2>溯溪課程</h2>\r\n      <a href=\"/服務項目/溯溪課程\"><img
-      src=\"/courses/rtcourse.jpg\" /></a>\r\n      <p>地形判斷～要利用何種方式突破困難地形，實地演練增加經驗。</p>\r\n
-      \   </div>\r\n\r\n    <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n
-      \     <h2>攀岩課程</h2>\r\n      <a href=\"/服務項目/攀岩課程\"><img src=\"/courses/rccourse.jpg\"
-      /></a>\r\n      <p>雖然訓練課程一點都不能馬虎，但偷偷看一下遼闊的大海，這正是在龍洞上攀岩課的最大享受呀！</p>\r\n    </div>\r\n\r\n
-      \   <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n      <h2>冰雪攀登</h2>\r\n
-      \     <a href=\"/服務項目/冰雪攀登\"><img src=\"/courses/iccourse.jpg\" /></a>\r\n      <p>安全確保～是雪地訓練最重要的事！</p>\r\n
-      \   </div>\r\n  </div>\r\n\r\n\r\n  <div class=\"row\">\r\n    <div class=\"medium-4
-      columns\" style=\"text-align:center;\">\r\n      <h2>攀樹課程</h2>\r\n      <a href=\"/服務項目/攀樹課程\"><img
-      src=\"/courses/tccourse.jpg\" /></a>\r\n      <p>攀樹技術與設備在應用之前，應該接受專業人員的指導，並精熟技術之後，方可實際操作。</p>\r\n
-      \   </div>\r\n\r\n    <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n
-      \     <h2>海外攀登</h2>\r\n      <a href=\"/服務項目/海外攀登\"><img src=\"/courses/overseas.jpg\"
-      /></a>\r\n      <p>神山特殊的地質，讓無數的攀岩者也想來試試自己的膽量與技術。</p>\r\n    </div>\r\n  </div>\r\n</div>\r\n\r\n\r\n\r\n\r\n"
+    - '2014-12-16 05:41:31.764234'
+    - "<div id=\"servicesect\">\r\n\t<div class=\"small-3 small-centered columns homesection\">\r\n\t\t<h1>服務項目</h1>\r\n\t\t<em
+      class=\"fa fa-compass fa-2x\"></em>\r\n\t</div>\r\n\r\n\t<div class=\"row\">\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>極限攀岩</h2>\r\n\t\t\t<a
+      href=\"/服務項目/極限攀岩\"><img src=\"/services/rockclimb.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t膽大心細，攀岩一點都不難！\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>趣味攀樹</h2>\r\n\t\t\t<a
+      href=\"/服務項目/趣味攀樹\"><img src=\"/services/treeclimb.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t在不同的高度，有不同的視野，不同的心情喔～\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>野外溯溪</h2>\r\n\t\t\t<a
+      href=\"/服務項目/野外溯溪\"><img src=\"/services/rivertrace.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t夏天!就是要玩水~\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<div
+      class=\"row\">\r\n\t\t<div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>綜合登山</h2>\r\n\t\t\t<a
+      href=\"/服務項目/綜合登山\"><img src=\"/services/mtclimb.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t放眼望去，連綿到天邊的雲海，這只能要親眼見到才能明白的感動。\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>高空滑降</h2>\r\n\t\t\t<a
+      href=\"/服務項目/高空滑降\"><img src=\"/services/zipline.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t啊~啊~啊~~把你的所有恐懼吶喊出來吧!!\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>大海浮潛</h2>\r\n\t\t\t<a
+      href=\"/服務項目/大海浮潛\"><img src=\"/services/snorkel.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t跟美麗的熱帶魚～零距離的接觸喔！\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<div
+      class=\"row\">\r\n\t\t<div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>冰雪攀登</h2>\r\n\t\t\t<a
+      href=\"/服務項目/冰雪攀登\"><img src=\"/courses/iccourse.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t安全確保～是雪地訓練最重要的事！\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>海外攀登</h2>\r\n\t\t\t<a
+      href=\"/服務項目/海外攀登\"><img src=\"/courses/overseas.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t神山特殊的地質，讓無數的攀岩者也想來試試自己的膽量與技術。\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t\r\n\t\t</div>\r\n\t</div>\r\n\r\n</div>\r\n"
   - - '9'
     - '9'
     - en
@@ -127,7 +114,7 @@ refinery_page_part_translations:
     - '12'
     - en
     - '2014-11-17 06:39:46.072823'
-    - '2014-12-08 16:03:47.765747'
+    - '2014-12-16 05:44:53.305119'
     - "<h1 class=\"text-align-center\">專案規劃</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">Team
       Building<br />量身訂做!</h2>\r\n\r\n<img src=\"http://i.imgur.com/9zHYU2N.jpg\"
       />\r\n<p>如果「團隊」沒有願景、共識和向心力就只是「一群人」，和同一列火車的乘客、同一場電影的觀眾沒有兩樣。企業主管肩負求創造經營績效、提升競爭力的重要任務，如何讓「一群人」形成一個「團隊」，是無時無刻都在進行的基礎工程，更是使企業永續成長的關鍵。<br
@@ -137,7 +124,7 @@ refinery_page_part_translations:
       src=\"http://i.imgur.com/9cjQz7I.jpg\" />\r\n<p>&#160;<br />一個可以帶著走的岩場，走到那兒～爬到那兒～</p>\r\n<p>高7公尺，可三人同時攀爬，左右兩側為平面區，適合體驗攀爬。正面傾斜區，適合挑戰者攀爬。</p>\r\n<p>適合家庭日、運動園遊會、活動造勢、體驗教育教學等運用。</p>\r\n<p>可配合學校、社團安排一個不一樣的體驗教育。</p>\r\n<p>現場提供：安全攀登配備及安全協助教練。</p>\r\n<p>配合設置現場，運用空間約直徑10公尺圓寬，活動前2小時內進場架設完成。</p>\r\n<p>～～全台僅只一座，若有需要，歡迎來電洽詢！～～</p>\r\n\r\n<a
       href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<p class=\"text-align-center\"></p>\r\n<hr
       />\r\n\r\n\r\n<a href=\"/聯絡我們\" class=\"button\" id=\"floatbtn\"><em class=\"fa
-      fa-phone\"></em> 聯絡我們<br />09-3962-5099</a>"
+      fa-phone\"></em> 聯絡我們<br />0939-625-099</a>"
   - - '13'
     - '13'
     - en
@@ -148,10 +135,10 @@ refinery_page_part_translations:
     - '16'
     - en
     - '2014-11-24 19:31:58.068527'
-    - '2014-11-28 03:01:40.184277'
+    - '2014-12-16 05:42:36.350463'
     - "<h1 class=\"text-align-center\">教練介紹</h1>\r\n\r\n<h2>總教練：戴昌盛 (小鬍子)</h2>\r\n<img
       src=\"http://i.imgur.com/gpNZXDL.jpg\" class=\"image-align-right\" />\r\n\r\n<h3>台灣最資深的戶外綜合運動專職教練.
-      各級學校及企業訓練指導經歷</h3>\r\n<ul>\r\n<li><span style=\"background-color: transparent;\">現任金門大學運動與休閒學系講師</span>\r\n</li>\r\n<li><span
+      各級學校及企業訓練指導經歷</h3>\r\n<ul>\r\n<li><span style=\"background-color: transparent;\">金門大學運動與休閒學系講師</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">台北市立體育學院兼任講師</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">台北市立南湖高級中學兼任講師</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">師大附中登山社指導老師</span>\r\n</li>\r\n<li><span
@@ -167,8 +154,8 @@ refinery_page_part_translations:
       style=\"background-color: transparent;\">台北市北區少年活動中心戶外挑戰營輔導教練</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">青輔會－遊學台灣『活動安全及活動帶領』講師</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">ALE生活美語、新光人壽、三商人壽、康健人壽、安泰人壽、南山人壽、全球人壽…等</span>\r\n</li>\r\n\r\n</ul>\r\n<p>2012年「米亞桑山岳影展」的探險人物，是在戶外圈享譽盛名的小鬍子—戴昌盛。鬍子-不但是位探險者，也是位教育者。鬍子在冰雪地攀登、冰攀、攀岩、溯溪等領域，都有著非¬常高的成就，並且也在提攜與教育後進上，樹立了典範，為現今戶外圈教父級人物。</p>\r\n<p>今年的探險人物，很高興鬍子能將他二十幾年來，在臺灣、國外山林、溪谷與冰雪地的探險¬歷程，和過程中的心路歷程，與您分享。「探險人物」的專題演講，則是希望透過去認識臺灣戶外圈的標竿人物，而對戶外愛好者產生影響，期待能在下一個七年，看到臺灣下一個世代的探險人物，活出精采的探險人生。</p>\r\n<hr
-      />\r\n\r\n<img src=\"http://i.imgur.com/1NrcUek.jpg\" class=\"image-align-right
-      selected_by_wym\" />\r\n<h2>光榮紀錄</h2>\r\n<ul>\r\n<li>2009-2010 韓國雪嶽山-兄弟80米、土旺城320米冰瀑完登</li>\r\n<li>2008
+      />\r\n\r\n<img src=\"http://i.imgur.com/1NrcUek.jpg\" class=\"image-align-right\"
+      />\r\n<h2>光榮紀錄</h2>\r\n<ul>\r\n<li>2009-2010 韓國雪嶽山-兄弟80米、土旺城320米冰瀑完登</li>\r\n<li>2008
       尼泊爾健行攀登20天</li>\r\n<li>2008 冬季玉山東峰北壁攀登</li>\r\n<li>2006-2008馬來西亞東西部高原易級谷七頂峰攀登完成</li>\r\n<li>2007
       五月天台北小巨蛋演唱會（空降演出）</li>\r\n<li>2007 宜蘭頭城搶孤（技術架設執行）</li>\r\n<li>2007 The North
       Face -坪林越野挑戰賽（技術賽道規劃架設執行）</li>\r\n<li>2007 Nike - 三峽越野挑戰活動（技術架設執）</li>\r\n<li>2007
@@ -188,10 +175,11 @@ refinery_page_part_translations:
       style=\"background-color: transparent;\">林務局台東林管處野外求生指導教官</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">林務局福山分所攀降裝備操作指導教練</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">台北縣山岳協會山難搜救團隊教官</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">台北縣消防局救助隊攀岩教官</span>\r\n</li>\r\n</ul>\r\n\r\n<hr
+      style=\"background-color: transparent;\">台北縣消防局救助隊攀岩教官</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">谷關特戰訓練中心山訓教官</span>\r\n</li>\r\n</ul>\r\n\r\n<hr
       />\r\n\r\n<img src=\"http://i.imgur.com/oxmngmm.jpg\" class=\"image-align-right\"
       />\r\n<h2>專業訓練</h2>\r\n<ul>\r\n<li>采風戶外探索教育課程學習</li>\r\n<li>英國irata Level 1高空繩索國際證照</li>\r\n<li>基隆市義勇消防隊員</li>\r\n<li>中華民國紅十字會基隆雨港救生隊員</li>\r\n<li>台北市消防局救助訓練</li>\r\n<li>台北市消防局EMT訓練</li>\r\n<li>大自然散木攀樹訓練</li>\r\n<li>LNT（不留痕跡）訓練員訓練</li>\r\n<li>1991
-      聖母峰遠征隊儲備隊員 </li>\r\n<li>1992 外展訓練中心冰、雪、岩訓練結業</li>\r\n<li>1998 中華山協攀岩教練講習</li>\r\n</ul>\r\n\r\n<hr
+      聖母峰遠征隊儲備隊員 </li>\r\n<li>1992 外展訓練中心冰、雪、岩訓練結業</li>\r\n<li>1998 中華山協攀岩教練講習</li>\r\n<li>四川雙橋溝冰攀學習</li>\r\n<li>吉爾吉斯攀登學習</li>\r\n</ul>\r\n\r\n<hr
       />\r\n\r\n<img src=\"http://i.imgur.com/TmVdjSX.jpg\" class=\"image-align-right\"
       />\r\n<h2>專業協會認證</h2>\r\n<ul>\r\n<li><span style=\"background-color: transparent;\">台灣國際冒險教育協會理事長</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">中華民國山難救助協會總會顧問</span>\r\n</li>\r\n<li><span
@@ -200,7 +188,9 @@ refinery_page_part_translations:
       style=\"background-color: transparent;\">中華民國山岳協會攀登裁判</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">中華攀岩運動協會理事長</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">中華民國山岳協會登山安全訓練中心攀岩教練及大專高山響導研習營教練</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">中華民國海上救生協會技術顧問</span>\r\n</li>\r\n</ul>"
+      style=\"background-color: transparent;\">中華民國海上救生協會技術顧問</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">中華民國山岳協會攀登嚮導教練</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">中華民國登山健行協會攀登嚮導考官</span>\r\n</li>\r\n</ul>"
   - - '17'
     - '17'
     - en
@@ -211,18 +201,18 @@ refinery_page_part_translations:
     - '18'
     - en
     - '2014-11-29 04:11:06.216763'
-    - '2014-12-08 16:01:01.362611'
-    - "<h1 class=\"text-align-center\">攀岩體驗</h1>\r\n\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">北投大砲岩岩場</h2>\r\n<img
-      src=\"http://i.imgur.com/HdNN7IQ.jpg\" />\r\n<p><span style=\"background-color:
-      transparent;\">◎ 活動項目：</span>\r\n</p>\r\n<ul><li><span style=\"background-color:
-      transparent;\">攀岩安全觀念&#160;</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">普魯士攀升</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">安全確保攀登&#160;</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">岩壁垂降</span>\r\n</li>\r\n</ul>\r\n<p>◎ 活動流程︰</p>\r\n<p>09︰00　新北投捷運站出口集合，前往大砲岩岩場<br
-      />09︰30　活動安全講解、著裝，分組循環進行<br />12︰00　午餐休息<br />13︰00　活動繼續進行<br />16︰30　活動分享時刻<br
-      />17︰00　活動結束，下山回程</p>\r\n\r\n<a href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr
-      />\r\n\r\n\r\n<h2 class=\"text-align-center\">新北投熱海岩場</h2>\r\n<img src=\"http://i.imgur.com/MGe5u68.jpg\"
-      />\r\n<p>位於新北投丹鳳山的山腰，因附近有熱海飯店而得名。是最靠近台北市區的天熱攀岩場，交通便利，可攀岩垂降，是初學者練習攀爬天然岩壁的最佳場所。可俯視春天酒店及仰望整個陽明山群峰，還有淡水河對面的觀音山，風景相當優美。</p>\r\n<p>◎
+    - '2014-12-16 05:50:27.217205'
+    - "<h1 class=\"text-align-center\">極限攀岩-活動體驗</h1>\r\n\r\n<hr />\r\n\r\n\r\n<h2
+      class=\"text-align-center\">北投大砲岩岩場</h2>\r\n<img src=\"http://i.imgur.com/HdNN7IQ.jpg\"
+      />\r\n<p><span style=\"background-color: transparent;\">◎ 活動項目：</span>\r\n</p>\r\n<ul><li><span
+      style=\"background-color: transparent;\">攀岩安全觀念&#160;</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">普魯士攀升</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">安全確保攀登&#160;</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">岩壁垂降</span>\r\n</li>\r\n</ul>\r\n<p>◎
+      活動流程︰</p>\r\n<p>09︰00　新北投捷運站出口集合，前往大砲岩岩場<br />09︰30　活動安全講解、著裝，分組循環進行<br />12︰00　午餐休息<br
+      />13︰00　活動繼續進行<br />16︰30　活動分享時刻<br />17︰00　活動結束，下山回程</p>\r\n\r\n<a href=\"/聯絡我們\"
+      class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">新北投熱海岩場</h2>\r\n<img
+      src=\"http://i.imgur.com/MGe5u68.jpg\" />\r\n<p>位於新北投丹鳳山的山腰，因附近有熱海飯店而得名。是最靠近台北市區的天熱攀岩場，交通便利，可攀岩垂降，是初學者練習攀爬天然岩壁的最佳場所。可俯視春天酒店及仰望整個陽明山群峰，還有淡水河對面的觀音山，風景相當優美。</p>\r\n<p>◎
       活動項目：</p>\r\n<ul><li><span style=\"background-color: transparent;\">攀岩安全觀念&#160;</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">普魯士攀升</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">安全確保攀登&#160;</span>\r\n</li>\r\n<li><span
@@ -237,8 +227,14 @@ refinery_page_part_translations:
       style=\"background-color: transparent;\">岩壁垂降</span>\r\n</li>\r\n</ul>\r\n<p>◎
       活動流程：</p>\r\n<p>08︰00　龍洞和美國小集合<br />08︰10　活動安全講解、步行出發進入岩場<br />09︰00　活動分組循環進行體驗<br
       />12︰00　午餐休息時間<br />13︰00　活動繼續進行<br />15︰30　分享時間、合照<br />16︰00　回程、歸賦</p>\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<h1 class=\"text-align-center\">攀岩課程</h1>\r\n\r\n<hr
-      />\r\n\r\n<h2 class=\"text-align-center\">初級岩訓課程</h2>\r\n\r\n<img src=\"http://i.imgur.com/CKmMjd4.jpg\"
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<div><h1 class=\"text-align-center\">極限攀岩-體驗教學</h1>\r\n\r\n<p>1.
+      安全確保學習</p>\r\n<p>2. 攀岩技巧學習</p>\r\n<p>3. 岩壁垂降學習</p>\r\n<span style=\"background-color:
+      transparent;\"><ul><li><span style=\"background-color: transparent;\">　　費用︰每人1600元</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">　　每梯次限12人  專車接送每人200元 (限4人內)</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">　　以上費用含保險、攀岩裝備器材、頭盔、岩鞋、安全吊帶、午餐</span>\r\n</li>\r\n</ul>\r\n</span>\r\n<p><span
+      style=\"background-color: transparent;\">　　由小鬍子教練親自帶領教學</span>\r\n</p>\r\n<br
+      />\r\n<a href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<h1 class=\"text-align-center\">極限攀岩-課程訓練</h1>\r\n\r\n<hr
+      />\r\n\r\n<h2 class=\"text-align-center\">初級岩訓</h2>\r\n\r\n<img src=\"http://i.imgur.com/CKmMjd4.jpg\"
       />\r\n<p>◎ 課程項目：</p>\r\n<ul><li><span style=\"background-color: transparent;\">雙8字結</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">安全攀登觀念</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">裝備認識與使用</span>\r\n</li>\r\n<li><span
@@ -255,7 +251,7 @@ refinery_page_part_translations:
       transparent;\">請穿著俱彈性易活動之輕便服裝及運動鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n<a href=\"/聯絡我們\"
       class=\"button\">我要報名！</a>\r\n<p class=\"text-align-center\"></p>\r\n\r\n<hr
-      />\r\n\r\n<h2 class=\"text-align-center\">中級岩訓課程</h2>\r\n<img src=\"http://i.imgur.com/T4HB6Cd.jpg\"
+      />\r\n\r\n<h2 class=\"text-align-center\">中級岩訓</h2>\r\n<img src=\"http://i.imgur.com/T4HB6Cd.jpg\"
       />\r\n<p>◎ 課程項目：</p>\r\n<ul><li><span style=\"background-color: transparent;\">固定點架設運用</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">裝備介紹及天然岩場岩械使用架設</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">動態確保</span>\r\n</li>\r\n<li><span style=\"background-color:
@@ -273,7 +269,7 @@ refinery_page_part_translations:
       style=\"background-color: transparent;\">請穿著俱彈性易活動之輕便服裝及運動鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">課程結束後，測驗通過發給《中級岩訓學習證書》。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">初岩進階課程</h2>\r\n<img
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">進階岩訓</h2>\r\n<img
       src=\"http://i.imgur.com/GUay8OR.jpg\" />\r\n<p>◎ 課程項目：</p>\r\n<p>第一天</p>\r\n<ul><li><span
       style=\"background-color: transparent;\">平衡攀登練習</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">運動攀登</span>\r\n</li>\r\n<li><span style=\"background-color:
@@ -286,7 +282,7 @@ refinery_page_part_translations:
       style=\"background-color: transparent;\">請穿著俱彈性易活動之輕便服裝及運動鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
       href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<a href=\"/聯絡我們\"
-      class=\"button\" id=\"floatbtn\"><em class=\"fa fa-phone\"></em> 聯絡我們<br />09-3962-5099</a>"
+      class=\"button\" id=\"floatbtn\"><em class=\"fa fa-phone\"></em> 聯絡我們<br />0939-625-099</a>\r\n</div>"
   - - '19'
     - '19'
     - en
@@ -297,14 +293,20 @@ refinery_page_part_translations:
     - '20'
     - en
     - '2014-11-29 04:11:37.50595'
-    - '2014-12-08 11:38:10.501009'
-    - "<h1 class=\"text-align-center\">攀樹體驗</h1>\r\n<img src=\"http://i.imgur.com/fcbxdNh.jpg\"
+    - '2014-12-16 05:51:38.650497'
+    - "<h1 class=\"text-align-center\">趣味攀樹-活動體驗</h1>\r\n<img src=\"http://i.imgur.com/fcbxdNh.jpg\"
       />\r\n<p>『樹攀』是以對樹產生最少的衝擊去親近、認識它。透過人樹安全原則，用輔助攀繩方式到達樹上，在樹上登高望遠，可以做動、植物的觀察，亦可以修剪樹枝，過程是種休閒運動，也是生活樂趣。</p>\r\n\r\n<p>◎
       活動流程：</p>\r\n<p>上午班<br />07：30　新北投捷運站集合（搭捷運、開車、騎車都可以）<br />08：00　活動安全講解、著裝<br
       />08：30　攀樹體驗進行<br />12：00　活動結束</p>\r\n<p>下午班<br />12：30　新北投捷運站集合（搭捷運、開車、騎車都可以）<br
       />13：00　活動安全講解、著裝<br />13：30　攀樹體驗進行<br />17：00　活動結束</p>\r\n<p>在不同的高度，有不同的視野，不同的心情喔～</p>\r\n\r\n<a
-      href=\"#\" class=\"button\">我要報名！</a>\r\n\r\n<h1 class=\"text-align-center\">攀樹課程</h1>\r\n\r\n<hr
-      />\r\n\r\n<h2 class=\"text-align-center\">初級攀樹課程</h2>\r\n\r\n<img src=\"http://i.imgur.com/1BvJ9W8.jpg\"
+      href=\"#\" class=\"button\">我要報名！</a>\r\n\r\n<h1 class=\"text-align-center\">趣味攀樹-體驗教學</h1>\r\n<div><p>1.
+      樹攀安全操作</p>\r\n<p>2. 拋繩技巧繩索運用</p>\r\n<p>3. 結繩上攀</p>\r\n<span style=\"background-color:
+      transparent;\"><ul><li><span style=\"background-color: transparent;\">　　費用︰每人1600元</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">　　每梯次限12人</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">　　以上費用含保險、樹攀裝備器材、頭盔、安全吊帶、午餐</span>\r\n</li>\r\n</ul>\r\n</span>\r\n<p><span
+      style=\"background-color: transparent;\">由小鬍子教練親自帶領教學</span>\r\n</p>\r\n</div>\r\n<p><a
+      href=\"#\" class=\"button\">我要報名！</a>\r\n</p>\r\n<h1 class=\"text-align-center\">趣味攀樹-課程訓練</h1>\r\n\r\n<hr
+      />\r\n\r\n<h2 class=\"text-align-center\">初級攀樹</h2>\r\n\r\n<img src=\"http://i.imgur.com/1BvJ9W8.jpg\"
       />\r\n<p>此課程適用於樹冠層的觀測、生態研究調查、修剪樹枝、高空安全作業及休閒運動◎課程項目：</p>\r\n<p>◎ 課程項目：</p>\r\n<ul><li><span
       style=\"background-color: transparent;\">攀樹介紹</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">攀樹觀念、備忘錄、口令</span>\r\n</li>\r\n<li><span style=\"background-color:
@@ -314,7 +316,7 @@ refinery_page_part_translations:
       style=\"background-color: transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">請穿著俱彈性之輕便服裝及具包覆性之硬底鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n<p><a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n</p>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">進階攀樹課程</h2>\r\n<img
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n</p>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">進階攀樹</h2>\r\n<img
       src=\"http://i.imgur.com/GxO84fB.jpg\" />\r\n<p>此課程適用於樹冠層的觀測、生態研究調查、修剪樹枝、高空安全作業及休閒運動</p>\r\n<p>◎
       課程項目：</p>\r\n<ul><li><span style=\"background-color: transparent;\">單、雙索人員救援系統操作</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">器材救援操作</span>\r\n</li>\r\n<li><span
@@ -326,7 +328,8 @@ refinery_page_part_translations:
       transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">請穿著俱彈性之輕便服裝及具包覆性之硬底鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a href=\"/聯絡我們\"
-      class=\"button\">我要報名！</a>\r\n<hr />\r\n"
+      class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<a href=\"/聯絡我們\" class=\"button\"
+      id=\"floatbtn\"><em class=\"fa fa-phone\"></em> 聯絡我們<br />0939-625-099</a>\r\n"
   - - '21'
     - '21'
     - en
@@ -337,8 +340,8 @@ refinery_page_part_translations:
     - '22'
     - en
     - '2014-11-29 04:15:52.325297'
-    - '2014-12-08 12:20:04.031824'
-    - "<h1 class=\"text-align-center\">溯溪體驗</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">三峽中坑溪</h2>\r\n<img
+    - '2014-12-16 05:52:30.81005'
+    - "<h1 class=\"text-align-center\">野外溯溪-活動體驗</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">三峽中坑溪</h2>\r\n<img
       src=\"http://i.imgur.com/eKBDtef.jpg\" />\r\n<p>◎ 活動項目：</p>\r\n<p>溯行安全觀念、互助溯行技巧、瀑布攀爬、滑水</p>\r\n<p>◎
       活動流程：</p>\r\n<p>08：00　三峽「大板根森林溫泉渡假村」門口集合，引導開車前往<br />08：30　停車處著裝、活動安全講解<br />09：00　步行至起溯點
       \ 熱身、互助溯行<br />11：00　激流突破、攀瀑<br />12：00　午餐休息<br />13：00　繼續溯行，大攀瀑、滑水<br />15：30　大合照、山徑回程<br
@@ -372,8 +375,12 @@ refinery_page_part_translations:
       />\r\n<p>◎ 活動項目：</p>\r\n<p>溯行安全觀念 互助溯行技巧 深潭泳渡 攀爬瀑布 跳水</p>\r\n<p>◎ 活動流程：</p>\r\n<p>08：00　萬里「萬里國小」集合，引導開車前往<br
       />08：30　停車場著裝、步行至起溯點<br />09：00　活動安全講解、熱身、互助溯行<br />10：30　跳水、深潭泳渡<br />12：00　午餐休息<br
       />13：00　瀑布攀爬、互助溯行<br />15：00　泳渡攀瀑、跳水、大合照<br />16：30　山徑回程至停車場更衣<br />17：00　活動結束、歸賦</p>\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<h1 class=\"text-align-center\">溯溪課程</h1>\r\n\r\n<hr
-      />\r\n\r\n<h2 class=\"text-align-center\">初級溯溪課程</h2>\r\n\r\n<img src=\"http://i.imgur.com/iOiW6TJ.jpg\"
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<h1 class=\"text-align-center\">野外溯溪-體驗教學</h1>\r\n<div><p>1.溯溪安全確保操作</p>\r\n<p>2.
+      固定點架設繩索運用</p>\r\n<p>3. 泳渡攀瀑學習</p>\r\n<p>4. 瀑布垂降操作技巧</p>\r\n<ul><li>　　費用︰每人2400元</li>\r\n<li>　　每梯次限12人
+      \ 專車接送每人200元 (限4人內)</li>\r\n<li>　　以上費用含保險、溯溪裝備器材、頭盔、溯溪鞋、救生衣、防寒衣、<span style=\"background-color:
+      transparent;\">安全吊帶、午餐</span>\r\n</li>\r\n</ul>\r\n<p>由小鬍子教練親自帶領教學</p>\r\n</div>\r\n<p><a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n</p>\r\n<h1 class=\"text-align-center\">野外溯溪-課程訓練</h1>\r\n\r\n<hr
+      />\r\n\r\n<h2 class=\"text-align-center\">初級溯溪</h2>\r\n\r\n<img src=\"http://i.imgur.com/iOiW6TJ.jpg\"
       />\r\n<p>◎ 課程項目：</p>\r\n<ul><li><span style=\"background-color: transparent;\">溯溪源由</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">溯溪基本安全觀念、熱身法</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">溯溪基本裝備認識與運用</span>\r\n</li>\r\n<li><span
@@ -387,7 +394,7 @@ refinery_page_part_translations:
       transparent;\">請穿著不易吸水且俱彈性之輕便服裝，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n<a href=\"/聯絡我們\"
       class=\"button\">我要報名！</a>\r\n<p class=\"text-align-center\"></p>\r\n\r\n<hr
-      />\r\n\r\n<h2 class=\"text-align-center\">中級溯溪課程</h2>\r\n<img src=\"http://i.imgur.com/zHMd15F.jpg\"
+      />\r\n\r\n<h2 class=\"text-align-center\">中級溯溪</h2>\r\n<img src=\"http://i.imgur.com/zHMd15F.jpg\"
       />\r\n<p>◎ 課程項目：</p>\r\n<ul><li><span style=\"background-color: transparent;\">結繩法</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">體能訓練法</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">裝備打包裝填法</span>\r\n</li>\r\n<li><span
@@ -406,7 +413,8 @@ refinery_page_part_translations:
       style=\"background-color: transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">請穿著不易吸水且俱彈性之輕便服裝，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />"
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<a href=\"/聯絡我們\"
+      class=\"button\" id=\"floatbtn\"><em class=\"fa fa-phone\"></em> 聯絡我們<br />0939-625-099</a>\r\n"
   - - '23'
     - '23'
     - en
@@ -417,8 +425,8 @@ refinery_page_part_translations:
     - '24'
     - en
     - '2014-11-29 04:20:02.839732'
-    - '2014-12-08 11:42:55.288183'
-    - "<h1 class=\"text-align-center\">綜合登山活動</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">水<span
+    - '2014-12-16 05:53:27.595203'
+    - "<h1 class=\"text-align-center\">綜合登山-活動體驗</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">水<span
       class=\"text-align-center\">漾</span>森林</h2>\r\n<img src=\"http://i.imgur.com/qFsOSWC.jpg\"
       />\r\n<p>山林袐境探訪體驗-水漾森林　美麗又夢幻的湖泊<br />九二一地震讓阿里山鄉豐山村的深山裡，出現一個四公頃的高山堰塞湖。原本翠綠的柳杉林因長期浸泡在湖水裡，慢慢的相繼死亡，造成白木林奇景。白木林與藍天相映在水中，尤如傳說中的人間仙境。隨著枯木慢慢傾倒，已快成為消失的仙境。歡迎各位跟著我們，帶您到這傳說中的人間仙境。</p>\r\n<p>◎
       活動時間：<br /><span style=\"background-color: transparent;\">二天二夜  滿6人成行</span>\r\n</p>\r\n<p>◎
@@ -437,7 +445,20 @@ refinery_page_part_translations:
       />07︰00　369山莊出發　輕裝前往雪山主峰<br />11︰00　雪山主峰<br />15︰00　369山莊　宿</p>\r\n<p>第3天　<br
       />08︰00　369山莊　下山回程<br />12︰00　回到雪山登山口　回程台北</p>\r\n<p>◎&#160;辦理入山及保險所需個人資料：<br
       />姓名、出生年月日、身份證字號、地址、電話、緊急聯絡人姓名、關係、電話。</p>\r\n<p>\r\n◎ 注意事項：</p>\r\n<ul><li>請著貼身排汗俱彈性、方便活動之衣物(勿穿綿衫及牛仔褲)。</li>\r\n<li>活動需滿6人成行</li>\r\n</ul>\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />"
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n<h1 class=\"text-align-center\">綜合登山-體驗教學</h1>\r\n\r\n<hr
+      />\r\n<h2 class=\"text-align-center\">登山</h2>\r\n<div><p>1. 登山安全分享</p>\r\n<p>2.
+      登山裝備器材準備運用</p>\r\n<p>3. 登山行進安全</p>\r\n<p>4. 緊急避難危機處理</p>\r\n<p>5. 炊煮分享</p>\r\n<ul><li>　　費用︰每人2000元
+      (2小時室內課 + 1天戶外健行)</li>\r\n<li>　　每梯次限12人  專車接送每人200元 (限4人內) 以上費用含保險﹑午餐。　</li>\r\n<li>　　一天戶外健行個人裝備需自理</li>\r\n</ul>\r\n</div>\r\n<h2
+      class=\"text-align-center\">二天一夜露營趣</h2>\r\n<div><p>活動場地二選一</p>\r\n<p>1. 海邊
+      + 岩石</p>\r\n<p>2. 溪谷 + 樹林</p>\r\n<ul><li><span style=\"background-color: transparent;\">　　費用︰每人6800元</span>\r\n</li>\r\n<li>　　每梯次限12人
+      \ 專車接送每人400元 (限4人內)</li>\r\n<li>　　以上費用含保險﹑技術及玩樂裝備﹑露營帳棚﹑炊煮餐點<span style=\"background-color:
+      transparent;\">　　(1份早餐、2份中餐、1份晚餐)</span>\r\n</li>\r\n</ul>\r\n</div>\r\n<h2
+      class=\"text-align-center\">三天二夜露營趣</h2>\r\n<div><p>活動項目：溯溪、攀岩、浮潛、樹攀、衝浪、飛行傘</p>\r\n<p>【唯飛行傘需視天候狀況進行，若未執行將每人退費1000元】</p>\r\n<ul><li>　　費用︰每人9800元</li>\r\n<li><span
+      style=\"background-color: transparent;\">　　每梯次限12人  專車接送每人1200元 &#160;(限4人內)</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">　　以上費用含保險、技術及玩樂裝備、露營帳棚、炊煮餐點　(2份早餐、3份中餐、2份晚餐)　</span>\r\n</li>\r\n</ul>\r\n<p><span
+      style=\"background-color: transparent;\">由小鬍子教練親自帶領教學</span>\r\n</p>\r\n</div>\r\n<a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n\r\n\r\n<a href=\"/聯絡我們\" class=\"button\"
+      id=\"floatbtn\"><em class=\"fa fa-phone\"></em> 聯絡我們<br />0939-625-099</a>\r\n"
   - - '25'
     - '25'
     - en
@@ -448,7 +469,7 @@ refinery_page_part_translations:
     - '28'
     - en
     - '2014-11-29 04:21:54.322221'
-    - '2014-12-08 11:44:37.038423'
+    - '2014-12-16 05:54:42.190875'
     - "<h1 class=\"text-align-center\">大海浮潛</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">東北角龍洞浮潛</h2>\r\n<img
       src=\"http://i.imgur.com/7b941q7.jpg\" />\r\n<p>◎ 活動流程：<br />08：00　龍洞街和美國小前集合<br
       />08：20　活動安全講解　著裝、熱身<br />08：50　步行至浮潛區<br />09：10　浮潛體驗<br />12：00　步行回停車處更衣沖水，活動結束</p>\r\n<p>◎
@@ -456,7 +477,8 @@ refinery_page_part_translations:
       style=\"background-color: transparent;\">自備交通、午餐、飲水、防曬用品、備用衣物、毛巾及個人用品。請穿著俱彈性且不易吸水之輕便衣物，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">歡迎企業、公司行號、學校社團及機關團體等預約活動。預約需於活動日20天前決定，並簽訂契約及支付活動總計費用之50%為訂金。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">活動若因天候或其它不可抗拒之因素，將考量人員安全，決定取消或順延或更改行程內容。</span>\r\n</li>\r\n</ol>\r\n\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />"
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<a href=\"/聯絡我們\"
+      class=\"button\" id=\"floatbtn\"><em class=\"fa fa-phone\"></em> 聯絡我們<br />0939-625-099</a>\r\n"
   - - '29'
     - '29'
     - en
@@ -479,8 +501,15 @@ refinery_page_part_translations:
     - '42'
     - en
     - '2014-12-08 07:00:39.302205'
-    - '2014-12-08 07:00:39.302205'
-    - ''
+    - '2014-12-16 05:40:36.976324'
+    - "<h2 class=\"text-align-center\">吉爾吉斯 登山之心 省思</h2>\r\n<p>此行最大收獲是看見攀登的企圖與裝備在環境運用上選擇的差異!!</p>\r\n<p>&gt;&gt;
+      論成敗不一定在起點，而是在轉折點!!</p>\r\n<p>&gt;&gt; 知識給了你判斷!!</p>\r\n<p>&gt;&gt; 天候給了你機會!!</p>\r\n<p>&gt;&gt;
+      體力技術、經驗學習、態度思維決定你的高度!!</p>\r\n<hr />\r\n<h2>咚咚今天很棒！腳踏車騎了十公里還差點被狗咬！午餐一起煮了松子炒飯和昨天的山藥排骨！是鼓勵和壓驚！</h2>\r\n<hr
+      />\r\n<h2 class=\"text-align-center\">深感無力！從老花眼鏡的依賴面對每天小螢幕的手機和電腦行政的摧殘！原本正常的視力漸漸顯得糢湖！是習慣該脫離還是年紀？我要我的青山綠水啦！</h2>\r\n<hr
+      />\r\n<h2 class=\"text-align-center\">入園未核依然前往探尖稜！內心的惡魔終敵不過安全規範！回頭下海去了！</h2>\r\n<hr
+      />\r\n<h2 class=\"text-align-center\">身處異地！能在高原冰川奔馳是一大享受！</h2>\r\n<hr />\r\n<h2
+      class=\"text-align-center\">有些事越說越亂！進退兩難！只能忍痛（琨增帥哥）合歡團報雪訓取消了！</h2>\r\n<hr />\r\n<h2
+      class=\"text-align-center\">為什麼喜歡爬山，不需要原因，山就是這麼美，快下雪吧!兄弟準備好了嗎?</h2>\r\n<hr />"
   - - '43'
     - '43'
     - en
@@ -491,8 +520,8 @@ refinery_page_part_translations:
     - '44'
     - en
     - '2014-12-08 07:02:40.403555'
-    - '2014-12-08 11:45:11.300816'
-    - "<h1 class=\"text-align-center\">雪訓課程</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">初級雪訓–合歡山</h2>\r\n\r\n<img
+    - '2014-12-16 05:55:29.468593'
+    - "<h1 class=\"text-align-center\">冰雪攀登</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">初級雪訓–合歡山</h2>\r\n\r\n<img
       src=\"http://i.imgur.com/PGGpfTr.jpg\" />\r\n<p>◎ 課程項目：</p>\r\n<ul><li><span
       style=\"background-color: transparent;\">雪訓操作裝備及身心體能的準備</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">雪地行前綜合步伐</span>\r\n</li>\r\n<li><span
@@ -536,7 +565,8 @@ refinery_page_part_translations:
       style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">因顧及訓練教育及安全考量，所有參加人均需團進團出。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">報名事項請參考報名表上內容。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n"
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<a href=\"/聯絡我們\"
+      class=\"button\" id=\"floatbtn\"><em class=\"fa fa-phone\"></em> 聯絡我們<br />0939-625-099</a>\r\n"
   - - '45'
     - '45'
     - en
@@ -547,13 +577,15 @@ refinery_page_part_translations:
     - '46'
     - en
     - '2014-12-08 07:03:44.891503'
-    - '2014-12-08 11:26:34.894782'
-    - "<h1 class=\"text-align-center\">海外攀登</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">海外攀登健行–馬來西亞神山七頂峰攀登健行
-      《八天行程》</h2>\r\n\r\n<img src=\"http://i.imgur.com/r3zG2ml.jpg\" />\r\n<p>海外攀登健行–馬來西亞神山七頂峰攀登健行《八天行程》<br
-      />※國內唯一帶領神山『非傳統』路線攀登健行者※</p>\r\n<p>◎ 行程規劃：<br />　　第一天　台北–亞庇市–住宿天山山莊<br />　　第二天　天山山莊–國家公園–住宿沙葉沙葉山屋<br
-      />　　第三天　西部高原七頂峰–住宿古格山莊<br />　　第四天　西部高原七頂峰–住宿古格山莊<br />　　第五天　南峰–住宿沙葉沙葉山屋<br />　　第六天　盧耳峰、丑姊妹峰–住宿沙葉沙葉山屋<br
-      />　　第七天　易級谷–住宿沙葉沙葉山屋<br />　　第八天　下山–亞庇–回台北</p>\r\n<p>◎ 6人成行</p>\r\n<p>～　歡迎喜好高山攝影的朋友來參加　～</p>\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n\r\n<hr />\r\n\r\n\r\n\r\n"
+    - '2014-12-16 06:14:45.569711'
+    - "<h1 class=\"text-align-center\">海外攀登</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">馬來西亞
+      攀登探險</h2>\r\n\r\n<img src=\"http://i.imgur.com/r3zG2ml.jpg\" /><br />\r\n\r\n<a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">韓國雪嶽山
+      冰攀</h2>\r\n\r\n<img src=\"http://i.imgur.com/TrI23nZ.jpg\" /><br />\r\n\r\n<a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">四川雙橋溝
+      冰攀健行</h2>\r\n\r\n<img src=\"http://i.imgur.com/GPeB7mF.jpg\" /><br />\r\n\r\n<a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n\r\n<hr />\r\n\r\n\r\n<a href=\"/聯絡我們\"
+      class=\"button\" id=\"floatbtn\"><em class=\"fa fa-phone\"></em> 聯絡我們<br />0939-625-099</a>"
   - - '47'
     - '47'
     - en
@@ -564,12 +596,13 @@ refinery_page_part_translations:
     - '48'
     - en
     - '2014-12-08 07:06:42.525228'
-    - '2014-12-08 11:44:55.674327'
+    - '2014-12-16 05:54:08.764808'
     - "<h1 class=\"text-align-center\">高空滑降</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">龍洞高空滑降體驗</h2>\r\n<img
       src=\"http://i.imgur.com/qgqxnNC.jpg\" />\r\n<p>走出戶外看見海之美景，親臨現場之高聳岩壁，勇敢跨出百米滑降，挑戰你的腎上腺素</p>\r\n<p>大海~藍天~陽光~我來嘍~~</p>\r\n<p>◎
       活動需滿15人成行～可配合環境與其它活動結合一同體驗<br />例如：滑降 + 攀岩 或 滑降 + 浮潛...等</p>\r\n<p>◎ 二合一活動：<br
       />滑降需滿15人，附加活動需滿6人<br />費用含教練、保險、裝備器材用具、活動安全裝備等</p>\r\n\r\n<a href=\"/#contactsect\"
-      class=\"button\">我要報名！</a>\r\n<hr />"
+      class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<a href=\"/聯絡我們\" class=\"button\"
+      id=\"floatbtn\"><em class=\"fa fa-phone\"></em> 聯絡我們<br />0939-625-099</a>\r\n"
   - - '49'
     - '49'
     - en
@@ -588,11 +621,11 @@ refinery_page_part_translations:
     - '52'
     - en
     - '2014-12-08 16:26:42.952756'
-    - '2014-12-08 16:33:10.458286'
-    - "<p>\r\n<span>突破</span> 競爭走出自己的獨特格調,改變對<span>\"量\"</span>的迷思,提升對<span>\"質\"</span>的服務,\r\n<br
-      />\r\n<span>---小鬍子親自服務---</span>\r\n<br />\r\n20年活動經驗,親自帶領;20年廚藝經驗,親自料理,每次活動<span>限定一團</span>\r\n<br
-      />\r\n量身安排適合您的體驗學習項目,用朋友的心來服務您\r\n<br />\r\n不打廣告,口碑相傳,與您相遇是我們的緣份!!\r\n<br />\r\n交個朋友吧!!
-      讓我們共同學習成長,親山遊水,開闊視野!!\r\n</p>\r\n"
+    - '2014-12-16 06:03:30.418372'
+    - "<p>\r\n<span>突破</span> 競爭走出自己的獨特格調, 改變對<span>\"量\"</span>的迷思, 提升對<span>\"質\"</span>的服務,\r\n<br
+      />\r\n<span>---小鬍子親自服務---</span>\r\n<br />\r\n成立於西元1994, 20年活動經驗, 親自帶領 ; 20年廚藝經驗,
+      親自料理, 每次活動<span>限定一團</span>\r\n<br />\r\n<span>量身安排</span>適合您的體驗學習項目, 用朋友的心來服務您\r\n<br
+      />\r\n不打廣告, 口碑相傳, 與您相遇是我們的緣份!!\r\n<br />\r\n交個朋友吧!! 讓我們共同學習成長, 親山遊水, 開闊視野!!\r\n</p>\r\n"
   - - '54'
     - '54'
     - en
@@ -661,41 +694,28 @@ refinery_page_parts:
   - - '8'
     - '4'
     - Body
-    - "<div id=\"servicesect\">\r\n  <div class=\"small-3 small-centered columns homesection\">\r\n
-      \   <h1>服務項目</h1>\r\n    <em class=\"fa fa-compass fa-2x\"></em>  \r\n  </div>\r\n\r\n
-      \ <br />\r\n  <br />\r\n\r\n  <div class=\"row\">\r\n    <div class=\"medium-4
-      columns\" style=\"text-align:center;\">\r\n      <h2>溯溪體驗</h2>\r\n      <a href=\"/服務項目/溯溪體驗\"><img
-      src=\"/services/rivertrace.jpg\" /></a>\r\n      <p>夏天!就是要玩水~</p>\r\n    </div>\r\n\r\n
-      \   <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n      <h2>攀岩體驗</h2>\r\n
-      \     <a href=\"/服務項目/攀岩體驗\"><img src=\"/services/rockclimb.jpg\" /></a>\r\n
-      \     <p>膽大心細，攀岩一點都不難！</p>\r\n    </div>\r\n\r\n    <div class=\"medium-4 columns\"
-      style=\"text-align:center;\">\r\n      <h2>高空滑降</h2>\r\n      <a href=\"/服務項目/高空滑降\"><img
-      src=\"/services/zipline.jpg\" /></a>\r\n      <p>啊~啊~啊~~把你的所有恐懼吶喊出來吧!!</p>\r\n
-      \   </div>\r\n  </div>\r\n\r\n\r\n  <div class=\"row\">\r\n    <div class=\"medium-4
-      columns\" style=\"text-align:center;\">\r\n      <h2>攀樹體驗</h2>\r\n      <a href=\"/服務項目/攀樹體驗\"><img
-      src=\"/services/treeclimb.jpg\" /></a>\r\n      <p>在不同的高度，有不同的視野，不同的心情喔～</p>\r\n
-      \   </div>\r\n\r\n    <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n
-      \     <h2>綜合登山</h2>\r\n      <a href=\"/服務項目/綜合登山\"><img src=\"/services/mtclimb.jpg\"
-      /></a>\r\n      <p>放眼望去，連綿到天邊的雲海，這只能要親眼見到才能明白的感動。</p>\r\n    </div>\r\n\r\n
-      \   <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n      <h2>大海浮潛</h2>\r\n
-      \     <a href=\"/服務項目/大海浮潛\"><img src=\"/services/snorkel.jpg\" /></a>\r\n      <p>跟美麗的熱帶魚～零距離的接觸喔！</p>\r\n
-      \   </div>\r\n  </div>\r\n\r\n\r\n  <div class=\"row\">\r\n    <div class=\"medium-4
-      columns\" style=\"text-align:center;\">\r\n      <h2>溯溪課程</h2>\r\n      <a href=\"/服務項目/溯溪課程\"><img
-      src=\"/courses/rtcourse.jpg\" /></a>\r\n      <p>地形判斷～要利用何種方式突破困難地形，實地演練增加經驗。</p>\r\n
-      \   </div>\r\n\r\n    <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n
-      \     <h2>攀岩課程</h2>\r\n      <a href=\"/服務項目/攀岩課程\"><img src=\"/courses/rccourse.jpg\"
-      /></a>\r\n      <p>雖然訓練課程一點都不能馬虎，但偷偷看一下遼闊的大海，這正是在龍洞上攀岩課的最大享受呀！</p>\r\n    </div>\r\n\r\n
-      \   <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n      <h2>冰雪攀登</h2>\r\n
-      \     <a href=\"/服務項目/冰雪攀登\"><img src=\"/courses/iccourse.jpg\" /></a>\r\n      <p>安全確保～是雪地訓練最重要的事！</p>\r\n
-      \   </div>\r\n  </div>\r\n\r\n\r\n  <div class=\"row\">\r\n    <div class=\"medium-4
-      columns\" style=\"text-align:center;\">\r\n      <h2>攀樹課程</h2>\r\n      <a href=\"/服務項目/攀樹課程\"><img
-      src=\"/courses/tccourse.jpg\" /></a>\r\n      <p>攀樹技術與設備在應用之前，應該接受專業人員的指導，並精熟技術之後，方可實際操作。</p>\r\n
-      \   </div>\r\n\r\n    <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n
-      \     <h2>海外攀登</h2>\r\n      <a href=\"/服務項目/海外攀登\"><img src=\"/courses/overseas.jpg\"
-      /></a>\r\n      <p>神山特殊的地質，讓無數的攀岩者也想來試試自己的膽量與技術。</p>\r\n    </div>\r\n  </div>\r\n</div>\r\n\r\n\r\n\r\n\r\n"
+    - "<div id=\"servicesect\">\r\n\t<div class=\"small-3 small-centered columns homesection\">\r\n\t\t<h1>服務項目</h1>\r\n\t\t<em
+      class=\"fa fa-compass fa-2x\"></em>\r\n\t</div>\r\n\r\n\t<div class=\"row\">\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>極限攀岩</h2>\r\n\t\t\t<a
+      href=\"/服務項目/極限攀岩\"><img src=\"/services/rockclimb.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t膽大心細，攀岩一點都不難！\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>趣味攀樹</h2>\r\n\t\t\t<a
+      href=\"/服務項目/趣味攀樹\"><img src=\"/services/treeclimb.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t在不同的高度，有不同的視野，不同的心情喔～\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>野外溯溪</h2>\r\n\t\t\t<a
+      href=\"/服務項目/野外溯溪\"><img src=\"/services/rivertrace.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t夏天!就是要玩水~\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<div
+      class=\"row\">\r\n\t\t<div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>綜合登山</h2>\r\n\t\t\t<a
+      href=\"/服務項目/綜合登山\"><img src=\"/services/mtclimb.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t放眼望去，連綿到天邊的雲海，這只能要親眼見到才能明白的感動。\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>高空滑降</h2>\r\n\t\t\t<a
+      href=\"/服務項目/高空滑降\"><img src=\"/services/zipline.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t啊~啊~啊~~把你的所有恐懼吶喊出來吧!!\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>大海浮潛</h2>\r\n\t\t\t<a
+      href=\"/服務項目/大海浮潛\"><img src=\"/services/snorkel.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t跟美麗的熱帶魚～零距離的接觸喔！\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<div
+      class=\"row\">\r\n\t\t<div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>冰雪攀登</h2>\r\n\t\t\t<a
+      href=\"/服務項目/冰雪攀登\"><img src=\"/courses/iccourse.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t安全確保～是雪地訓練最重要的事！\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>海外攀登</h2>\r\n\t\t\t<a
+      href=\"/服務項目/海外攀登\"><img src=\"/courses/overseas.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t神山特殊的地質，讓無數的攀岩者也想來試試自己的膽量與技術。\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t\r\n\t\t</div>\r\n\t</div>\r\n\r\n</div>\r\n"
     - '0'
     - '2014-11-17 06:39:07.421836'
-    - '2014-12-08 15:41:25.232111'
+    - '2014-12-16 05:41:31.743693'
   - - '9'
     - '4'
     - Side Body
@@ -715,10 +735,10 @@ refinery_page_parts:
       src=\"http://i.imgur.com/9cjQz7I.jpg\" />\r\n<p>&#160;<br />一個可以帶著走的岩場，走到那兒～爬到那兒～</p>\r\n<p>高7公尺，可三人同時攀爬，左右兩側為平面區，適合體驗攀爬。正面傾斜區，適合挑戰者攀爬。</p>\r\n<p>適合家庭日、運動園遊會、活動造勢、體驗教育教學等運用。</p>\r\n<p>可配合學校、社團安排一個不一樣的體驗教育。</p>\r\n<p>現場提供：安全攀登配備及安全協助教練。</p>\r\n<p>配合設置現場，運用空間約直徑10公尺圓寬，活動前2小時內進場架設完成。</p>\r\n<p>～～全台僅只一座，若有需要，歡迎來電洽詢！～～</p>\r\n\r\n<a
       href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<p class=\"text-align-center\"></p>\r\n<hr
       />\r\n\r\n\r\n<a href=\"/聯絡我們\" class=\"button\" id=\"floatbtn\"><em class=\"fa
-      fa-phone\"></em> 聯絡我們<br />09-3962-5099</a>"
+      fa-phone\"></em> 聯絡我們<br />0939-625-099</a>"
     - '0'
     - '2014-11-17 06:39:46.070576'
-    - '2014-12-08 16:03:47.74037'
+    - '2014-12-16 05:44:53.302697'
   - - '13'
     - '6'
     - Side Body
@@ -731,7 +751,7 @@ refinery_page_parts:
     - coach
     - "<h1 class=\"text-align-center\">教練介紹</h1>\r\n\r\n<h2>總教練：戴昌盛 (小鬍子)</h2>\r\n<img
       src=\"http://i.imgur.com/gpNZXDL.jpg\" class=\"image-align-right\" />\r\n\r\n<h3>台灣最資深的戶外綜合運動專職教練.
-      各級學校及企業訓練指導經歷</h3>\r\n<ul>\r\n<li><span style=\"background-color: transparent;\">現任金門大學運動與休閒學系講師</span>\r\n</li>\r\n<li><span
+      各級學校及企業訓練指導經歷</h3>\r\n<ul>\r\n<li><span style=\"background-color: transparent;\">金門大學運動與休閒學系講師</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">台北市立體育學院兼任講師</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">台北市立南湖高級中學兼任講師</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">師大附中登山社指導老師</span>\r\n</li>\r\n<li><span
@@ -747,8 +767,8 @@ refinery_page_parts:
       style=\"background-color: transparent;\">台北市北區少年活動中心戶外挑戰營輔導教練</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">青輔會－遊學台灣『活動安全及活動帶領』講師</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">ALE生活美語、新光人壽、三商人壽、康健人壽、安泰人壽、南山人壽、全球人壽…等</span>\r\n</li>\r\n\r\n</ul>\r\n<p>2012年「米亞桑山岳影展」的探險人物，是在戶外圈享譽盛名的小鬍子—戴昌盛。鬍子-不但是位探險者，也是位教育者。鬍子在冰雪地攀登、冰攀、攀岩、溯溪等領域，都有著非¬常高的成就，並且也在提攜與教育後進上，樹立了典範，為現今戶外圈教父級人物。</p>\r\n<p>今年的探險人物，很高興鬍子能將他二十幾年來，在臺灣、國外山林、溪谷與冰雪地的探險¬歷程，和過程中的心路歷程，與您分享。「探險人物」的專題演講，則是希望透過去認識臺灣戶外圈的標竿人物，而對戶外愛好者產生影響，期待能在下一個七年，看到臺灣下一個世代的探險人物，活出精采的探險人生。</p>\r\n<hr
-      />\r\n\r\n<img src=\"http://i.imgur.com/1NrcUek.jpg\" class=\"image-align-right
-      selected_by_wym\" />\r\n<h2>光榮紀錄</h2>\r\n<ul>\r\n<li>2009-2010 韓國雪嶽山-兄弟80米、土旺城320米冰瀑完登</li>\r\n<li>2008
+      />\r\n\r\n<img src=\"http://i.imgur.com/1NrcUek.jpg\" class=\"image-align-right\"
+      />\r\n<h2>光榮紀錄</h2>\r\n<ul>\r\n<li>2009-2010 韓國雪嶽山-兄弟80米、土旺城320米冰瀑完登</li>\r\n<li>2008
       尼泊爾健行攀登20天</li>\r\n<li>2008 冬季玉山東峰北壁攀登</li>\r\n<li>2006-2008馬來西亞東西部高原易級谷七頂峰攀登完成</li>\r\n<li>2007
       五月天台北小巨蛋演唱會（空降演出）</li>\r\n<li>2007 宜蘭頭城搶孤（技術架設執行）</li>\r\n<li>2007 The North
       Face -坪林越野挑戰賽（技術賽道規劃架設執行）</li>\r\n<li>2007 Nike - 三峽越野挑戰活動（技術架設執）</li>\r\n<li>2007
@@ -768,10 +788,11 @@ refinery_page_parts:
       style=\"background-color: transparent;\">林務局台東林管處野外求生指導教官</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">林務局福山分所攀降裝備操作指導教練</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">台北縣山岳協會山難搜救團隊教官</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">台北縣消防局救助隊攀岩教官</span>\r\n</li>\r\n</ul>\r\n\r\n<hr
+      style=\"background-color: transparent;\">台北縣消防局救助隊攀岩教官</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">谷關特戰訓練中心山訓教官</span>\r\n</li>\r\n</ul>\r\n\r\n<hr
       />\r\n\r\n<img src=\"http://i.imgur.com/oxmngmm.jpg\" class=\"image-align-right\"
       />\r\n<h2>專業訓練</h2>\r\n<ul>\r\n<li>采風戶外探索教育課程學習</li>\r\n<li>英國irata Level 1高空繩索國際證照</li>\r\n<li>基隆市義勇消防隊員</li>\r\n<li>中華民國紅十字會基隆雨港救生隊員</li>\r\n<li>台北市消防局救助訓練</li>\r\n<li>台北市消防局EMT訓練</li>\r\n<li>大自然散木攀樹訓練</li>\r\n<li>LNT（不留痕跡）訓練員訓練</li>\r\n<li>1991
-      聖母峰遠征隊儲備隊員 </li>\r\n<li>1992 外展訓練中心冰、雪、岩訓練結業</li>\r\n<li>1998 中華山協攀岩教練講習</li>\r\n</ul>\r\n\r\n<hr
+      聖母峰遠征隊儲備隊員 </li>\r\n<li>1992 外展訓練中心冰、雪、岩訓練結業</li>\r\n<li>1998 中華山協攀岩教練講習</li>\r\n<li>四川雙橋溝冰攀學習</li>\r\n<li>吉爾吉斯攀登學習</li>\r\n</ul>\r\n\r\n<hr
       />\r\n\r\n<img src=\"http://i.imgur.com/TmVdjSX.jpg\" class=\"image-align-right\"
       />\r\n<h2>專業協會認證</h2>\r\n<ul>\r\n<li><span style=\"background-color: transparent;\">台灣國際冒險教育協會理事長</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">中華民國山難救助協會總會顧問</span>\r\n</li>\r\n<li><span
@@ -780,10 +801,12 @@ refinery_page_parts:
       style=\"background-color: transparent;\">中華民國山岳協會攀登裁判</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">中華攀岩運動協會理事長</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">中華民國山岳協會登山安全訓練中心攀岩教練及大專高山響導研習營教練</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">中華民國海上救生協會技術顧問</span>\r\n</li>\r\n</ul>"
+      style=\"background-color: transparent;\">中華民國海上救生協會技術顧問</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">中華民國山岳協會攀登嚮導教練</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">中華民國登山健行協會攀登嚮導考官</span>\r\n</li>\r\n</ul>"
     - '0'
     - '2014-11-24 19:31:57.996866'
-    - '2014-11-28 03:01:40.181797'
+    - '2014-12-16 05:42:36.183784'
   - - '17'
     - '7'
     - team
@@ -794,17 +817,17 @@ refinery_page_parts:
   - - '18'
     - '8'
     - Body
-    - "<h1 class=\"text-align-center\">攀岩體驗</h1>\r\n\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">北投大砲岩岩場</h2>\r\n<img
-      src=\"http://i.imgur.com/HdNN7IQ.jpg\" />\r\n<p><span style=\"background-color:
-      transparent;\">◎ 活動項目：</span>\r\n</p>\r\n<ul><li><span style=\"background-color:
-      transparent;\">攀岩安全觀念&#160;</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">普魯士攀升</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">安全確保攀登&#160;</span>\r\n</li>\r\n<li><span style=\"background-color:
-      transparent;\">岩壁垂降</span>\r\n</li>\r\n</ul>\r\n<p>◎ 活動流程︰</p>\r\n<p>09︰00　新北投捷運站出口集合，前往大砲岩岩場<br
-      />09︰30　活動安全講解、著裝，分組循環進行<br />12︰00　午餐休息<br />13︰00　活動繼續進行<br />16︰30　活動分享時刻<br
-      />17︰00　活動結束，下山回程</p>\r\n\r\n<a href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr
-      />\r\n\r\n\r\n<h2 class=\"text-align-center\">新北投熱海岩場</h2>\r\n<img src=\"http://i.imgur.com/MGe5u68.jpg\"
-      />\r\n<p>位於新北投丹鳳山的山腰，因附近有熱海飯店而得名。是最靠近台北市區的天熱攀岩場，交通便利，可攀岩垂降，是初學者練習攀爬天然岩壁的最佳場所。可俯視春天酒店及仰望整個陽明山群峰，還有淡水河對面的觀音山，風景相當優美。</p>\r\n<p>◎
+    - "<h1 class=\"text-align-center\">極限攀岩-活動體驗</h1>\r\n\r\n<hr />\r\n\r\n\r\n<h2
+      class=\"text-align-center\">北投大砲岩岩場</h2>\r\n<img src=\"http://i.imgur.com/HdNN7IQ.jpg\"
+      />\r\n<p><span style=\"background-color: transparent;\">◎ 活動項目：</span>\r\n</p>\r\n<ul><li><span
+      style=\"background-color: transparent;\">攀岩安全觀念&#160;</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">普魯士攀升</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">安全確保攀登&#160;</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">岩壁垂降</span>\r\n</li>\r\n</ul>\r\n<p>◎
+      活動流程︰</p>\r\n<p>09︰00　新北投捷運站出口集合，前往大砲岩岩場<br />09︰30　活動安全講解、著裝，分組循環進行<br />12︰00　午餐休息<br
+      />13︰00　活動繼續進行<br />16︰30　活動分享時刻<br />17︰00　活動結束，下山回程</p>\r\n\r\n<a href=\"/聯絡我們\"
+      class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">新北投熱海岩場</h2>\r\n<img
+      src=\"http://i.imgur.com/MGe5u68.jpg\" />\r\n<p>位於新北投丹鳳山的山腰，因附近有熱海飯店而得名。是最靠近台北市區的天熱攀岩場，交通便利，可攀岩垂降，是初學者練習攀爬天然岩壁的最佳場所。可俯視春天酒店及仰望整個陽明山群峰，還有淡水河對面的觀音山，風景相當優美。</p>\r\n<p>◎
       活動項目：</p>\r\n<ul><li><span style=\"background-color: transparent;\">攀岩安全觀念&#160;</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">普魯士攀升</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">安全確保攀登&#160;</span>\r\n</li>\r\n<li><span
@@ -819,8 +842,14 @@ refinery_page_parts:
       style=\"background-color: transparent;\">岩壁垂降</span>\r\n</li>\r\n</ul>\r\n<p>◎
       活動流程：</p>\r\n<p>08︰00　龍洞和美國小集合<br />08︰10　活動安全講解、步行出發進入岩場<br />09︰00　活動分組循環進行體驗<br
       />12︰00　午餐休息時間<br />13︰00　活動繼續進行<br />15︰30　分享時間、合照<br />16︰00　回程、歸賦</p>\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<h1 class=\"text-align-center\">攀岩課程</h1>\r\n\r\n<hr
-      />\r\n\r\n<h2 class=\"text-align-center\">初級岩訓課程</h2>\r\n\r\n<img src=\"http://i.imgur.com/CKmMjd4.jpg\"
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<div><h1 class=\"text-align-center\">極限攀岩-體驗教學</h1>\r\n\r\n<p>1.
+      安全確保學習</p>\r\n<p>2. 攀岩技巧學習</p>\r\n<p>3. 岩壁垂降學習</p>\r\n<span style=\"background-color:
+      transparent;\"><ul><li><span style=\"background-color: transparent;\">　　費用︰每人1600元</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">　　每梯次限12人  專車接送每人200元 (限4人內)</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">　　以上費用含保險、攀岩裝備器材、頭盔、岩鞋、安全吊帶、午餐</span>\r\n</li>\r\n</ul>\r\n</span>\r\n<p><span
+      style=\"background-color: transparent;\">　　由小鬍子教練親自帶領教學</span>\r\n</p>\r\n<br
+      />\r\n<a href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<h1 class=\"text-align-center\">極限攀岩-課程訓練</h1>\r\n\r\n<hr
+      />\r\n\r\n<h2 class=\"text-align-center\">初級岩訓</h2>\r\n\r\n<img src=\"http://i.imgur.com/CKmMjd4.jpg\"
       />\r\n<p>◎ 課程項目：</p>\r\n<ul><li><span style=\"background-color: transparent;\">雙8字結</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">安全攀登觀念</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">裝備認識與使用</span>\r\n</li>\r\n<li><span
@@ -837,7 +866,7 @@ refinery_page_parts:
       transparent;\">請穿著俱彈性易活動之輕便服裝及運動鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n<a href=\"/聯絡我們\"
       class=\"button\">我要報名！</a>\r\n<p class=\"text-align-center\"></p>\r\n\r\n<hr
-      />\r\n\r\n<h2 class=\"text-align-center\">中級岩訓課程</h2>\r\n<img src=\"http://i.imgur.com/T4HB6Cd.jpg\"
+      />\r\n\r\n<h2 class=\"text-align-center\">中級岩訓</h2>\r\n<img src=\"http://i.imgur.com/T4HB6Cd.jpg\"
       />\r\n<p>◎ 課程項目：</p>\r\n<ul><li><span style=\"background-color: transparent;\">固定點架設運用</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">裝備介紹及天然岩場岩械使用架設</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">動態確保</span>\r\n</li>\r\n<li><span style=\"background-color:
@@ -855,7 +884,7 @@ refinery_page_parts:
       style=\"background-color: transparent;\">請穿著俱彈性易活動之輕便服裝及運動鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">課程結束後，測驗通過發給《中級岩訓學習證書》。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">初岩進階課程</h2>\r\n<img
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">進階岩訓</h2>\r\n<img
       src=\"http://i.imgur.com/GUay8OR.jpg\" />\r\n<p>◎ 課程項目：</p>\r\n<p>第一天</p>\r\n<ul><li><span
       style=\"background-color: transparent;\">平衡攀登練習</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">運動攀登</span>\r\n</li>\r\n<li><span style=\"background-color:
@@ -868,10 +897,10 @@ refinery_page_parts:
       style=\"background-color: transparent;\">請穿著俱彈性易活動之輕便服裝及運動鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
       href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<a href=\"/聯絡我們\"
-      class=\"button\" id=\"floatbtn\"><em class=\"fa fa-phone\"></em> 聯絡我們<br />09-3962-5099</a>"
+      class=\"button\" id=\"floatbtn\"><em class=\"fa fa-phone\"></em> 聯絡我們<br />0939-625-099</a>\r\n</div>"
     - '0'
     - '2014-11-29 04:11:06.189878'
-    - '2014-12-08 16:01:01.332271'
+    - '2014-12-16 05:50:27.194697'
   - - '19'
     - '8'
     - Side Body
@@ -882,13 +911,19 @@ refinery_page_parts:
   - - '20'
     - '9'
     - Body
-    - "<h1 class=\"text-align-center\">攀樹體驗</h1>\r\n<img src=\"http://i.imgur.com/fcbxdNh.jpg\"
+    - "<h1 class=\"text-align-center\">趣味攀樹-活動體驗</h1>\r\n<img src=\"http://i.imgur.com/fcbxdNh.jpg\"
       />\r\n<p>『樹攀』是以對樹產生最少的衝擊去親近、認識它。透過人樹安全原則，用輔助攀繩方式到達樹上，在樹上登高望遠，可以做動、植物的觀察，亦可以修剪樹枝，過程是種休閒運動，也是生活樂趣。</p>\r\n\r\n<p>◎
       活動流程：</p>\r\n<p>上午班<br />07：30　新北投捷運站集合（搭捷運、開車、騎車都可以）<br />08：00　活動安全講解、著裝<br
       />08：30　攀樹體驗進行<br />12：00　活動結束</p>\r\n<p>下午班<br />12：30　新北投捷運站集合（搭捷運、開車、騎車都可以）<br
       />13：00　活動安全講解、著裝<br />13：30　攀樹體驗進行<br />17：00　活動結束</p>\r\n<p>在不同的高度，有不同的視野，不同的心情喔～</p>\r\n\r\n<a
-      href=\"#\" class=\"button\">我要報名！</a>\r\n\r\n<h1 class=\"text-align-center\">攀樹課程</h1>\r\n\r\n<hr
-      />\r\n\r\n<h2 class=\"text-align-center\">初級攀樹課程</h2>\r\n\r\n<img src=\"http://i.imgur.com/1BvJ9W8.jpg\"
+      href=\"#\" class=\"button\">我要報名！</a>\r\n\r\n<h1 class=\"text-align-center\">趣味攀樹-體驗教學</h1>\r\n<div><p>1.
+      樹攀安全操作</p>\r\n<p>2. 拋繩技巧繩索運用</p>\r\n<p>3. 結繩上攀</p>\r\n<span style=\"background-color:
+      transparent;\"><ul><li><span style=\"background-color: transparent;\">　　費用︰每人1600元</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">　　每梯次限12人</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">　　以上費用含保險、樹攀裝備器材、頭盔、安全吊帶、午餐</span>\r\n</li>\r\n</ul>\r\n</span>\r\n<p><span
+      style=\"background-color: transparent;\">由小鬍子教練親自帶領教學</span>\r\n</p>\r\n</div>\r\n<p><a
+      href=\"#\" class=\"button\">我要報名！</a>\r\n</p>\r\n<h1 class=\"text-align-center\">趣味攀樹-課程訓練</h1>\r\n\r\n<hr
+      />\r\n\r\n<h2 class=\"text-align-center\">初級攀樹</h2>\r\n\r\n<img src=\"http://i.imgur.com/1BvJ9W8.jpg\"
       />\r\n<p>此課程適用於樹冠層的觀測、生態研究調查、修剪樹枝、高空安全作業及休閒運動◎課程項目：</p>\r\n<p>◎ 課程項目：</p>\r\n<ul><li><span
       style=\"background-color: transparent;\">攀樹介紹</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">攀樹觀念、備忘錄、口令</span>\r\n</li>\r\n<li><span style=\"background-color:
@@ -898,7 +933,7 @@ refinery_page_parts:
       style=\"background-color: transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">請穿著俱彈性之輕便服裝及具包覆性之硬底鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n<p><a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n</p>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">進階攀樹課程</h2>\r\n<img
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n</p>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">進階攀樹</h2>\r\n<img
       src=\"http://i.imgur.com/GxO84fB.jpg\" />\r\n<p>此課程適用於樹冠層的觀測、生態研究調查、修剪樹枝、高空安全作業及休閒運動</p>\r\n<p>◎
       課程項目：</p>\r\n<ul><li><span style=\"background-color: transparent;\">單、雙索人員救援系統操作</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">器材救援操作</span>\r\n</li>\r\n<li><span
@@ -910,10 +945,11 @@ refinery_page_parts:
       transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">請穿著俱彈性之輕便服裝及具包覆性之硬底鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a href=\"/聯絡我們\"
-      class=\"button\">我要報名！</a>\r\n<hr />\r\n"
+      class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<a href=\"/聯絡我們\" class=\"button\"
+      id=\"floatbtn\"><em class=\"fa fa-phone\"></em> 聯絡我們<br />0939-625-099</a>\r\n"
     - '0'
     - '2014-11-29 04:11:37.503801'
-    - '2014-12-08 11:38:10.498942'
+    - '2014-12-16 05:51:38.512902'
   - - '21'
     - '9'
     - Side Body
@@ -924,7 +960,7 @@ refinery_page_parts:
   - - '22'
     - '10'
     - Body
-    - "<h1 class=\"text-align-center\">溯溪體驗</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">三峽中坑溪</h2>\r\n<img
+    - "<h1 class=\"text-align-center\">野外溯溪-活動體驗</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">三峽中坑溪</h2>\r\n<img
       src=\"http://i.imgur.com/eKBDtef.jpg\" />\r\n<p>◎ 活動項目：</p>\r\n<p>溯行安全觀念、互助溯行技巧、瀑布攀爬、滑水</p>\r\n<p>◎
       活動流程：</p>\r\n<p>08：00　三峽「大板根森林溫泉渡假村」門口集合，引導開車前往<br />08：30　停車處著裝、活動安全講解<br />09：00　步行至起溯點
       \ 熱身、互助溯行<br />11：00　激流突破、攀瀑<br />12：00　午餐休息<br />13：00　繼續溯行，大攀瀑、滑水<br />15：30　大合照、山徑回程<br
@@ -958,8 +994,12 @@ refinery_page_parts:
       />\r\n<p>◎ 活動項目：</p>\r\n<p>溯行安全觀念 互助溯行技巧 深潭泳渡 攀爬瀑布 跳水</p>\r\n<p>◎ 活動流程：</p>\r\n<p>08：00　萬里「萬里國小」集合，引導開車前往<br
       />08：30　停車場著裝、步行至起溯點<br />09：00　活動安全講解、熱身、互助溯行<br />10：30　跳水、深潭泳渡<br />12：00　午餐休息<br
       />13：00　瀑布攀爬、互助溯行<br />15：00　泳渡攀瀑、跳水、大合照<br />16：30　山徑回程至停車場更衣<br />17：00　活動結束、歸賦</p>\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<h1 class=\"text-align-center\">溯溪課程</h1>\r\n\r\n<hr
-      />\r\n\r\n<h2 class=\"text-align-center\">初級溯溪課程</h2>\r\n\r\n<img src=\"http://i.imgur.com/iOiW6TJ.jpg\"
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<h1 class=\"text-align-center\">野外溯溪-體驗教學</h1>\r\n<div><p>1.溯溪安全確保操作</p>\r\n<p>2.
+      固定點架設繩索運用</p>\r\n<p>3. 泳渡攀瀑學習</p>\r\n<p>4. 瀑布垂降操作技巧</p>\r\n<ul><li>　　費用︰每人2400元</li>\r\n<li>　　每梯次限12人
+      \ 專車接送每人200元 (限4人內)</li>\r\n<li>　　以上費用含保險、溯溪裝備器材、頭盔、溯溪鞋、救生衣、防寒衣、<span style=\"background-color:
+      transparent;\">安全吊帶、午餐</span>\r\n</li>\r\n</ul>\r\n<p>由小鬍子教練親自帶領教學</p>\r\n</div>\r\n<p><a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n</p>\r\n<h1 class=\"text-align-center\">野外溯溪-課程訓練</h1>\r\n\r\n<hr
+      />\r\n\r\n<h2 class=\"text-align-center\">初級溯溪</h2>\r\n\r\n<img src=\"http://i.imgur.com/iOiW6TJ.jpg\"
       />\r\n<p>◎ 課程項目：</p>\r\n<ul><li><span style=\"background-color: transparent;\">溯溪源由</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">溯溪基本安全觀念、熱身法</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">溯溪基本裝備認識與運用</span>\r\n</li>\r\n<li><span
@@ -973,7 +1013,7 @@ refinery_page_parts:
       transparent;\">請穿著不易吸水且俱彈性之輕便服裝，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span style=\"background-color:
       transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n<a href=\"/聯絡我們\"
       class=\"button\">我要報名！</a>\r\n<p class=\"text-align-center\"></p>\r\n\r\n<hr
-      />\r\n\r\n<h2 class=\"text-align-center\">中級溯溪課程</h2>\r\n<img src=\"http://i.imgur.com/zHMd15F.jpg\"
+      />\r\n\r\n<h2 class=\"text-align-center\">中級溯溪</h2>\r\n<img src=\"http://i.imgur.com/zHMd15F.jpg\"
       />\r\n<p>◎ 課程項目：</p>\r\n<ul><li><span style=\"background-color: transparent;\">結繩法</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">體能訓練法</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">裝備打包裝填法</span>\r\n</li>\r\n<li><span
@@ -992,10 +1032,11 @@ refinery_page_parts:
       style=\"background-color: transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">請穿著不易吸水且俱彈性之輕便服裝，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />"
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<a href=\"/聯絡我們\"
+      class=\"button\" id=\"floatbtn\"><em class=\"fa fa-phone\"></em> 聯絡我們<br />0939-625-099</a>\r\n"
     - '0'
     - '2014-11-29 04:15:52.323233'
-    - '2014-12-08 12:20:03.982919'
+    - '2014-12-16 05:52:30.80805'
   - - '23'
     - '10'
     - Side Body
@@ -1006,7 +1047,7 @@ refinery_page_parts:
   - - '24'
     - '11'
     - Body
-    - "<h1 class=\"text-align-center\">綜合登山活動</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">水<span
+    - "<h1 class=\"text-align-center\">綜合登山-活動體驗</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">水<span
       class=\"text-align-center\">漾</span>森林</h2>\r\n<img src=\"http://i.imgur.com/qFsOSWC.jpg\"
       />\r\n<p>山林袐境探訪體驗-水漾森林　美麗又夢幻的湖泊<br />九二一地震讓阿里山鄉豐山村的深山裡，出現一個四公頃的高山堰塞湖。原本翠綠的柳杉林因長期浸泡在湖水裡，慢慢的相繼死亡，造成白木林奇景。白木林與藍天相映在水中，尤如傳說中的人間仙境。隨著枯木慢慢傾倒，已快成為消失的仙境。歡迎各位跟著我們，帶您到這傳說中的人間仙境。</p>\r\n<p>◎
       活動時間：<br /><span style=\"background-color: transparent;\">二天二夜  滿6人成行</span>\r\n</p>\r\n<p>◎
@@ -1025,10 +1066,23 @@ refinery_page_parts:
       />07︰00　369山莊出發　輕裝前往雪山主峰<br />11︰00　雪山主峰<br />15︰00　369山莊　宿</p>\r\n<p>第3天　<br
       />08︰00　369山莊　下山回程<br />12︰00　回到雪山登山口　回程台北</p>\r\n<p>◎&#160;辦理入山及保險所需個人資料：<br
       />姓名、出生年月日、身份證字號、地址、電話、緊急聯絡人姓名、關係、電話。</p>\r\n<p>\r\n◎ 注意事項：</p>\r\n<ul><li>請著貼身排汗俱彈性、方便活動之衣物(勿穿綿衫及牛仔褲)。</li>\r\n<li>活動需滿6人成行</li>\r\n</ul>\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />"
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n<h1 class=\"text-align-center\">綜合登山-體驗教學</h1>\r\n\r\n<hr
+      />\r\n<h2 class=\"text-align-center\">登山</h2>\r\n<div><p>1. 登山安全分享</p>\r\n<p>2.
+      登山裝備器材準備運用</p>\r\n<p>3. 登山行進安全</p>\r\n<p>4. 緊急避難危機處理</p>\r\n<p>5. 炊煮分享</p>\r\n<ul><li>　　費用︰每人2000元
+      (2小時室內課 + 1天戶外健行)</li>\r\n<li>　　每梯次限12人  專車接送每人200元 (限4人內) 以上費用含保險﹑午餐。　</li>\r\n<li>　　一天戶外健行個人裝備需自理</li>\r\n</ul>\r\n</div>\r\n<h2
+      class=\"text-align-center\">二天一夜露營趣</h2>\r\n<div><p>活動場地二選一</p>\r\n<p>1. 海邊
+      + 岩石</p>\r\n<p>2. 溪谷 + 樹林</p>\r\n<ul><li><span style=\"background-color: transparent;\">　　費用︰每人6800元</span>\r\n</li>\r\n<li>　　每梯次限12人
+      \ 專車接送每人400元 (限4人內)</li>\r\n<li>　　以上費用含保險﹑技術及玩樂裝備﹑露營帳棚﹑炊煮餐點<span style=\"background-color:
+      transparent;\">　　(1份早餐、2份中餐、1份晚餐)</span>\r\n</li>\r\n</ul>\r\n</div>\r\n<h2
+      class=\"text-align-center\">三天二夜露營趣</h2>\r\n<div><p>活動項目：溯溪、攀岩、浮潛、樹攀、衝浪、飛行傘</p>\r\n<p>【唯飛行傘需視天候狀況進行，若未執行將每人退費1000元】</p>\r\n<ul><li>　　費用︰每人9800元</li>\r\n<li><span
+      style=\"background-color: transparent;\">　　每梯次限12人  專車接送每人1200元 &#160;(限4人內)</span>\r\n</li>\r\n<li><span
+      style=\"background-color: transparent;\">　　以上費用含保險、技術及玩樂裝備、露營帳棚、炊煮餐點　(2份早餐、3份中餐、2份晚餐)　</span>\r\n</li>\r\n</ul>\r\n<p><span
+      style=\"background-color: transparent;\">由小鬍子教練親自帶領教學</span>\r\n</p>\r\n</div>\r\n<a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n\r\n\r\n<a href=\"/聯絡我們\" class=\"button\"
+      id=\"floatbtn\"><em class=\"fa fa-phone\"></em> 聯絡我們<br />0939-625-099</a>\r\n"
     - '0'
     - '2014-11-29 04:20:02.837688'
-    - '2014-12-08 11:42:55.285986'
+    - '2014-12-16 05:53:27.593108'
   - - '25'
     - '11'
     - Side Body
@@ -1046,10 +1100,11 @@ refinery_page_parts:
       style=\"background-color: transparent;\">自備交通、午餐、飲水、防曬用品、備用衣物、毛巾及個人用品。請穿著俱彈性且不易吸水之輕便衣物，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">歡迎企業、公司行號、學校社團及機關團體等預約活動。預約需於活動日20天前決定，並簽訂契約及支付活動總計費用之50%為訂金。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">活動若因天候或其它不可抗拒之因素，將考量人員安全，決定取消或順延或更改行程內容。</span>\r\n</li>\r\n</ol>\r\n\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />"
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<a href=\"/聯絡我們\"
+      class=\"button\" id=\"floatbtn\"><em class=\"fa fa-phone\"></em> 聯絡我們<br />0939-625-099</a>\r\n"
     - '0'
     - '2014-11-29 04:21:54.320543'
-    - '2014-12-08 11:44:37.036375'
+    - '2014-12-16 05:54:42.189323'
   - - '29'
     - '13'
     - Side Body
@@ -1074,10 +1129,17 @@ refinery_page_parts:
   - - '42'
     - '20'
     - Body
-    - ''
+    - "<h2 class=\"text-align-center\">吉爾吉斯 登山之心 省思</h2>\r\n<p>此行最大收獲是看見攀登的企圖與裝備在環境運用上選擇的差異!!</p>\r\n<p>&gt;&gt;
+      論成敗不一定在起點，而是在轉折點!!</p>\r\n<p>&gt;&gt; 知識給了你判斷!!</p>\r\n<p>&gt;&gt; 天候給了你機會!!</p>\r\n<p>&gt;&gt;
+      體力技術、經驗學習、態度思維決定你的高度!!</p>\r\n<hr />\r\n<h2>咚咚今天很棒！腳踏車騎了十公里還差點被狗咬！午餐一起煮了松子炒飯和昨天的山藥排骨！是鼓勵和壓驚！</h2>\r\n<hr
+      />\r\n<h2 class=\"text-align-center\">深感無力！從老花眼鏡的依賴面對每天小螢幕的手機和電腦行政的摧殘！原本正常的視力漸漸顯得糢湖！是習慣該脫離還是年紀？我要我的青山綠水啦！</h2>\r\n<hr
+      />\r\n<h2 class=\"text-align-center\">入園未核依然前往探尖稜！內心的惡魔終敵不過安全規範！回頭下海去了！</h2>\r\n<hr
+      />\r\n<h2 class=\"text-align-center\">身處異地！能在高原冰川奔馳是一大享受！</h2>\r\n<hr />\r\n<h2
+      class=\"text-align-center\">有些事越說越亂！進退兩難！只能忍痛（琨增帥哥）合歡團報雪訓取消了！</h2>\r\n<hr />\r\n<h2
+      class=\"text-align-center\">為什麼喜歡爬山，不需要原因，山就是這麼美，快下雪吧!兄弟準備好了嗎?</h2>\r\n<hr />"
     - '0'
     - '2014-12-08 07:00:39.217081'
-    - '2014-12-08 07:00:39.217081'
+    - '2014-12-16 05:40:36.843064'
   - - '43'
     - '20'
     - Side Body
@@ -1088,7 +1150,7 @@ refinery_page_parts:
   - - '44'
     - '21'
     - Body
-    - "<h1 class=\"text-align-center\">雪訓課程</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">初級雪訓–合歡山</h2>\r\n\r\n<img
+    - "<h1 class=\"text-align-center\">冰雪攀登</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">初級雪訓–合歡山</h2>\r\n\r\n<img
       src=\"http://i.imgur.com/PGGpfTr.jpg\" />\r\n<p>◎ 課程項目：</p>\r\n<ul><li><span
       style=\"background-color: transparent;\">雪訓操作裝備及身心體能的準備</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">雪地行前綜合步伐</span>\r\n</li>\r\n<li><span
@@ -1132,10 +1194,11 @@ refinery_page_parts:
       style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">因顧及訓練教育及安全考量，所有參加人均需團進團出。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">報名事項請參考報名表上內容。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n"
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<a href=\"/聯絡我們\"
+      class=\"button\" id=\"floatbtn\"><em class=\"fa fa-phone\"></em> 聯絡我們<br />0939-625-099</a>\r\n"
     - '0'
     - '2014-12-08 07:02:40.285122'
-    - '2014-12-08 11:45:11.290493'
+    - '2014-12-16 05:55:29.467069'
   - - '45'
     - '21'
     - Side Body
@@ -1146,15 +1209,17 @@ refinery_page_parts:
   - - '46'
     - '22'
     - Body
-    - "<h1 class=\"text-align-center\">海外攀登</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">海外攀登健行–馬來西亞神山七頂峰攀登健行
-      《八天行程》</h2>\r\n\r\n<img src=\"http://i.imgur.com/r3zG2ml.jpg\" />\r\n<p>海外攀登健行–馬來西亞神山七頂峰攀登健行《八天行程》<br
-      />※國內唯一帶領神山『非傳統』路線攀登健行者※</p>\r\n<p>◎ 行程規劃：<br />　　第一天　台北–亞庇市–住宿天山山莊<br />　　第二天　天山山莊–國家公園–住宿沙葉沙葉山屋<br
-      />　　第三天　西部高原七頂峰–住宿古格山莊<br />　　第四天　西部高原七頂峰–住宿古格山莊<br />　　第五天　南峰–住宿沙葉沙葉山屋<br />　　第六天　盧耳峰、丑姊妹峰–住宿沙葉沙葉山屋<br
-      />　　第七天　易級谷–住宿沙葉沙葉山屋<br />　　第八天　下山–亞庇–回台北</p>\r\n<p>◎ 6人成行</p>\r\n<p>～　歡迎喜好高山攝影的朋友來參加　～</p>\r\n\r\n<a
-      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n\r\n<hr />\r\n\r\n\r\n\r\n"
+    - "<h1 class=\"text-align-center\">海外攀登</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">馬來西亞
+      攀登探險</h2>\r\n\r\n<img src=\"http://i.imgur.com/r3zG2ml.jpg\" /><br />\r\n\r\n<a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">韓國雪嶽山
+      冰攀</h2>\r\n\r\n<img src=\"http://i.imgur.com/TrI23nZ.jpg\" /><br />\r\n\r\n<a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">四川雙橋溝
+      冰攀健行</h2>\r\n\r\n<img src=\"http://i.imgur.com/GPeB7mF.jpg\" /><br />\r\n\r\n<a
+      href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n\r\n<hr />\r\n\r\n\r\n<a href=\"/聯絡我們\"
+      class=\"button\" id=\"floatbtn\"><em class=\"fa fa-phone\"></em> 聯絡我們<br />0939-625-099</a>"
     - '0'
     - '2014-12-08 07:03:44.889573'
-    - '2014-12-08 11:26:34.892829'
+    - '2014-12-16 06:14:45.567831'
   - - '47'
     - '22'
     - Side Body
@@ -1169,10 +1234,11 @@ refinery_page_parts:
       src=\"http://i.imgur.com/qgqxnNC.jpg\" />\r\n<p>走出戶外看見海之美景，親臨現場之高聳岩壁，勇敢跨出百米滑降，挑戰你的腎上腺素</p>\r\n<p>大海~藍天~陽光~我來嘍~~</p>\r\n<p>◎
       活動需滿15人成行～可配合環境與其它活動結合一同體驗<br />例如：滑降 + 攀岩 或 滑降 + 浮潛...等</p>\r\n<p>◎ 二合一活動：<br
       />滑降需滿15人，附加活動需滿6人<br />費用含教練、保險、裝備器材用具、活動安全裝備等</p>\r\n\r\n<a href=\"/#contactsect\"
-      class=\"button\">我要報名！</a>\r\n<hr />"
+      class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<a href=\"/聯絡我們\" class=\"button\"
+      id=\"floatbtn\"><em class=\"fa fa-phone\"></em> 聯絡我們<br />0939-625-099</a>\r\n"
     - '0'
     - '2014-12-08 07:06:42.523808'
-    - '2014-12-08 11:44:55.671841'
+    - '2014-12-16 05:54:08.759335'
   - - '49'
     - '23'
     - Side Body
@@ -1192,13 +1258,13 @@ refinery_page_parts:
   - - '52'
     - '1'
     - Quote
-    - "<p>\r\n<span>突破</span> 競爭走出自己的獨特格調,改變對<span>\"量\"</span>的迷思,提升對<span>\"質\"</span>的服務,\r\n<br
-      />\r\n<span>---小鬍子親自服務---</span>\r\n<br />\r\n20年活動經驗,親自帶領;20年廚藝經驗,親自料理,每次活動<span>限定一團</span>\r\n<br
-      />\r\n量身安排適合您的體驗學習項目,用朋友的心來服務您\r\n<br />\r\n不打廣告,口碑相傳,與您相遇是我們的緣份!!\r\n<br />\r\n交個朋友吧!!
-      讓我們共同學習成長,親山遊水,開闊視野!!\r\n</p>\r\n"
+    - "<p>\r\n<span>突破</span> 競爭走出自己的獨特格調, 改變對<span>\"量\"</span>的迷思, 提升對<span>\"質\"</span>的服務,\r\n<br
+      />\r\n<span>---小鬍子親自服務---</span>\r\n<br />\r\n成立於西元1994, 20年活動經驗, 親自帶領 ; 20年廚藝經驗,
+      親自料理, 每次活動<span>限定一團</span>\r\n<br />\r\n<span>量身安排</span>適合您的體驗學習項目, 用朋友的心來服務您\r\n<br
+      />\r\n不打廣告, 口碑相傳, 與您相遇是我們的緣份!!\r\n<br />\r\n交個朋友吧!! 讓我們共同學習成長, 親山遊水, 開闊視野!!\r\n</p>\r\n"
     - '1'
     - '2014-12-08 16:26:42.93007'
-    - '2014-12-08 16:33:10.456688'
+    - '2014-12-16 06:03:30.417053'
   - - '54'
     - '1'
     - Attention
@@ -1424,10 +1490,10 @@ refinery_pages:
     - '3'
     - '4'
     - '0'
-    - show
+    - page
     - application
     - '2014-12-08 07:00:39.171124'
-    - '2014-12-08 07:00:39.171124'
+    - '2014-12-16 06:04:35.239776'
   - - '21'
     - '4'
     - 
