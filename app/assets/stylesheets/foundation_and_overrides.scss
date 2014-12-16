@@ -80,6 +80,16 @@ ul.orbit-slides-container li {
 
 // Social Bar
 
+#servicesect {
+  padding:2em;
+  color:#333;
+  .small-3.small-centered.columns {
+    text-align:center;
+    border-style:solid;
+    border-radius: 3px;
+  }
+}
+
 #socialbar ul {
   margin-top:20px;
   li {
@@ -128,18 +138,6 @@ ul.orbit-slides-container li {
   overflow-y: scroll;
 }
 
-
-//Service Section
-
-#servicesect {
-  padding:2em;
-  color:#333;
-  .small-3.small-centered.columns {
-    text-align:center;
-    border-style:solid;
-    border-radius: 3px;
-  }
-}
 
 
 //Attention Section
