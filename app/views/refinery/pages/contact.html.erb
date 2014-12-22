@@ -27,7 +27,7 @@
       </div>
       <!-- END Google Maps -->
     </div>
-    <form>
+    <form method="POST" action="//forms.brace.io/xhz.robin@gmail.com">
       <div class="medium-6 medium-pull-6 columns">
         <label>您的大名
           <input type="text" placeholder="" />
@@ -40,12 +40,12 @@
       </div>
       <div class="medium-6 medium-pull-6 columns">
         <label>您的電子信箱
-          <input type="text" placeholder="" />
+          <input type="text" name="_replyto" placeholder="" />
         </label>
       </div>
       <div class="medium-6 medium-pull-6 columns">
         <label>想參加活動
-          <input type="text" placeholder="" />
+          <input type="text" name="_subject" placeholder="" />
         </label>
       </div>
       <div class="medium-6 medium-pull-6 columns">
@@ -53,6 +53,7 @@
           <textarea placeholder=""></textarea>
         </label>
       </div>
+      <input type="text" name="_gotcha" style="display:none" />
       <div class="medium-6 medium-pull-6 columns">
         <input type="submit" tabindex="0" class="button expand" value="發送"/>
       </div>
