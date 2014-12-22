@@ -201,7 +201,7 @@ refinery_page_part_translations:
     - '18'
     - en
     - '2014-11-29 04:11:06.216763'
-    - '2014-12-16 05:50:27.217205'
+    - '2014-12-22 05:56:44.895195'
     - "<h1 class=\"text-align-center\">極限攀岩-活動體驗</h1>\r\n\r\n<hr />\r\n\r\n\r\n<h2
       class=\"text-align-center\">北投大砲岩岩場</h2>\r\n<img src=\"http://i.imgur.com/HdNN7IQ.jpg\"
       />\r\n<p><span style=\"background-color: transparent;\">◎ 活動項目：</span>\r\n</p>\r\n<ul><li><span
@@ -277,8 +277,7 @@ refinery_page_part_translations:
       style=\"background-color: transparent;\">課後研討</span>\r\n</li>\r\n</ul>\r\n<p>第二天</p>\r\n<ul><li>先鋒撤退</li>\r\n<li>複習</li>\r\n<li>測驗及結訓</li>\r\n</ul>\r\n<p>◎
       課程時間：星期六、日  AM 08：00~PM 17：00</p>\r\n<p>◎ 課程地點：星期六  東北角龍洞岩場、新店瑠公公園岩場或小鬍子室內岩場<br
       />　　　　　　 星期日  樹林攀岩場、檳榔路岩場或室內岩場</p>\r\n<p>◎ 課程裝備：自備個人裝備：安全吊帶、岩鞋、粉袋、大D有鎖勾環2個、快扣組6組、確保器、攀登繩（單繩）45米每組一條、繩鍊</p>\r\n<p>◎
-      課程費用：每人費用NT$3,500元（未稅）滿6人開課<br />　　　　　　 費用包含教練、保險</p>\r\n<p>◎ 注意事項：</p>\r\n<ul><li><span
-      style=\"background-color: transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span
+      注意事項：</p>\r\n<ul><li><span style=\"background-color: transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">請穿著俱彈性易活動之輕便服裝及運動鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
       href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<a href=\"/聯絡我們\"
@@ -469,14 +468,14 @@ refinery_page_part_translations:
     - '28'
     - en
     - '2014-11-29 04:21:54.322221'
-    - '2014-12-16 05:54:42.190875'
+    - '2014-12-22 05:57:57.616634'
     - "<h1 class=\"text-align-center\">大海浮潛</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">東北角龍洞浮潛</h2>\r\n<img
       src=\"http://i.imgur.com/7b941q7.jpg\" />\r\n<p>◎ 活動流程：<br />08：00　龍洞街和美國小前集合<br
       />08：20　活動安全講解　著裝、熱身<br />08：50　步行至浮潛區<br />09：10　浮潛體驗<br />12：00　步行回停車處更衣沖水，活動結束</p>\r\n<p>◎
-      \t注意事項：</p>\r\n<ol><li><span style=\"background-color: transparent;\">個人報名以繳交報名表及活動款項後，才算報名完成。</span>\r\n</li>\r\n<li><span
+      \t注意事項：</p>\r\n<ul><li><span style=\"background-color: transparent;\">個人報名以繳交報名表及活動款項後，才算報名完成。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">自備交通、午餐、飲水、防曬用品、備用衣物、毛巾及個人用品。請穿著俱彈性且不易吸水之輕便衣物，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">歡迎企業、公司行號、學校社團及機關團體等預約活動。預約需於活動日20天前決定，並簽訂契約及支付活動總計費用之50%為訂金。</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">活動若因天候或其它不可抗拒之因素，將考量人員安全，決定取消或順延或更改行程內容。</span>\r\n</li>\r\n</ol>\r\n\r\n\r\n<a
+      style=\"background-color: transparent;\">活動若因天候或其它不可抗拒之因素，將考量人員安全，決定取消或順延或更改行程內容。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
       href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<a href=\"/聯絡我們\"
       class=\"button\" id=\"floatbtn\"><em class=\"fa fa-phone\"></em> 聯絡我們<br />0939-625-099</a>\r\n"
   - - '29'
@@ -904,15 +903,14 @@ refinery_page_parts:
       style=\"background-color: transparent;\">課後研討</span>\r\n</li>\r\n</ul>\r\n<p>第二天</p>\r\n<ul><li>先鋒撤退</li>\r\n<li>複習</li>\r\n<li>測驗及結訓</li>\r\n</ul>\r\n<p>◎
       課程時間：星期六、日  AM 08：00~PM 17：00</p>\r\n<p>◎ 課程地點：星期六  東北角龍洞岩場、新店瑠公公園岩場或小鬍子室內岩場<br
       />　　　　　　 星期日  樹林攀岩場、檳榔路岩場或室內岩場</p>\r\n<p>◎ 課程裝備：自備個人裝備：安全吊帶、岩鞋、粉袋、大D有鎖勾環2個、快扣組6組、確保器、攀登繩（單繩）45米每組一條、繩鍊</p>\r\n<p>◎
-      課程費用：每人費用NT$3,500元（未稅）滿6人開課<br />　　　　　　 費用包含教練、保險</p>\r\n<p>◎ 注意事項：</p>\r\n<ul><li><span
-      style=\"background-color: transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span
+      注意事項：</p>\r\n<ul><li><span style=\"background-color: transparent;\">自備交通、午餐、飲水、個人用品。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">請穿著俱彈性易活動之輕便服裝及運動鞋，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">繳交報名表及課程費用後，即報名完成。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
       href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<a href=\"/聯絡我們\"
       class=\"button\" id=\"floatbtn\"><em class=\"fa fa-phone\"></em> 聯絡我們<br />0939-625-099</a>\r\n</div>"
     - '0'
     - '2014-11-29 04:11:06.189878'
-    - '2014-12-16 05:50:27.194697'
+    - '2014-12-22 05:56:44.893186'
   - - '19'
     - '8'
     - Side Body
@@ -1108,15 +1106,15 @@ refinery_page_parts:
     - "<h1 class=\"text-align-center\">大海浮潛</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">東北角龍洞浮潛</h2>\r\n<img
       src=\"http://i.imgur.com/7b941q7.jpg\" />\r\n<p>◎ 活動流程：<br />08：00　龍洞街和美國小前集合<br
       />08：20　活動安全講解　著裝、熱身<br />08：50　步行至浮潛區<br />09：10　浮潛體驗<br />12：00　步行回停車處更衣沖水，活動結束</p>\r\n<p>◎
-      \t注意事項：</p>\r\n<ol><li><span style=\"background-color: transparent;\">個人報名以繳交報名表及活動款項後，才算報名完成。</span>\r\n</li>\r\n<li><span
+      \t注意事項：</p>\r\n<ul><li><span style=\"background-color: transparent;\">個人報名以繳交報名表及活動款項後，才算報名完成。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">自備交通、午餐、飲水、防曬用品、備用衣物、毛巾及個人用品。請穿著俱彈性且不易吸水之輕便衣物，勿穿牛仔褲。</span>\r\n</li>\r\n<li><span
       style=\"background-color: transparent;\">歡迎企業、公司行號、學校社團及機關團體等預約活動。預約需於活動日20天前決定，並簽訂契約及支付活動總計費用之50%為訂金。</span>\r\n</li>\r\n<li><span
-      style=\"background-color: transparent;\">活動若因天候或其它不可抗拒之因素，將考量人員安全，決定取消或順延或更改行程內容。</span>\r\n</li>\r\n</ol>\r\n\r\n\r\n<a
+      style=\"background-color: transparent;\">活動若因天候或其它不可抗拒之因素，將考量人員安全，決定取消或順延或更改行程內容。</span>\r\n</li>\r\n</ul>\r\n\r\n\r\n<a
       href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n<a href=\"/聯絡我們\"
       class=\"button\" id=\"floatbtn\"><em class=\"fa fa-phone\"></em> 聯絡我們<br />0939-625-099</a>\r\n"
     - '0'
     - '2014-11-29 04:21:54.320543'
-    - '2014-12-16 05:54:42.189323'
+    - '2014-12-22 05:57:57.608469'
   - - '29'
     - '13'
     - Side Body
