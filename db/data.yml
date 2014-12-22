@@ -84,10 +84,10 @@ refinery_page_part_translations:
     - '8'
     - en
     - '2014-11-17 06:39:07.425259'
-    - '2014-12-16 05:41:31.764234'
-    - "<div id=\"servicesect\">\r\n\t<div class=\"small-3 small-centered columns homesection\">\r\n\t\t<h1>服務項目</h1>\r\n\t\t<em
-      class=\"fa fa-compass fa-2x\"></em>\r\n\t</div>\r\n\r\n\t<div class=\"row\">\r\n\t\t<div
-      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>極限攀岩</h2>\r\n\t\t\t<a
+    - '2014-12-22 05:38:03.009521'
+    - "<div id=\"servicesect\">\r\n\t<div class=\"small-3 small-centered columns homesection\">\r\n\t\t<h1>服務項目</h1>\r\n\r\n\t\t<em
+      class=\"fa fa-compass fa-2x\"></em>\r\n\t</div>\r\n\r\n<p class=\"text-align-center\">員工旅遊、休閒育樂、極限挑戰、親子活動</p>\r\n\t<div
+      class=\"row\">\r\n\t\t<div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>極限攀岩</h2>\r\n\t\t\t<a
       href=\"/服務項目/極限攀岩\"><img src=\"/services/rockclimb.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t膽大心細，攀岩一點都不難！\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
       class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>趣味攀樹</h2>\r\n\t\t\t<a
       href=\"/服務項目/趣味攀樹\"><img src=\"/services/treeclimb.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t在不同的高度，有不同的視野，不同的心情喔～\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
@@ -114,10 +114,10 @@ refinery_page_part_translations:
     - '12'
     - en
     - '2014-11-17 06:39:46.072823'
-    - '2014-12-16 05:44:53.305119'
-    - "<h1 class=\"text-align-center\">專案規劃</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">Team
-      Building<br />量身訂做!</h2>\r\n\r\n<img src=\"http://i.imgur.com/9zHYU2N.jpg\"
-      />\r\n<p>如果「團隊」沒有願景、共識和向心力就只是「一群人」，和同一列火車的乘客、同一場電影的觀眾沒有兩樣。企業主管肩負求創造經營績效、提升競爭力的重要任務，如何讓「一群人」形成一個「團隊」，是無時無刻都在進行的基礎工程，更是使企業永續成長的關鍵。<br
+    - '2014-12-22 05:38:28.188726'
+    - "<h1 class=\"text-align-center\">專案規劃</h1>\r\n<p class=\"text-align-center\"><strong>企業活動、團體活動、教育訓練、團隊合作</strong>\r\n</p>\r\n\r\n<hr
+      />\r\n\r\n<h2 class=\"text-align-center\">Team Building &#160;&#160;量身訂做!</h2>\r\n\r\n<img
+      src=\"http://i.imgur.com/9zHYU2N.jpg\" />\r\n<p>如果「團隊」沒有願景、共識和向心力就只是「一群人」，和同一列火車的乘客、同一場電影的觀眾沒有兩樣。企業主管肩負求創造經營績效、提升競爭力的重要任務，如何讓「一群人」形成一個「團隊」，是無時無刻都在進行的基礎工程，更是使企業永續成長的關鍵。<br
       />小鬍子冒險學校有具有多年產業經驗、團隊建立授課經驗的引導員講師群，以完善規劃的活動，讓所有參與伙伴經由反思、歸納、應用，明白什麼是有效的團隊、知道團隊的組合及其成功因素、發現團隊在運作及建立中所經歷的階段和困難、明白領袖及其風格在團隊中的影響。透過團隊活動，鼓勵團隊的隊員間互信與合作。<br
       />小鬍子冒險學校將依您的獨特需求，量身訂做專屬的Team building課程，歡迎各公司行號來電洽詢！<br />\r\n</p>\r\n\r\n<a
       href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">活動攀岩車</h2>\r\n<img
@@ -501,15 +501,27 @@ refinery_page_part_translations:
     - '42'
     - en
     - '2014-12-08 07:00:39.302205'
-    - '2014-12-16 05:40:36.976324'
-    - "<h2 class=\"text-align-center\">吉爾吉斯 登山之心 省思</h2>\r\n<p>此行最大收獲是看見攀登的企圖與裝備在環境運用上選擇的差異!!</p>\r\n<p>&gt;&gt;
-      論成敗不一定在起點，而是在轉折點!!</p>\r\n<p>&gt;&gt; 知識給了你判斷!!</p>\r\n<p>&gt;&gt; 天候給了你機會!!</p>\r\n<p>&gt;&gt;
-      體力技術、經驗學習、態度思維決定你的高度!!</p>\r\n<hr />\r\n<h2>咚咚今天很棒！腳踏車騎了十公里還差點被狗咬！午餐一起煮了松子炒飯和昨天的山藥排骨！是鼓勵和壓驚！</h2>\r\n<hr
-      />\r\n<h2 class=\"text-align-center\">深感無力！從老花眼鏡的依賴面對每天小螢幕的手機和電腦行政的摧殘！原本正常的視力漸漸顯得糢湖！是習慣該脫離還是年紀？我要我的青山綠水啦！</h2>\r\n<hr
-      />\r\n<h2 class=\"text-align-center\">入園未核依然前往探尖稜！內心的惡魔終敵不過安全規範！回頭下海去了！</h2>\r\n<hr
-      />\r\n<h2 class=\"text-align-center\">身處異地！能在高原冰川奔馳是一大享受！</h2>\r\n<hr />\r\n<h2
-      class=\"text-align-center\">有些事越說越亂！進退兩難！只能忍痛（琨增帥哥）合歡團報雪訓取消了！</h2>\r\n<hr />\r\n<h2
-      class=\"text-align-center\">為什麼喜歡爬山，不需要原因，山就是這麼美，快下雪吧!兄弟準備好了嗎?</h2>\r\n<hr />"
+    - '2014-12-22 05:33:34.291693'
+    - "<h2 class=\"text-align-left\">熱血友人 Q : 參加極限運動費用是不是都很貴??</h2>\r\n<p>A：親身體驗的回憶是無價的，小鬍子為您規劃屬於您合適的冒險旅程，在我們的「服務項目」中，每項活動的「教學體驗」</p>\r\n<p>　　皆有報價可做為參考，為確保個人安全，每項活動費用包含了\"個人保險\"，希望有個愉快、平安的旅程。</p>\r\n<h2
+      class=\"text-align-left\">熱血友人 Q : 小鬍子教練今年幾歲?</h2>\r\n<p>A：身高不是距離，年齡不是問題，但小鬍子教練永遠保有一顆20歲年輕、熱血赤子之心!!&#160;</p>\r\n<p>　　如果您也勇於冒險，歡迎加入我們的團隊!!</p>\r\n<h2
+      class=\"text-align-left\">熱血友人 Q : 覺得體能不足，也可以參加極限運動嗎?</h2>\r\n<p>A：沒有經驗、沒有訓練，沒有關係，只要保持一顆年輕、冒險赤子之心，小鬍子會為您量身規劃，屬於您的一趟冒險旅程。</p>\r\n<p>&#160;
+      &#160; &#160; &#160;途中會有教練團不斷協助您完成每項挑戰。</p>\r\n<h2 class=\"text-align-left\">熱血友人
+      Q : 從小到大沒參加過極限運動，很想嚐試，該如何準備起呢?&#160;</h2>\r\n<p class=\"text-align-left\"><span
+      style=\"background-color: transparent;\">A：只要與我們聯絡，倘開心腓，把自己交給我們，沒有經驗也能給您一個不一樣的體驗。有心臟病、心血管疾病、高山症、</span>\r\n</p>\r\n<p
+      class=\"text-align-left\"><span style=\"background-color: transparent;\">　　近期有開刀...
+      等，各種身體狀況，請在行前告知，讓這趟旅程更盡興愉快!!</span>\r\n</p>\r\n<h2 class=\"text-align-left\">熱血友人
+      Q : 怎麼樣報名?&#160;</h2>\r\n<p>A：參考我們的「服務項目」，對任何一項活動有興趣者，點「我要報名」或來電0939-625-099，由小鬍子親自為您服務!!</p>\r\n<h2
+      class=\"text-align-center\">雪訊叮嚀</h2> <img src=\"http://i.imgur.com/PkgZBjM.jpg?2\"
+      />\r\n<p>小鬍子冒險學校雪訓證明只針對參加雪訓的同學在學習上的一個證明。</p>\r\n<p>初級雪訓是個人進入雪地環境最低的自我保護！而雪訓過程也會因天侯環境地形課程有所差異與技術經驗帶隊無絕對關係！</p>\r\n<p>然國家公園制定了雪季入山申請之雪訓證明用意良善！國家公園也會對此初級雪訓結業證明裁量檢視！</p>\r\n<p>小鬍子希望的是參加雪訓者能獲得增進雪地安全技能！而非一張證明而已！</p>\r\n<p>願大家雪地登山平安！</p>\r\n<hr
+      />\r\n<h2 class=\"text-align-center\">吉爾吉斯 登山之心 省思</h2> <img src=\"http://i.imgur.com/6zRC8sB.jpg?1\"
+      />\r\n<p>此行最大收獲是看見攀登的企圖與裝備在環境運用上選擇的差異!!</p>\r\n<p>&gt;&gt; 論成敗不一定在起點，而是在轉折點!!</p>\r\n<p>&gt;&gt;
+      知識給了你判斷!!</p>\r\n<p>&gt;&gt; 天候給了你機會!!</p>\r\n<p>&gt;&gt; 體力技術、經驗學習、態度思維決定你的高度!!</p>\r\n<hr
+      />\r\n<h2>咚咚今天很棒！腳踏車騎了十公里還差點被狗咬！午餐一起煮了松子炒飯和昨天的山藥排骨！是鼓勵和壓驚！</h2> <img src=\"http://i.imgur.com/8YRAjwk.jpg?1\"
+      />\r\n<hr />\r\n<h2 class=\"text-align-center\">深感無力！從老花眼鏡的依賴面對每天小螢幕的手機和電腦行政的摧殘！原本正常的視力漸漸顯得糢湖！是習慣該脫離還是年紀？我要我的青山綠水啦！</h2>
+      <img src=\"http://i.imgur.com/0dgH0bu.jpg?1\" />\r\n<hr />\r\n<h2 class=\"text-align-center\">身處異地！能在高原冰川奔馳是一大享受！</h2>
+      <img src=\"http://i.imgur.com/xtsaW5F.jpg?1\" />\r\n<hr />\r\n<h2 class=\"text-align-center\">為什麼喜歡爬山，不需要原因，山就是這麼美，快下雪吧!兄弟準備好了嗎?</h2>
+      <img src=\"http://i.imgur.com/EYmh4LO.jpg?1\" class=\"selected_by_wym\" />\r\n<hr
+      />"
   - - '43'
     - '43'
     - en
@@ -694,9 +706,9 @@ refinery_page_parts:
   - - '8'
     - '4'
     - Body
-    - "<div id=\"servicesect\">\r\n\t<div class=\"small-3 small-centered columns homesection\">\r\n\t\t<h1>服務項目</h1>\r\n\t\t<em
-      class=\"fa fa-compass fa-2x\"></em>\r\n\t</div>\r\n\r\n\t<div class=\"row\">\r\n\t\t<div
-      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>極限攀岩</h2>\r\n\t\t\t<a
+    - "<div id=\"servicesect\">\r\n\t<div class=\"small-3 small-centered columns homesection\">\r\n\t\t<h1>服務項目</h1>\r\n\r\n\t\t<em
+      class=\"fa fa-compass fa-2x\"></em>\r\n\t</div>\r\n\r\n<p class=\"text-align-center\">員工旅遊、休閒育樂、極限挑戰、親子活動</p>\r\n\t<div
+      class=\"row\">\r\n\t\t<div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>極限攀岩</h2>\r\n\t\t\t<a
       href=\"/服務項目/極限攀岩\"><img src=\"/services/rockclimb.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t膽大心細，攀岩一點都不難！\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
       class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>趣味攀樹</h2>\r\n\t\t\t<a
       href=\"/服務項目/趣味攀樹\"><img src=\"/services/treeclimb.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t在不同的高度，有不同的視野，不同的心情喔～\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
@@ -715,7 +727,7 @@ refinery_page_parts:
       class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t\r\n\t\t</div>\r\n\t</div>\r\n\r\n</div>\r\n"
     - '0'
     - '2014-11-17 06:39:07.421836'
-    - '2014-12-16 05:41:31.743693'
+    - '2014-12-22 05:38:03.007817'
   - - '9'
     - '4'
     - Side Body
@@ -726,9 +738,9 @@ refinery_page_parts:
   - - '12'
     - '6'
     - Body
-    - "<h1 class=\"text-align-center\">專案規劃</h1>\r\n\r\n<hr />\r\n\r\n<h2 class=\"text-align-center\">Team
-      Building<br />量身訂做!</h2>\r\n\r\n<img src=\"http://i.imgur.com/9zHYU2N.jpg\"
-      />\r\n<p>如果「團隊」沒有願景、共識和向心力就只是「一群人」，和同一列火車的乘客、同一場電影的觀眾沒有兩樣。企業主管肩負求創造經營績效、提升競爭力的重要任務，如何讓「一群人」形成一個「團隊」，是無時無刻都在進行的基礎工程，更是使企業永續成長的關鍵。<br
+    - "<h1 class=\"text-align-center\">專案規劃</h1>\r\n<p class=\"text-align-center\"><strong>企業活動、團體活動、教育訓練、團隊合作</strong>\r\n</p>\r\n\r\n<hr
+      />\r\n\r\n<h2 class=\"text-align-center\">Team Building &#160;&#160;量身訂做!</h2>\r\n\r\n<img
+      src=\"http://i.imgur.com/9zHYU2N.jpg\" />\r\n<p>如果「團隊」沒有願景、共識和向心力就只是「一群人」，和同一列火車的乘客、同一場電影的觀眾沒有兩樣。企業主管肩負求創造經營績效、提升競爭力的重要任務，如何讓「一群人」形成一個「團隊」，是無時無刻都在進行的基礎工程，更是使企業永續成長的關鍵。<br
       />小鬍子冒險學校有具有多年產業經驗、團隊建立授課經驗的引導員講師群，以完善規劃的活動，讓所有參與伙伴經由反思、歸納、應用，明白什麼是有效的團隊、知道團隊的組合及其成功因素、發現團隊在運作及建立中所經歷的階段和困難、明白領袖及其風格在團隊中的影響。透過團隊活動，鼓勵團隊的隊員間互信與合作。<br
       />小鬍子冒險學校將依您的獨特需求，量身訂做專屬的Team building課程，歡迎各公司行號來電洽詢！<br />\r\n</p>\r\n\r\n<a
       href=\"/聯絡我們\" class=\"button\">我要報名！</a>\r\n<hr />\r\n\r\n\r\n<h2 class=\"text-align-center\">活動攀岩車</h2>\r\n<img
@@ -738,7 +750,7 @@ refinery_page_parts:
       fa-phone\"></em> 聯絡我們<br />0939-625-099</a>"
     - '0'
     - '2014-11-17 06:39:46.070576'
-    - '2014-12-16 05:44:53.302697'
+    - '2014-12-22 05:38:27.952627'
   - - '13'
     - '6'
     - Side Body
@@ -1129,17 +1141,29 @@ refinery_page_parts:
   - - '42'
     - '20'
     - Body
-    - "<h2 class=\"text-align-center\">吉爾吉斯 登山之心 省思</h2>\r\n<p>此行最大收獲是看見攀登的企圖與裝備在環境運用上選擇的差異!!</p>\r\n<p>&gt;&gt;
-      論成敗不一定在起點，而是在轉折點!!</p>\r\n<p>&gt;&gt; 知識給了你判斷!!</p>\r\n<p>&gt;&gt; 天候給了你機會!!</p>\r\n<p>&gt;&gt;
-      體力技術、經驗學習、態度思維決定你的高度!!</p>\r\n<hr />\r\n<h2>咚咚今天很棒！腳踏車騎了十公里還差點被狗咬！午餐一起煮了松子炒飯和昨天的山藥排骨！是鼓勵和壓驚！</h2>\r\n<hr
-      />\r\n<h2 class=\"text-align-center\">深感無力！從老花眼鏡的依賴面對每天小螢幕的手機和電腦行政的摧殘！原本正常的視力漸漸顯得糢湖！是習慣該脫離還是年紀？我要我的青山綠水啦！</h2>\r\n<hr
-      />\r\n<h2 class=\"text-align-center\">入園未核依然前往探尖稜！內心的惡魔終敵不過安全規範！回頭下海去了！</h2>\r\n<hr
-      />\r\n<h2 class=\"text-align-center\">身處異地！能在高原冰川奔馳是一大享受！</h2>\r\n<hr />\r\n<h2
-      class=\"text-align-center\">有些事越說越亂！進退兩難！只能忍痛（琨增帥哥）合歡團報雪訓取消了！</h2>\r\n<hr />\r\n<h2
-      class=\"text-align-center\">為什麼喜歡爬山，不需要原因，山就是這麼美，快下雪吧!兄弟準備好了嗎?</h2>\r\n<hr />"
+    - "<h2 class=\"text-align-left\">熱血友人 Q : 參加極限運動費用是不是都很貴??</h2>\r\n<p>A：親身體驗的回憶是無價的，小鬍子為您規劃屬於您合適的冒險旅程，在我們的「服務項目」中，每項活動的「教學體驗」</p>\r\n<p>　　皆有報價可做為參考，為確保個人安全，每項活動費用包含了\"個人保險\"，希望有個愉快、平安的旅程。</p>\r\n<h2
+      class=\"text-align-left\">熱血友人 Q : 小鬍子教練今年幾歲?</h2>\r\n<p>A：身高不是距離，年齡不是問題，但小鬍子教練永遠保有一顆20歲年輕、熱血赤子之心!!&#160;</p>\r\n<p>　　如果您也勇於冒險，歡迎加入我們的團隊!!</p>\r\n<h2
+      class=\"text-align-left\">熱血友人 Q : 覺得體能不足，也可以參加極限運動嗎?</h2>\r\n<p>A：沒有經驗、沒有訓練，沒有關係，只要保持一顆年輕、冒險赤子之心，小鬍子會為您量身規劃，屬於您的一趟冒險旅程。</p>\r\n<p>&#160;
+      &#160; &#160; &#160;途中會有教練團不斷協助您完成每項挑戰。</p>\r\n<h2 class=\"text-align-left\">熱血友人
+      Q : 從小到大沒參加過極限運動，很想嚐試，該如何準備起呢?&#160;</h2>\r\n<p class=\"text-align-left\"><span
+      style=\"background-color: transparent;\">A：只要與我們聯絡，倘開心腓，把自己交給我們，沒有經驗也能給您一個不一樣的體驗。有心臟病、心血管疾病、高山症、</span>\r\n</p>\r\n<p
+      class=\"text-align-left\"><span style=\"background-color: transparent;\">　　近期有開刀...
+      等，各種身體狀況，請在行前告知，讓這趟旅程更盡興愉快!!</span>\r\n</p>\r\n<h2 class=\"text-align-left\">熱血友人
+      Q : 怎麼樣報名?&#160;</h2>\r\n<p>A：參考我們的「服務項目」，對任何一項活動有興趣者，點「我要報名」或來電0939-625-099，由小鬍子親自為您服務!!</p>\r\n<h2
+      class=\"text-align-center\">雪訊叮嚀</h2> <img src=\"http://i.imgur.com/PkgZBjM.jpg?2\"
+      />\r\n<p>小鬍子冒險學校雪訓證明只針對參加雪訓的同學在學習上的一個證明。</p>\r\n<p>初級雪訓是個人進入雪地環境最低的自我保護！而雪訓過程也會因天侯環境地形課程有所差異與技術經驗帶隊無絕對關係！</p>\r\n<p>然國家公園制定了雪季入山申請之雪訓證明用意良善！國家公園也會對此初級雪訓結業證明裁量檢視！</p>\r\n<p>小鬍子希望的是參加雪訓者能獲得增進雪地安全技能！而非一張證明而已！</p>\r\n<p>願大家雪地登山平安！</p>\r\n<hr
+      />\r\n<h2 class=\"text-align-center\">吉爾吉斯 登山之心 省思</h2> <img src=\"http://i.imgur.com/6zRC8sB.jpg?1\"
+      />\r\n<p>此行最大收獲是看見攀登的企圖與裝備在環境運用上選擇的差異!!</p>\r\n<p>&gt;&gt; 論成敗不一定在起點，而是在轉折點!!</p>\r\n<p>&gt;&gt;
+      知識給了你判斷!!</p>\r\n<p>&gt;&gt; 天候給了你機會!!</p>\r\n<p>&gt;&gt; 體力技術、經驗學習、態度思維決定你的高度!!</p>\r\n<hr
+      />\r\n<h2>咚咚今天很棒！腳踏車騎了十公里還差點被狗咬！午餐一起煮了松子炒飯和昨天的山藥排骨！是鼓勵和壓驚！</h2> <img src=\"http://i.imgur.com/8YRAjwk.jpg?1\"
+      />\r\n<hr />\r\n<h2 class=\"text-align-center\">深感無力！從老花眼鏡的依賴面對每天小螢幕的手機和電腦行政的摧殘！原本正常的視力漸漸顯得糢湖！是習慣該脫離還是年紀？我要我的青山綠水啦！</h2>
+      <img src=\"http://i.imgur.com/0dgH0bu.jpg?1\" />\r\n<hr />\r\n<h2 class=\"text-align-center\">身處異地！能在高原冰川奔馳是一大享受！</h2>
+      <img src=\"http://i.imgur.com/xtsaW5F.jpg?1\" />\r\n<hr />\r\n<h2 class=\"text-align-center\">為什麼喜歡爬山，不需要原因，山就是這麼美，快下雪吧!兄弟準備好了嗎?</h2>
+      <img src=\"http://i.imgur.com/EYmh4LO.jpg?1\" class=\"selected_by_wym\" />\r\n<hr
+      />"
     - '0'
     - '2014-12-08 07:00:39.217081'
-    - '2014-12-16 05:40:36.843064'
+    - '2014-12-22 05:33:34.078276'
   - - '43'
     - '20'
     - Side Body
@@ -1354,10 +1378,10 @@ refinery_pages:
     - '23'
     - '24'
     - '0'
-    - page
+    - team
     - application
     - '2014-11-17 06:39:46.065683'
-    - '2014-12-08 14:46:26.696904'
+    - '2014-12-22 02:42:49.78282'
   - - '7'
     - 
     - 
@@ -1378,7 +1402,7 @@ refinery_pages:
   - - '8'
     - '4'
     - 
-    - "攀岩體驗"
+    - "極限攀岩"
     - true
     - ''
     - 
@@ -1391,11 +1415,11 @@ refinery_pages:
     - page
     - application
     - '2014-11-29 04:11:06.161228'
-    - '2014-12-08 14:23:33.761673'
+    - '2014-12-22 05:34:57.923159'
   - - '9'
     - '4'
     - 
-    - "攀樹體驗"
+    - "趣味攀樹"
     - true
     - ''
     - 
@@ -1408,11 +1432,11 @@ refinery_pages:
     - page
     - application
     - '2014-11-29 04:11:37.500485'
-    - '2014-12-08 14:23:52.501612'
+    - '2014-12-22 05:35:31.141005'
   - - '10'
     - '4'
     - 
-    - "溯溪體驗"
+    - "野外溯溪"
     - true
     - ''
     - 
@@ -1425,7 +1449,7 @@ refinery_pages:
     - page
     - application
     - '2014-11-29 04:15:52.319794'
-    - '2014-12-08 14:24:06.966655'
+    - '2014-12-22 05:35:46.124059'
   - - '11'
     - '4'
     - 
@@ -1599,29 +1623,29 @@ refinery_page_translations:
     - '8'
     - en
     - '2014-11-29 04:11:06.101119'
-    - '2014-11-29 11:15:46.200508'
+    - '2014-12-22 05:34:57.925495'
     - Rock Climbing
     - 
-    - "攀岩體驗"
-    - "攀岩體驗"
+    - "極限攀岩"
+    - "極限攀岩"
   - - '9'
     - '9'
     - en
     - '2014-11-29 04:11:37.496197'
-    - '2014-11-29 04:17:06.649456'
+    - '2014-12-22 05:35:31.142866'
     - Tree Climbing
     - 
-    - "攀樹體驗"
-    - "攀樹體驗"
+    - "趣味攀樹"
+    - "趣味攀樹"
   - - '10'
     - '10'
     - en
     - '2014-11-29 04:15:52.314946'
-    - '2014-11-29 04:15:52.321326'
+    - '2014-12-22 05:35:46.125952'
     - River Tracing
     - 
-    - "溯溪體驗"
-    - "溯溪體驗"
+    - "野外溯溪"
+    - "野外溯溪"
   - - '11'
     - '11'
     - en
