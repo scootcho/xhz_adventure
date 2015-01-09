@@ -579,14 +579,26 @@ refinery_page_part_translations:
     - '56'
     - en
     - '2014-12-08 17:39:08.098471'
-    - '2014-12-08 17:39:36.778279'
-    - "<div class=\"row\">\r\n  <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n
-      \   <a href=\"/活動體驗\"><img src=\"/front1.jpg\" /></a>\r\n    <h4>活動體驗</h4>\r\n
-      \   \r\n  </div>\r\n  <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n
-      \   <a href=\"/課程訓練\"><img src=\"/front2.jpg\" /></a>\r\n    <h4>課程訓練</h4>\r\n
-      \   \r\n  </div>\r\n  <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n
-      \   <a href=\"/專案規劃\"><img src=\"/front3.jpg\" /></a>\r\n    <h4>專案規劃</h4>\r\n
-      \   \r\n  </div>\r\n</div>"
+    - '2015-01-09 06:39:35.656258'
+    - "<div id=\"servicesect\">\r\n\t<div class=\"small-3 small-centered columns homesection\">\r\n\t\t<h1>服務項目</h1>\r\n\r\n\t\t<em
+      class=\"fa fa-compass fa-2x\"></em>\r\n\t</div>\r\n\r\n<p class=\"text-align-center\">員工旅遊、休閒育樂、極限挑戰、親子活動</p>\r\n\t<div
+      class=\"row\">\r\n\t\t<div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>極限攀岩</h2>\r\n\t\t\t<a
+      href=\"/服務項目/極限攀岩\"><img src=\"/services/rockclimb.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t膽大心細，攀岩一點都不難！\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>趣味攀樹</h2>\r\n\t\t\t<a
+      href=\"/服務項目/趣味攀樹\"><img src=\"/services/treeclimb.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t在不同的高度，有不同的視野，不同的心情喔～\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>野外溯溪</h2>\r\n\t\t\t<a
+      href=\"/服務項目/野外溯溪\"><img src=\"/services/rivertrace.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t夏天!就是要玩水~\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<div
+      class=\"row\">\r\n\t\t<div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>綜合登山</h2>\r\n\t\t\t<a
+      href=\"/服務項目/綜合登山\"><img src=\"/services/mtclimb.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t放眼望去，連綿到天邊的雲海，這只能要親眼見到才能明白的感動。\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>高空滑降</h2>\r\n\t\t\t<a
+      href=\"/服務項目/高空滑降\"><img src=\"/services/zipline.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t啊~啊~啊~~把你的所有恐懼吶喊出來吧!!\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>大海浮潛</h2>\r\n\t\t\t<a
+      href=\"/服務項目/大海浮潛\"><img src=\"/services/snorkel.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t跟美麗的熱帶魚～零距離的接觸喔！\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<div
+      class=\"row\">\r\n\t\t<div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>冰雪攀登</h2>\r\n\t\t\t<a
+      href=\"/服務項目/冰雪攀登\"><img src=\"/courses/iccourse.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t安全確保～是雪地訓練最重要的事！\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>海外攀登</h2>\r\n\t\t\t<a
+      href=\"/服務項目/海外攀登\"><img src=\"/courses/overseas.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t神山特殊的地質，讓無數的攀岩者也想來試試自己的膽量與技術。\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t\r\n\t\t</div>\r\n\t</div>\r\n\r\n</div>\r\n"
 
 ---
 refinery_roles_users:
@@ -1396,16 +1408,28 @@ refinery_page_parts:
   - - '56'
     - '1'
     - Services
-    - "<div class=\"row\">\r\n  <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n
-      \   <a href=\"/活動體驗\"><img src=\"/front1.jpg\" /></a>\r\n    <h4>活動體驗</h4>\r\n
-      \   \r\n  </div>\r\n  <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n
-      \   <a href=\"/課程訓練\"><img src=\"/front2.jpg\" /></a>\r\n    <h4>課程訓練</h4>\r\n
-      \   \r\n  </div>\r\n  <div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n
-      \   <a href=\"/專案規劃\"><img src=\"/front3.jpg\" /></a>\r\n    <h4>專案規劃</h4>\r\n
-      \   \r\n  </div>\r\n</div>"
+    - "<div id=\"servicesect\">\r\n\t<div class=\"small-3 small-centered columns homesection\">\r\n\t\t<h1>服務項目</h1>\r\n\r\n\t\t<em
+      class=\"fa fa-compass fa-2x\"></em>\r\n\t</div>\r\n\r\n<p class=\"text-align-center\">員工旅遊、休閒育樂、極限挑戰、親子活動</p>\r\n\t<div
+      class=\"row\">\r\n\t\t<div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>極限攀岩</h2>\r\n\t\t\t<a
+      href=\"/服務項目/極限攀岩\"><img src=\"/services/rockclimb.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t膽大心細，攀岩一點都不難！\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>趣味攀樹</h2>\r\n\t\t\t<a
+      href=\"/服務項目/趣味攀樹\"><img src=\"/services/treeclimb.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t在不同的高度，有不同的視野，不同的心情喔～\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>野外溯溪</h2>\r\n\t\t\t<a
+      href=\"/服務項目/野外溯溪\"><img src=\"/services/rivertrace.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t夏天!就是要玩水~\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<div
+      class=\"row\">\r\n\t\t<div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>綜合登山</h2>\r\n\t\t\t<a
+      href=\"/服務項目/綜合登山\"><img src=\"/services/mtclimb.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t放眼望去，連綿到天邊的雲海，這只能要親眼見到才能明白的感動。\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>高空滑降</h2>\r\n\t\t\t<a
+      href=\"/服務項目/高空滑降\"><img src=\"/services/zipline.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t啊~啊~啊~~把你的所有恐懼吶喊出來吧!!\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>大海浮潛</h2>\r\n\t\t\t<a
+      href=\"/服務項目/大海浮潛\"><img src=\"/services/snorkel.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t跟美麗的熱帶魚～零距離的接觸喔！\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<div
+      class=\"row\">\r\n\t\t<div class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>冰雪攀登</h2>\r\n\t\t\t<a
+      href=\"/服務項目/冰雪攀登\"><img src=\"/courses/iccourse.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t安全確保～是雪地訓練最重要的事！\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t<h2>海外攀登</h2>\r\n\t\t\t<a
+      href=\"/服務項目/海外攀登\"><img src=\"/courses/overseas.jpg\" /></a>\r\n\t\t\t<p>\r\n\t\t\t\t神山特殊的地質，讓無數的攀岩者也想來試試自己的膽量與技術。\r\n\t\t\t</p>\r\n\t\t</div>\r\n\r\n\t\t<div
+      class=\"medium-4 columns\" style=\"text-align:center;\">\r\n\t\t\t\r\n\t\t</div>\r\n\t</div>\r\n\r\n</div>\r\n"
     - '3'
     - '2014-12-08 17:39:08.096448'
-    - '2014-12-08 17:39:36.776758'
+    - '2015-01-09 06:39:35.654054'
 
 ---
 refinery_pages:
